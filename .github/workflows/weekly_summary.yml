@@ -1,0 +1,37 @@
+name: Weekly Reddit Summary
+
+on:
+  schedule:
+    - cron: "0 13 * * 5"   # Fridays 13:00 UTC - adjust to your timezone
+  workflow_dispatch:
+
+# Needed so the job can commit the weekly archive back into the repo.
+permissions:
+  contents: write
+
+jobs:
+  weekly-summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Build and post weekly summary
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
+        run: python weekly_summary.py
+      - name: Commit archive
+        run: |
+          if [ -z "$(git status --porcelain archive/)" ]; then
+            echo "No new archive - nothing to commit."; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/
+          git commit -m "Weekly summary $(date -u +%G-W%V)"
+          git push
