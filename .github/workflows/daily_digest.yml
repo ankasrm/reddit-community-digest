@@ -1,0 +1,35 @@
+name: Daily Reddit Digest
+
+on:
+  schedule:
+    - cron: "0 7 * * 1-5"   # weekdays 07:00 UTC - adjust to your timezone
+  workflow_dispatch:
+
+# Needed so the job can commit the daily log back into the repo.
+permissions:
+  contents: write
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run digest
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python digest.py
+      - name: Commit daily log
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "No new log - nothing to commit."; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Daily log $(date -u +%Y-%m-%d)"
+          git push
