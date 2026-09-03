@@ -1,17 +1,17 @@
 {
-  "_comment": "Edit this file to adapt the digest to your brand and community. Every key is documented in README.md.",
+  "_comment": "Edit this file to adapt the digest to your brand and community. Every key is documented in README.md. The shipped example is a fictional web-hosting company.",
 
   "brand": {
     "name": "ExampleHost",
-    "description": "a podcast hosting company (hosting, analytics, distribution, monetization)",
-    "audiences": "solo creators, marketing teams in small companies, professional podcast producers",
-    "website": "example.com"
+    "description": "a web hosting company (shared and managed WordPress hosting, VPS, domains, email, SSL, backups)",
+    "audiences": "freelancers and small agencies building client sites, small business owners running their own website, developers who want managed infrastructure",
+    "website": "examplehost.com"
   },
 
   "sources": {
-    "subreddits": ["podcasting", "podcasts", "podcast", "podcastads"],
+    "subreddits": ["webhosting", "Wordpress", "webdev", "smallbusiness"],
     "timeframe": "day",
-    "secondary_subreddits": ["de_podcasts"],
+    "secondary_subreddits": ["de_EDV", "webentwicklung"],
     "secondary_timeframe": "week"
   },
 
@@ -41,43 +41,47 @@
   },
 
   "keywords": [
-    "podcast hosting", "podcast analytics", "podcast ads", "podcast monetization",
-    "rss feed", "podcast platform", "podcast distribution", "podcast statistics",
-    "podcast player", "podcast network", "podcast revenue", "podcast growth",
-    "podcast marketing", "podcast seo", "podcast download", "podcast listener",
-    "podcast sponsor", "podcast production", "video podcast"
+    "web hosting", "website hosting", "shared hosting", "managed hosting",
+    "wordpress hosting", "vps hosting", "cloud hosting", "dedicated server",
+    "hosting provider", "domain name", "ssl certificate", "site speed",
+    "page speed", "server migration", "website migration", "hosting price",
+    "hosting renewal", "site backup", "staging site", "email hosting",
+    "uptime", "downtime", "control panel"
   ],
 
   "relevance_concepts": [
     {"name": "brand", "weight": 8, "patterns": ["examplehost"]},
     {"name": "competitor", "weight": 5, "patterns": [
-      "podbean", "buzzsprout", "transistor\\w*", "captivate", "acast", "libsyn",
-      "simplecast", "megaphone", "spreaker", "ausha", "redcircle", "anchor\\.fm",
-      "spotify for podcasters", "riverside", "descript", "audacity", "reaper",
-      "hindenburg", "garageband", "adobe audition"]},
+      "hostinger", "siteground", "bluehost", "godaddy", "kinsta", "wp ?engine",
+      "cloudways", "dreamhost", "a2 ?hosting", "namecheap", "hetzner", "ionos",
+      "strato", "all-?inkl", "digital ?ocean", "linode", "vultr", "flywheel",
+      "hostgator", "wix", "squarespace"]},
     {"name": "switching", "weight": 5, "patterns": [
-      "switch\\w*", "migrat\\w*", "leaving", "leave", "moved my show", "move my show",
-      "alternative\\w*", "cancel\\w*"]},
-    {"name": "hosting", "weight": 3, "patterns": ["hosting", "hosts?", "host(ing)? site", "host(ing)? platform"]},
-    {"name": "analytics", "weight": 3, "patterns": ["analytics?", "stats", "downloads?", "listeners?", "metrics?", "iab"]},
-    {"name": "money", "weight": 3, "patterns": ["monetiz\\w*", "sponsors?\\w*", "revenue", "pricing", "prices?", "subscriptions?", "paywall", "ads?", "cpm"]},
-    {"name": "distribution", "weight": 2, "patterns": ["rss", "feeds?", "distribut\\w*", "director(y|ies)", "discoverabilit\\w*", "submission"]},
-    {"name": "tech", "weight": 2, "patterns": ["transcripts?", "chapters?", "api", "embed\\w*", "seo"]},
-    {"name": "platform", "weight": 1, "patterns": ["apple podcasts?", "spotify", "youtube", "amazon music", "overcast", "pocket ?casts?"]}
+      "switch\\w*", "migrat\\w*", "leaving", "leave", "moved my site", "move my site",
+      "alternative\\w*", "cancel\\w*", "renewal price", "price hike", "price increase"]},
+    {"name": "hosting", "weight": 3, "patterns": ["hosting", "hosts?", "hoster", "shared", "vps", "dedicated", "managed"]},
+    {"name": "performance", "weight": 3, "patterns": ["speed", "slow", "uptime", "downtime", "outage", "ttfb", "core web vitals", "cdn", "cache", "caching"]},
+    {"name": "money", "weight": 3, "patterns": ["pricing", "prices?", "renewal", "cost\\w*", "cheap\\w*", "expensive", "refund", "billing", "invoice"]},
+    {"name": "security", "weight": 2, "patterns": ["ssl", "https", "hacked", "malware", "backup\\w*", "ddos", "firewall", "2fa"]},
+    {"name": "support", "weight": 2, "patterns": ["support", "ticket", "live chat", "customer service", "help ?desk"]},
+    {"name": "tech", "weight": 2, "patterns": ["dns", "nameserver\\w*", "cpanel", "plesk", "php", "nginx", "apache", "docker", "staging", "ssh", "sftp", "email"]},
+    {"name": "platform", "weight": 1, "patterns": ["wordpress", "woocommerce", "shopify", "webflow", "cloudflare", "elementor"]}
   ],
 
   "topic_categories": [
-    {"name": "Monetization & Sponsorships", "fragments": ["monetiz", "sponsor", " ad ", " ads", "advertis", "revenue", "income", "cpm", "patreon", "membership", "premium", "paid", "money", "earn"]},
-    {"name": "Hosting & Distribution", "fragments": ["hosting", "rss feed", "distribut", "buzzsprout", "anchor", "podbean", "captivate", "transistor", "libsyn", "megaphone", "spreaker", "acast", "simplecast", "feed", "podcast host", "switch host"]},
-    {"name": "Platform & Directory Issues", "fragments": ["spotify", "apple podcast", "amazon music", "youtube", "overcast", "pocket cast", "directory", "submission", "not showing", "disappeared", "removed", "rejected"]},
-    {"name": "Analytics & Stats", "fragments": ["analytics", "stats", "statistic", "download", "metric", "chart", "data", "listener count", "numbers", "dropped", "spike", "traffic", "impressions", "reach"]},
-    {"name": "Equipment & Audio Quality", "fragments": ["microphone", "mic ", "audio quality", "recording", "studio", "gear", "equipment", "mixer", "interface", "headphone", "sound quality", "noise", "acoustics", "usb mic", "xlr"]},
-    {"name": "Editing & Production", "fragments": ["edit", "descript", "audacity", "adobe audition", "garageband", "logic pro", "reaper", "hindenburg", "production", "workflow", "chapters", "transcript", "show notes"]},
-    {"name": "Growth & Marketing", "fragments": ["grow", "growth", "market", "promot", "discoverab", "audience", "listener", "subscriber", "seo", "ranking", "social media", "instagram", "tiktok", "trailer", "clip", "shorts"]},
-    {"name": "Starting Out & Beginner Questions", "fragments": ["start", "beginner", "new podcast", "first episode", "launch", "getting started", "advice", "tips for new", "how to begin", "should i start"]},
-    {"name": "Technical & Integration", "fragments": ["api", "plugin", "script", "webhook", "integration", "embed", "automation", "cms", "wordpress", "website", "technical issue", "error", "broken", "bug"]},
-    {"name": "Interviews & Format", "fragments": ["interview", "guest", "co-host", "remote record", "format", "solo", "narrative", "series", "season", "episode length"]},
-    {"name": "Industry & Business News", "fragments": ["industry", "acquisition", "merger", "layoff", "trend", "news", "report", "survey", "study", "research"]}
+    {"name": "Pricing & Renewals", "fragments": ["pricing", "price", "renewal", "cost", "cheap", "expensive", "refund", "billing", "invoice", "discount", "coupon"]},
+    {"name": "Choosing a Host", "fragments": ["which host", "best host", "recommend", "hosting provider", "shared hosting", "managed hosting", "vps", "dedicated", "cloud hosting", "looking for a host"]},
+    {"name": "Migration & Switching", "fragments": ["migrat", "switch", "move my site", "transfer", "leaving", "alternative", "cancel"]},
+    {"name": "Speed & Performance", "fragments": ["slow", "speed", "ttfb", "core web vitals", "lighthouse", "cache", "cdn", "load time", "optimi"]},
+    {"name": "Uptime & Outages", "fragments": ["down", "outage", "uptime", "502", "503", "504", "not loading", "unreachable"]},
+    {"name": "Security & Backups", "fragments": ["hacked", "malware", "ssl", "https", "backup", "ddos", "firewall", "2fa", "phishing", "brute force"]},
+    {"name": "Domains & DNS", "fragments": ["domain", "dns", "nameserver", "propagat", "registrar", "whois", "subdomain"]},
+    {"name": "Email", "fragments": ["email", "smtp", "imap", "spf", "dkim", "dmarc", "spam", "mailbox"]},
+    {"name": "WordPress & CMS", "fragments": ["wordpress", "woocommerce", "plugin", "theme", "elementor", "gutenberg", "php version", "update"]},
+    {"name": "Support Experience", "fragments": ["support", "ticket", "live chat", "customer service", "response time", "rude", "helpful"]},
+    {"name": "Developer & DevOps", "fragments": ["docker", "ssh", "git", "deploy", "ci/cd", "nginx", "apache", "staging", "cron", "cli"]},
+    {"name": "Starting Out & Beginner Questions", "fragments": ["beginner", "first website", "getting started", "how do i", "new to", "should i", "advice"]},
+    {"name": "Industry & Business News", "fragments": ["acquisition", "acquired", "merger", "layoff", "shutting down", "announce", "news", "report", "survey"]}
   ],
   "default_topic": "General",
 

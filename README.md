@@ -8,7 +8,7 @@ Runs entirely on GitHub Actions. No server, no database, no Reddit API key.
 
 **Every weekday** — a Slack post with:
 
-- **At a glance** — the day's posts grouped by topic (monetization, hosting, growth, gear, …)
+- **At a glance** — the day's posts grouped by topic (pricing, migration, performance, support, …)
 - **Top 10 posts** from your subreddits
 - **Relevant for marketing** — posts that mention your brand, a competitor, an intent to switch, pricing, etc.
 - **Secondary-language block** (optional) — posts in a second language that would otherwise be drowned out by the big English subreddits
@@ -41,7 +41,7 @@ The schedules live in `.github/workflows/*.yml` (cron in UTC). Adjust to your ti
 
 ## Configuration
 
-Everything brand-specific lives in `config.json`. The shipped example is set up for a fictional podcast-hosting company — replace it with your own world.
+Everything brand-specific lives in `config.json`. The shipped example is set up for a fictional web-hosting company ("ExampleHost") — replace it with your own brand, subreddits and competitors.
 
 | Key | What it does |
 |---|---|
