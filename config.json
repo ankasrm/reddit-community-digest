@@ -1,0 +1,93 @@
+{
+  "_comment": "Edit this file to adapt the digest to your brand and community. Every key is documented in README.md.",
+
+  "brand": {
+    "name": "ExampleHost",
+    "description": "a podcast hosting company (hosting, analytics, distribution, monetization)",
+    "audiences": "solo creators, marketing teams in small companies, professional podcast producers",
+    "website": "example.com"
+  },
+
+  "sources": {
+    "subreddits": ["podcasting", "podcasts", "podcast", "podcastads"],
+    "timeframe": "day",
+    "secondary_subreddits": ["de_podcasts"],
+    "secondary_timeframe": "week"
+  },
+
+  "language_block": {
+    "enabled": true,
+    "label": "German",
+    "emoji": ":flag-de:",
+    "min_marker_hits": 3,
+    "markers": [
+      " der ", " die ", " das ", " und ", " nicht ", " ist ", " ich ", " wir ",
+      " mit ", " fuer ", " für ", " auf ", " eine ", " einen ", " einem ", " kein ",
+      " auch ", " schon ", " noch ", " aber ", " oder ", " wie ", " was ", " wenn ",
+      " mehr ", " sehr ", " mal ", " bei ", " von ", " zum ", " zur ", " sich ",
+      " habe ", " hat ", " sind ", " werden ", " kann ", " koennen ", " können ",
+      " meine ", " unser ", " euch ", " ihr ", " dass ", " weil ", " gibt "
+    ]
+  },
+
+  "digest": {
+    "title": "Reddit Digest",
+    "top_n": 10,
+    "marketing_top_n": 5,
+    "language_top_n": 5,
+    "marketing_min_score": 8,
+    "marketing_min_concepts": 2,
+    "request_pause_seconds": 2.0
+  },
+
+  "keywords": [
+    "podcast hosting", "podcast analytics", "podcast ads", "podcast monetization",
+    "rss feed", "podcast platform", "podcast distribution", "podcast statistics",
+    "podcast player", "podcast network", "podcast revenue", "podcast growth",
+    "podcast marketing", "podcast seo", "podcast download", "podcast listener",
+    "podcast sponsor", "podcast production", "video podcast"
+  ],
+
+  "relevance_concepts": [
+    {"name": "brand", "weight": 8, "patterns": ["examplehost"]},
+    {"name": "competitor", "weight": 5, "patterns": [
+      "podbean", "buzzsprout", "transistor\\w*", "captivate", "acast", "libsyn",
+      "simplecast", "megaphone", "spreaker", "ausha", "redcircle", "anchor\\.fm",
+      "spotify for podcasters", "riverside", "descript", "audacity", "reaper",
+      "hindenburg", "garageband", "adobe audition"]},
+    {"name": "switching", "weight": 5, "patterns": [
+      "switch\\w*", "migrat\\w*", "leaving", "leave", "moved my show", "move my show",
+      "alternative\\w*", "cancel\\w*"]},
+    {"name": "hosting", "weight": 3, "patterns": ["hosting", "hosts?", "host(ing)? site", "host(ing)? platform"]},
+    {"name": "analytics", "weight": 3, "patterns": ["analytics?", "stats", "downloads?", "listeners?", "metrics?", "iab"]},
+    {"name": "money", "weight": 3, "patterns": ["monetiz\\w*", "sponsors?\\w*", "revenue", "pricing", "prices?", "subscriptions?", "paywall", "ads?", "cpm"]},
+    {"name": "distribution", "weight": 2, "patterns": ["rss", "feeds?", "distribut\\w*", "director(y|ies)", "discoverabilit\\w*", "submission"]},
+    {"name": "tech", "weight": 2, "patterns": ["transcripts?", "chapters?", "api", "embed\\w*", "seo"]},
+    {"name": "platform", "weight": 1, "patterns": ["apple podcasts?", "spotify", "youtube", "amazon music", "overcast", "pocket ?casts?"]}
+  ],
+
+  "topic_categories": [
+    {"name": "Monetization & Sponsorships", "fragments": ["monetiz", "sponsor", " ad ", " ads", "advertis", "revenue", "income", "cpm", "patreon", "membership", "premium", "paid", "money", "earn"]},
+    {"name": "Hosting & Distribution", "fragments": ["hosting", "rss feed", "distribut", "buzzsprout", "anchor", "podbean", "captivate", "transistor", "libsyn", "megaphone", "spreaker", "acast", "simplecast", "feed", "podcast host", "switch host"]},
+    {"name": "Platform & Directory Issues", "fragments": ["spotify", "apple podcast", "amazon music", "youtube", "overcast", "pocket cast", "directory", "submission", "not showing", "disappeared", "removed", "rejected"]},
+    {"name": "Analytics & Stats", "fragments": ["analytics", "stats", "statistic", "download", "metric", "chart", "data", "listener count", "numbers", "dropped", "spike", "traffic", "impressions", "reach"]},
+    {"name": "Equipment & Audio Quality", "fragments": ["microphone", "mic ", "audio quality", "recording", "studio", "gear", "equipment", "mixer", "interface", "headphone", "sound quality", "noise", "acoustics", "usb mic", "xlr"]},
+    {"name": "Editing & Production", "fragments": ["edit", "descript", "audacity", "adobe audition", "garageband", "logic pro", "reaper", "hindenburg", "production", "workflow", "chapters", "transcript", "show notes"]},
+    {"name": "Growth & Marketing", "fragments": ["grow", "growth", "market", "promot", "discoverab", "audience", "listener", "subscriber", "seo", "ranking", "social media", "instagram", "tiktok", "trailer", "clip", "shorts"]},
+    {"name": "Starting Out & Beginner Questions", "fragments": ["start", "beginner", "new podcast", "first episode", "launch", "getting started", "advice", "tips for new", "how to begin", "should i start"]},
+    {"name": "Technical & Integration", "fragments": ["api", "plugin", "script", "webhook", "integration", "embed", "automation", "cms", "wordpress", "website", "technical issue", "error", "broken", "bug"]},
+    {"name": "Interviews & Format", "fragments": ["interview", "guest", "co-host", "remote record", "format", "solo", "narrative", "series", "season", "episode length"]},
+    {"name": "Industry & Business News", "fragments": ["industry", "acquisition", "merger", "layoff", "trend", "news", "report", "survey", "study", "research"]}
+  ],
+  "default_topic": "General",
+
+  "weekly": {
+    "title": "Reddit Weekly Summary",
+    "output_language": "English",
+    "model": "claude-sonnet-4-5",
+    "days": 7,
+    "min_relevance": 3,
+    "max_candidates": 70,
+    "max_items_per_section": 5
+  }
+}
