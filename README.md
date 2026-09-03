@@ -28,14 +28,17 @@ All fetched posts are stored as `data/YYYY-MM-DD.json` in the repo, so you can r
 
 1. **Use this repo** — click *Use this template* (or fork/clone it).
 2. **Edit `config.json`** — at minimum: your brand name, the subreddits, and the `brand` pattern in `relevance_concepts`. See [Configuration](#configuration).
-3. **Create a Slack incoming webhook** — Slack → Apps → *Incoming Webhooks* → pick a channel → copy the URL.
-4. **Add secrets** in your repo under *Settings → Secrets and variables → Actions*:
-   | Secret | Required | What |
-   |---|---|---|
-   | `SLACK_WEBHOOK_URL` | yes | the webhook from step 3 |
-   | `ANTHROPIC_API_KEY` | for the weekly summary | key from [console.anthropic.com](https://console.anthropic.com). Without it, the weekly post falls back to a rule-based list. |
-   | `ANTHROPIC_WORKSPACE_ID` | only for identity-linked keys | if the run logs `anthropic-workspace-id is required`, add your workspace ID here — or create a regular workspace key instead. |
-5. **Test** — *Actions → Daily Reddit Digest → Run workflow*. The first post should land in Slack within a minute. Then run *Weekly Reddit Summary* once a few daily logs exist.
+3. **Create a Slack incoming webhook** — in Slack open *Apps → Incoming Webhooks* (or [api.slack.com/messaging/webhooks](https://api.slack.com/messaging/webhooks)), pick the channel the digest should post to, and copy the URL that starts with `https://hooks.slack.com/services/...`.
+4. **Get an Anthropic API key** (optional, needed for the Claude-written weekly summary) — in [console.anthropic.com](https://console.anthropic.com) go to *API Keys → Create Key* and copy it. Without a key the weekly post still runs, but as a rule-based list without interpretation.
+5. **Add both as repository secrets** — in your repo: *Settings → Secrets and variables → Actions → New repository secret*.
+
+| Secret name | Required | Value |
+|---|---|---|
+| `SLACK_WEBHOOK_URL` | yes | the webhook URL from step 3 |
+| `ANTHROPIC_API_KEY` | for the weekly summary | the API key from step 4 |
+| `ANTHROPIC_WORKSPACE_ID` | only for identity-linked keys | if a run logs `anthropic-workspace-id is required`, add your workspace ID here — or create a regular workspace key instead |
+
+**Test it:** *Actions → Daily Reddit Digest → Run workflow*. The first post should land in Slack within a minute. Run *Weekly Reddit Summary* the same way once a few daily logs exist.
 
 The schedules live in `.github/workflows/*.yml` (cron in UTC). Adjust to your timezone.
 
