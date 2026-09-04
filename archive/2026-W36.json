@@ -1,0 +1,89 @@
+{
+ "week": "2026-W36",
+ "generated_utc": "2026-09-04T16:37:32.331402+00:00",
+ "days": [
+  "2026-09-04"
+ ],
+ "stats": {
+  "post_count": 2,
+  "by_sub": {
+   "webhosting": 2
+  },
+  "by_group": {
+   "hosting": 2,
+   "security": 1,
+   "platform": 1
+  },
+  "language_count": 0,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "hosting (2 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Stackcp hosting",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w6foms/stackcp_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "My server got wiped.. what now?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w6v54a/my_server_got_wiped_what_now/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "security (1 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Stackcp hosting",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w6foms/stackcp_hosting/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "platform (1 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Stackcp hosting",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w6foms/stackcp_hosting/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Stackcp hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w6foms/stackcp_hosting/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "security",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "My server got wiped.. what now?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w6v54a/my_server_got_wiped_what_now/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  }
+ ]
+}
