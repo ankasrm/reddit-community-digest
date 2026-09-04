@@ -1,0 +1,83 @@
+{
+ "date": "2026-09-04",
+ "generated_utc": "2026-09-04T11:52:04.728621+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "2",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 2,
+ "digest_count": 2,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Stackcp hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w6foms/stackcp_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "platform"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "So recently I remade a website for a small company I work for. My new website is completley static and I wrote all the html, css and js files myself on my pc. The old website was made through wordpress. Is it as simple as deleting the wordpress files from the file manager and adding my own (whilst making a backup of course) or is there more I need to do? The domain name and therefor certificates should all stay the same right? Im sorry if this is a basic question but all the help out there is trying to get me to use wordpress or another site builder."
+  },
+  {
+   "sub": "webhosting",
+   "title": "My server got wiped.. what now?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w6v54a/my_server_got_wiped_what_now/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Guys I fucked up so badly. I missed payment on my contabo sever and they deleted everything.. \n I have been building on there for the past year And didn’t have a back up. Latest one I have is from January.. and I added a lot of stuff since then. \n I don’t actually know how to code and have been using gpt this entire time. \n Basically I have a website that hosts video games. So I have frontend and backend files on my personal pc. The server actually launched a server for the game. And I could join the game on my pc (not website)\n Anyways I’m hoping someone here can help me, I need to figure out how I can rebuild all my server docs. Can I reverse engineer them based on my frontend/backend docs? Using my database info? Vercel info? GitHub info?\n I only know a few files on the server, but idk all of them or their functions.. I’m really overwhelmed and don’t know what to do? \n I appreciate any advice"
+  }
+ ]
+}
