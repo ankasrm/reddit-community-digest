@@ -1,0 +1,149 @@
+{
+ "date": "2026-09-08",
+ "generated_utc": "2026-09-08T11:52:04.148669+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "5",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 5,
+ "digest_count": 5,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "xCloud Hosting lost ALL my sites — no backups, no recovery, zero accountability",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wakzqu/xcloud_hosting_lost_all_my_sites_no_backups_no/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "support"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Just had the worst hosting experience of my life and want to warn anyone considering xCloud.\n Their server had some kind of failure and I lost every website on my account including a site that was actively in final prep for launch. I contacted support to ask about restoring from a backup. Their answer: no backup exists, no recovery is possible. That's it. No compensation offer, no real explanation of what caused it, just \"it's gone.\"\n For a hosting company, having zero backup infrastructure that can protect a customer from total data loss is not a minor bug it's a fundamental failure of what you're paying them for. I lost weeks of work and a launch date because of it.\n If you're currently on xCloud: export/back up everything yourself immediately, don't trust their infrastructure to protect you. If you're considering signing up: I'd look elsewhere.\n Happy to answer questions if anyone else has been burned by them too."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Alternative to siteground?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wa43j0/alternative_to_siteground/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "The siteground renewal is $450 for the gogeek for 1 year. I do like siteground and only have 1 website but plan to have around 5. Any suggestions? Seems kind of expensive."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 21,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Sharing our documented experience after 2 years on Ultahost VDS/VPS to warn other sysadmins and e-commerce operators.\n Stack Conflicts: Their managed/unmanaged setups came with Apache and LiteSpeed running simultaneously, causing port bindings/routing issues and internal server crashes every 48 hours.\n Backdoor Loop: During a malware incident, Tier 1/2 support repeatedly overwrote the clean directory with infected full backups without isolating the entry point. Result: continuous backdoor execution via cron tasks and Google Search Console ownership verification exploits by attackers (limpekpatenn).\n Broken Permissions & Missing Media: Support execution resulted in wiped wp-content/uploads visibility and incorrect permission states (chmod locks), throwing 403 errors across public assets.\n Billing Dispute: Refused direct card refund upon cancellation after severe service outage, offering only internal credit balance for a service being decommissioned.\n If you run WooCommerce or any critical web app, steer clear."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Cheap domains with reliable privacy for client sites and pci stuff",
+   "url": "https://www.reddit.com/r/webhosting/comments/1waksqc/cheap_domains_with_reliable_privacy_for_client/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "money",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "So... freelance web dev here and I just realized how sketchy some of the cheap domains I used are when it comes to privacy. One client is about to take cards on their site and now they are asking about pci and who can see their info in whois. \n If you do client work, do you stick to the cheap domain registrars with privacy toggles or pay more for ones that have whois privacy on by default plus dnssec plus sane dns tools. Trying not to move every domain at once but lowkey worried rn... ."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Anyone else getting this Cloudflare error today? 😅",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wa01rx/anyone_else_getting_this_cloudflare_error_today/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "competitor",
+    "security",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "looks like the Namecheap servers decided to take Labour Day off 😂 \n https://ibb.co/VWr9wmn0"
+  }
+ ]
+}
