@@ -1,0 +1,63 @@
+{
+ "date": "2026-09-11",
+ "generated_utc": "2026-09-11T11:55:33.143209+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "1",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 1,
+ "digest_count": 1,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "DTS-Net.com hosting site—Its been down for a month?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wcqry0/dtsnetcom_hosting_siteits_been_down_for_a_month/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I have been with DTS-NET.com. hosting for years, but their site has been down, and I can not get access to my control panel. \n Is anyone else using their services and experiencing the same problem? I have not heard that they have gone out of business."
+  }
+ ]
+}
