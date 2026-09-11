@@ -1,0 +1,924 @@
+{
+ "week": "2026-W37",
+ "generated_utc": "2026-09-11T16:47:14.294387+00:00",
+ "days": [
+  "2026-09-07",
+  "2026-09-08",
+  "2026-09-09",
+  "2026-09-10",
+  "2026-09-11"
+ ],
+ "stats": {
+  "post_count": 264,
+  "by_sub": {
+   "webhosting": 21,
+   "smallbusiness": 243
+  },
+  "by_group": {
+   "hosting": 23,
+   "tech": 24,
+   "platform": 17,
+   "competitor": 9,
+   "money": 75,
+   "switching": 23,
+   "security": 9,
+   "support": 23,
+   "performance": 9
+  },
+  "language_count": 0,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "money (46 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Alternative to siteground?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wa43j0/alternative_to_siteground/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "hosting.com (formerly A2) confirmed my refund in writing, then withdrew it the day after I completed all their verification steps",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wbjm7l/hostingcom_formerly_a2_confirmed_my_refund_in/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (23 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Storing images for blog on cloudflare?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w9eosv/storing_images_for_blog_on_cloudflare/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Has anyone else faced Cloudflare proxy issues with Vodien hosting?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wb3gy3/has_anyone_else_faced_cloudflare_proxy_issues/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "hosting (18 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Storing images for blog on cloudflare?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w9eosv/storing_images_for_blog_on_cloudflare/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Has anyone else faced Cloudflare proxy issues with Vodien hosting?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wb3gy3/has_anyone_else_faced_cloudflare_proxy_issues/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (15 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Storing images for blog on cloudflare?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1w9eosv/storing_images_for_blog_on_cloudflare/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Has anyone else faced Cloudflare proxy issues with Vodien hosting?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wb3gy3/has_anyone_else_faced_cloudflare_proxy_issues/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "support (14 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "hosting.com (formerly A2) confirmed my refund in writing, then withdrew it the day after I completed all their verification steps",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wbjm7l/hostingcom_formerly_a2_confirmed_my_refund_in/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Looking for Canadian shared hosting with local Canadian data centres",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wbvrhr/looking_for_canadian_shared_hosting_with_local/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Detailed Review: Why Ultahost ruined our e-commerce production environment",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wa2izc/detailed_review_why_ultahost_ruined_our_ecommerce/",
+   "sub": "webhosting",
+   "relevance": 21,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Storing images for blog on cloudflare?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w9eosv/storing_images_for_blog_on_cloudflare/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Has anyone else faced Cloudflare proxy issues with Vodien hosting?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wb3gy3/has_anyone_else_faced_cloudflare_proxy_issues/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Alternative to siteground?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wa43j0/alternative_to_siteground/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "competitor",
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "hosting.com (formerly A2) confirmed my refund in writing, then withdrew it the day after I completed all their verification steps",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wbjm7l/hostingcom_formerly_a2_confirmed_my_refund_in/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Alternate to GoDaddy WebHosting and Domains?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w8yqjt/alternate_to_godaddy_webhosting_and_domains/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Best Squarespace Alternative for Small Business Websites",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wbi9a3/best_squarespace_alternative_for_small_business/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "competitor",
+    "switching",
+    "platform"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Microsoft Teams Alternative",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wau81t/microsoft_teams_alternative/",
+   "sub": "smallbusiness",
+   "relevance": 11,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Looking for Canadian shared hosting with local Canadian data centres",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wbvrhr/looking_for_canadian_shared_hosting_with_local/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "hosting",
+    "money",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Godaddy and do you recommend it? Website Security - Advanced - or is there a better alternative?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wcc74d/godaddy_and_do_you_recommend_it_website_security/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "competitor",
+    "switching"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Where can I host a site that I will basically only need to have hosted for a week or less (PHP) ?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wan2hv/where_can_i_host_a_site_that_i_will_basically/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "hosting",
+    "security",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Website builder for a tiny business website, is paying extra even worth it anymore?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wbfxk1/website_builder_for_a_tiny_business_website_is/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "competitor",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "your website reads fine to you because you already know what you do. asked ai to read it as a stranger comparing three options and it found where people leave",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9mtm5/your_website_reads_fine_to_you_because_you/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Customer Exchanges",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w975kt/customer_exchanges/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Reliable money counters",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w940fc/reliable_money_counters/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Anyone else getting this Cloudflare error today? 😅",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wa01rx/anyone_else_getting_this_cloudflare_error_today/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "competitor",
+    "security",
+    "platform"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "What stack are you using to build your internal AI Tools?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wax24d/what_stack_are_you_using_to_build_your_internal/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Calling in US from abroad",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1waqkj9/calling_in_us_from_abroad/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Avoid LegalZoom for your LLC",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wc06cf/avoid_legalzoom_for_your_llc/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Started a side business in a niche most people have never heard of. Looking for feedback on the model, not the tech.",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbt60u/started_a_side_business_in_a_niche_most_people/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "I made a physical planner. Now I’m stuck on how to launch it.",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wccr5j/i_made_a_physical_planner_now_im_stuck_on_how_to/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "performance"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "xCloud Hosting lost ALL my sites — no backups, no recovery, zero accountability",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wakzqu/xcloud_hosting_lost_all_my_sites_no_backups_no/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "support"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Alibaba Supplier Scammed 18K",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbehax/alibaba_supplier_scammed_18k/",
+   "sub": "smallbusiness",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "GoDaddy Sucks!!!!",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wbo5c1/godaddy_sucks/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "support"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Terrible experience with GoDaddy — payment taken, domain never delivered",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wcckkl/terrible_experience_with_godaddy_payment_taken/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "tech"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "paying a dev agency $12k/mo for tiny changes. is there actually a dev agency alternative that works?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wc1d31/paying_a_dev_agency_12kmo_for_tiny_changes_is/",
+   "sub": "smallbusiness",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "support"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "I compared HestiaCP and cPanel using 3 real production servers — the biggest performance difference wasn't the control panel",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w95cgr/i_compared_hestiacp_and_cpanel_using_3_real/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "I need a video hosting for 500K+ min/month",
+   "url": "https://www.reddit.com/r/webhosting/comments/1w8w73t/i_need_a_video_hosting_for_500k_minmonth/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "How to outsource manufacturing…for a sex toy company?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1war052/how_to_outsource_manufacturingfor_a_sex_toy/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "performance",
+    "money"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "WiFi recommendations for small business",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wayq5d/wifi_recommendations_for_small_business/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "performance",
+    "money"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "What do you actually do during slow months?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbf3rq/what_do_you_actually_do_during_slow_months/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "performance",
+    "money"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Outbound went live for 3 real businesses this week. One bug almost mixed up their voices.",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbwpya/outbound_went_live_for_3_real_businesses_this/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "performance"
+   ]
+  },
+  {
+   "id": 33,
+   "title": "I built a .Net + Next.js B2B business platform and need advice on the right deployment strategy before my first customers",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wcc69v/i_built_a_net_nextjs_b2b_business_platform_and/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 34,
+   "title": "Small business owners: Is outdated technology costing you customers?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbloln/small_business_owners_is_outdated_technology/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 35,
+   "title": "Best consumer collections agencies for international debt? (Korea to the US)",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9na0a/best_consumer_collections_agencies_for/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 36,
+   "title": "Does religion and culture play a big role in someone’s behavior",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w8x0ht/does_religion_and_culture_play_a_big_role_in/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 37,
+   "title": "Behind the scenes: The cost and profit breakdown of my business.Made a quick video breaking down the exact numbers, expenses, and profit margins of my business. No fluff, just the raw data for anyone interested in the backend financials of this industry. Check it out and let me know your thoughts!",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9g80p/behind_the_scenes_the_cost_and_profit_breakdown/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "security"
+   ]
+  },
+  {
+   "id": 38,
+   "title": "Share partner kicking us out",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9e16g/share_partner_kicking_us_out/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 39,
+   "title": "Cute Branded Client Gift Ideas",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9ay1k/cute_branded_client_gift_ideas/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 40,
+   "title": "Received Two Similar Emails about concerns from non buyers each mentioned TrustPilot. Why?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w999zh/received_two_similar_emails_about_concerns_from/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 41,
+   "title": "A fun, low-cost way to get foot traffic & viral TikTok reactions at your shop counter (Offering free promo codes to test it)",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9h5ha/a_fun_lowcost_way_to_get_foot_traffic_viral/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 42,
+   "title": "Cheap domains with reliable privacy for client sites and pci stuff",
+   "url": "https://www.reddit.com/r/webhosting/comments/1waksqc/cheap_domains_with_reliable_privacy_for_client/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 43,
+   "title": "What tool have you found that replaced a monthly subscription?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbbbo4/what_tool_have_you_found_that_replaced_a_monthly/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 44,
+   "title": "What happens to a process when the one person who does it goes on vacation?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wb3p17/what_happens_to_a_process_when_the_one_person_who/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 45,
+   "title": "before you buy automation software, spend twenty minutes capturing the task",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wb51oa/before_you_buy_automation_software_spend_twenty/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 46,
+   "title": "Google Voice Alternatives?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wb2dj0/google_voice_alternatives/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 47,
+   "title": "[FOR HIRE] Accounts Manager (MBA Finance) — GST filing, bookkeeping, financial reporting | Tally ERP & Excel",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1waxkma/for_hire_accounts_manager_mba_finance_gst_filing/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 48,
+   "title": "Getting close to opening and hiring soon, nervous...",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wan9uc/getting_close_to_opening_and_hiring_soon_nervous/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 49,
+   "title": "How likely is it to give employees a 4 day work week?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wb3sbx/how_likely_is_it_to_give_employees_a_4_day_work/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 50,
+   "title": "How I replaced $400/month in outbound tools with a free pipeline that reads competitor Trustpilot complaints",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbi4mg/how_i_replaced_400month_in_outbound_tools_with_a/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 51,
+   "title": "Can anyone suggest me some best cpanel reseller hosting ?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wc9chz/can_anyone_suggest_me_some_best_cpanel_reseller/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 52,
+   "title": "Been on etsy a year, thinking about moving to my own site. anyone made the jump and regretted it?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wblyhc/been_on_etsy_a_year_thinking_about_moving_to_my/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 53,
+   "title": "Anyone happy with solo 401(k) provider?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbqexx/anyone_happy_with_solo_401k_provider/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 54,
+   "title": "Coffee Drive-through consultant",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wbo5qe/coffee_drivethrough_consultant/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "performance",
+    "support"
+   ]
+  },
+  {
+   "id": 55,
+   "title": "How to manage E-commerce inventory?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w8ympz/how_to_manage_ecommerce_inventory/",
+   "sub": "smallbusiness",
+   "relevance": 4,
+   "concepts": [
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 56,
+   "title": "What businesses have the best odds of becoming highly profitable?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9et73/what_businesses_have_the_best_odds_of_becoming/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 57,
+   "title": "Solo NEMT business doing $10k/mo part-time (1 paid-off vehicle) How much can I sell this for, and where should I list it?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9ek6z/solo_nemt_business_doing_10kmo_parttime_1_paidoff/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 58,
+   "title": "New Employee Headache",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w8xery/new_employee_headache/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 59,
+   "title": "What software are you using to invoicing?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w94mz7/what_software_are_you_using_to_invoicing/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 60,
+   "title": "Small business accounting program - NOT Quickbooks?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w90dhu/small_business_accounting_program_not_quickbooks/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 61,
+   "title": "I finally calculated what international payments are actually costing my business",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9fmxq/i_finally_calculated_what_international_payments/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 62,
+   "title": "Business subcontractor",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9fonq/business_subcontractor/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 63,
+   "title": "What is your opinion on tailored solutions instead of general SaaS?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9fb2w/what_is_your_opinion_on_tailored_solutions/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 64,
+   "title": "Anyone else juggling CRM costs while bootstrapping?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w95bmy/anyone_else_juggling_crm_costs_while_bootstrapping/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 65,
+   "title": "Can Business/Verified Accounts unsend messages from their Instagram channel? Will this notify as “This message is no longer…unsent by the sender”?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w8x0vt/can_businessverified_accounts_unsend_messages/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 66,
+   "title": "Best free or low cost business account with zelle.",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w8x094/best_free_or_low_cost_business_account_with_zelle/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 67,
+   "title": "Orders?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9iujo/orders/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 68,
+   "title": "does .ai domain matters",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w9ik83/does_ai_domain_matters/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 69,
+   "title": "Small vet clinic in trouble",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1w928sm/small_vet_clinic_in_trouble/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 70,
+   "title": "What’s one thing about running a small business that nobody warned you about?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1waraeu/whats_one_thing_about_running_a_small_business/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  }
+ ]
+}
