@@ -1,0 +1,158 @@
+{
+ "date": "2026-09-14",
+ "generated_utc": "2026-09-14T13:28:41.451582+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "6",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 6,
+ "digest_count": 6,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Help me understand what managed wordpress webhosts actually offer",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wg2h5g/help_me_understand_what_managed_wordpress/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "So I can look at price compare page for a couple of the major hosting providers, and cant really grasp the selling points. I see two patterns generally;\n Offering already built in wordpress functions as hosting features - like auto updates \n Offering vague specs like ”performance cache” - with no further details regarding tech used\n This applys the pretty much any host. So the short question is: is managed wordpress hosting a real thing? Can some provide a hands-on example for what managed wordpress hosting provide without generalizing?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "I’m building a hosting comparison platform focused on actual data — looking for feedback",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wflg8w/im_building_a_hosting_comparison_platform_focused/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 17,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "support",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I’m building a hosting comparison platform focused on actual data — looking for feedback\n I’ve been working on a project called DohoHub, an independent platform for comparing hosting and domain providers.\n The problem I’m trying to solve is something I’ve personally noticed when researching hosting: it’s surprisingly difficult to compare providers using the information that actually matters.\n For example:\n Initial price vs. renewal price\n VPS / dedicated / shared / cloud specifications\n Datacenter locations\n Network and bandwidth limits\n Storage type and allocation\n Uptime\n Domain pricing and renewals\n Support\n WordPress features\n Migration options\n Actual limitations hidden in the fine print\n DohoHub is being built around side-by-side comparisons and structured provider data, rather than simply publishing lists of “the best hosts.”\n I also want the platform to distinguish promotional pricing from the prices customers actually pay after the introductory period.\n The project is still early, and I'm much more interested in getting feedback from people who actually run websites/servers than in simply promoting it.\n What hosting information do you usually have the hardest time finding or comparing?\n Is there anything you would absolutely want included before trusting a hosting comparison site?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "How much control do you really get with AI website builders?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wg00cp/how_much_control_do_you_really_get_with_ai/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I've been experimenting with AI website builders and noticed that generating a site is easy part.\n The real question for me is what you need custom HTML,CSS, JavaScript, SEO settings or server side changes.\n Has anyone used one for a production website? How much control did you have?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Freelancer here trying to figure out how to transfer a domain safely for a client without breaking their email",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wfukqo/freelancer_here_trying_to_figure_out_how_to/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "For context Im handling a site refresh for a local business and the owner wants me to move their domain away from the random registrar they picked years ago so everything lives in one place. \n The domain is tied to their main inbox, staff emails, and a couple of dns records a previous dev added that I dont fully trust. I can get the auth code and unlock it, but timing the nameserver change and keeping mx records intact while the transfer is in progress is stressing me out. \n If you have done a domain move in a situation like this, did you clone all the records first and then start the transfer or something else? idk"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Hit with a bill of 82k usd within 5 hours",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wfm3b8/hit_with_a_bill_of_82k_usd_within_5_hours/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": ""
+  },
+  {
+   "sub": "webhosting",
+   "title": "Stellar hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wfhfl5/stellar_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "competitor",
+    "hosting"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Does anyone has namecheap, if you do, does anyone know how to get Stellar hosting to a second hosting site?"
+  }
+ ]
+}
