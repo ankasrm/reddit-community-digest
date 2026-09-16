@@ -1,0 +1,209 @@
+{
+ "date": "2026-09-16",
+ "generated_utc": "2026-09-16T12:18:05.995108+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "8",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 8,
+ "digest_count": 8,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "HostPapa ... the WORST company I've ever dealt with in my 40 year career ...",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wh5egp/hostpapa_the_worst_company_ive_ever_dealt_with_in/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 15,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "support",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Six days of downtime, wrong answers, and days of silence. Avoid if your business depends on uptime.\n I am a web developer who had hosted my own sites and my clients' sites with a company called LFC Hosting. Best customer support I ever had. Until they sold out to HostPapa. \n On September 9-10, 2026, HostPapa migrated my account to a new server. They gave ZERO direction on what exactly they were doing. It turns out they migrated not only websites, but email and databases as well. No messages were sent informing me of need to do ANYTHING. \n Then I find out my sites have stopped working.\n Six days later, at least one site is still down.\n What went wrong:\n No notice, no documentation. My sites, databases, and email were all moved without warning. I asked four separate times where the new connection settings and FTP (File Transfer Protocol) credentials were documented. I was never given a single link. Every change I discovered, I discovered by finding something broken.\n FTP was dead for four days. When I reported that the new IP address they gave me did not work, the next reply gave me the same address again. Because FTP was down, I could not enable error output, which meant I could not diagnose my own sites. I was locked out of fixing the problem they created.\n They gave me database advice that was flatly wrong. Support told me twice to point my connection string at localhost:3306. That is the default port for MySQL. I do not run MySQL. Every site I host with them is .NET and SQL"
+  },
+  {
+   "sub": "webhosting",
+   "title": "WordPress site compromised after Crazy Domains migration – malicious index.php backdoor and fake ecommerce site",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whkc00/wordpress_site_compromised_after_crazy_domains/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 11,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi everyone,\n I'm hoping someone with WordPress/security or hosting experience can give me some advice. I'm helping with a small business website in New Zealand and we're really struggling to get useful help from our hosting provider.\n The website is:\n theliteracybridge.co.nz \n The site was migrated by Crazy Domains from WordPress hosting to a new WordPress hosting environment around 18 August 2026.\n At some point around/after the migration, the website was compromised.\n The live website is currently NOT our website. It is displaying a completely unrelated ecommerce/shopping site with random products, medical products, clothing etc. Google has also indexed lots of unrelated pages.\n What we've found:\n Wordfence is installed and a scan produced 45 results.\n The most concerning finding is:\n File appears to be malicious or unsafe: index.php\n Location:\n /home2/theliter/public_html/index.php \n Wordfence identifies it as:\n Backdoor:PHP/protected.12630\n Password protected backdoor\n WordPress also has several Administrator accounts that we don't recognise. Some of these have us00gi... usernames and u/mycrazydomains .me email addresses, so we're not sure whether they are malicious accounts or accounts created by Crazy Domains during the migration.\n What Crazy Domains has done\n Crazy Domains recently disabled:\n /wp-content/plugins/wordfence/wordfence.php \n They told us that the website then \"started working normally\" and suggested that Wordfence/plugin files may be contributing to the i"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Webmasters won't provide my EPP code — domain control panel doesn't recognize my domain",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wgzno1/webmasters_wont_provide_my_epp_code_domain/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "support",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I'm trying to transfer my .com domain away from Webmasters, but I've run into a problem before I can even start the transfer.\n Webmasters recently changed their domain control panel. When I try to manage my domain, the control panel does not recognize the domain.\n I have submitted a support ticket asking for the EPP/authentication code. Their response was not helpful, and I have not received the information needed to proceed. My domain is still active and the existing DNS and email are working.\n What is the best way to get the EPP code and unlock the domain when the current registrar's domain-control system isn't working? \n I'm particularly concerned about doing this without disrupting the existing DNS or email.\n Has anyone here actually transferred a domain away from Webmasters under these circumstances?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Godaddy IS TERRIBLE",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whjn8i/godaddy_is_terrible/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "support",
+    "tech"
+   ],
+   "topic": "Email",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I have created a Godaddy account, to manage hosting and some other ops for one of my clients. My client sent me an invitation for Delegate Access, but as soon as I tried to open the link of the invite, it tells me that I need to verify my account, what? I have verified my account with my phone number, but I said okay let's do what they're asking, I submitted my National ID and 3 selfies, they say verification done, then they say its failed, clearly a bug (I attached 2 screenshots). I get to their support, they don't help at all, they just ask me to try and do the process again, then my account gets locked, and they just say \"Please get back after 24 hours\", nothing else. I held my ground, and said it's fine, these things happen, I'll come back tomorrow, eventhough much of my client's work is at stake and deadlines are biting us. I got back tomorrow. I got back today, after 24 hours, I ask for support, they have me undergo the same exact process as yesterday, I told them beforehand that this will block my account for 24 hours, but they told me to proceed either way, because they will recover my account now. I proceed, the account gets locked, no codes are being received on my phone, or email, nothing works, and then they tell me hey your account got locked and we cannot help you, please get back after 24 hours. Are we playing now? I am really disappointed and frustrated, they just do not care about your time or commitments, they just brush you off. Clearly they are having bugs"
+  },
+  {
+   "sub": "webhosting",
+   "title": "alternatives to wp engine",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whaj7v/alternatives_to_wp_engine/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 18,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "security",
+    "support",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi All, does anyone have any alternatives to wp engine they'd recommend? Something with decent support, ssl and daily backups.\n What is your monthly budget? \n looking for agency hosting where we can pool sites together to get a better rate. \n Where are you/your users located? \n USA \n What kind of site are you hosting (Wordpress, phpBB, custom software, etc) or what is your use case? \n WordPress \n Do you have a monthly traffic volume? Estimates are ok. \n not really, some 5k a month some 50k a month \n If you’re looking at VPSes: Do you have experience administrating linux servers and infrastructure? \n no \n Did you read the sidebar/check out the hosts listed there? I've personally vetted these companies and their services are a good fit for 99% of people. \n yes"
+  },
+  {
+   "sub": "webhosting",
+   "title": "How do you monitor a web app behind SSO/MFA without weakening security?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whqjji/how_do_you_monitor_a_web_app_behind_ssomfa/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hi all. We're trying to set up synthetic monitoring that actually logs in and uses the app, rather than just checking that the login page is up. The problem is that everything is behind SSO with MFA enforced, and security understandably doesn't want us creating some \"monitoring account\" with MFA turned off. \n How do you handle this in practice? \n Do you use a dedicated monitoring account with a tightly scoped conditional-access exception? Generate TOTP codes in the script from a stored secret? Set up a separate test login/path that doesn't go through the normal SSO flow? Or is there a better approach? \n Also, how do you handle the account itself, least-privilege permissions, credential rotation, keeping it away from real customer data, etc. Basically, what happens if the monitoring vendor or the credentials get compromised? \n Rather hear what has actually held up in production than what the docs say is possible."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Can I use Google Workspace AND my web host for emails?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whctt1/can_i_use_google_workspace_and_my_web_host_for/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 15,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "My website is hosted through squarespace. My emails are hosted by hostgator. We recently switched a few users (3) to Google Workspace. \n With the switch to Google, we're unable to receive emails to the other host.\n For example, the following emails used to be through host gator: firstlast1@domain, firstlast2@domain, firstlast3@domain, HR@domain, careers@domain, training@domain.\n We now use Google for firstlast1@domain firstlast2@domain and firstlast3@domain . These work fine through google.\n We're no longer receiving email from HR@domain, careers@domain, training@domain.\n Is there anything I can do to use both? Or do I have to use one or the other?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Mewster!",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whpuz9/mewster/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "security",
+    "tech"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Well We launched, and things were building for a while, but i noticed something was off. The webserver had a country BLOCK LIST built into it cutting off about 95% of the globe! I have turned it off, ,to see what happens now that people won't be banned just for where they're from. If you try to register annd you never receive a confirmation email , fear not, you can still port comments, as long as their a family friendly, and in english, regardless of your location. Worse case, I get a few offenders from specific countries and I handle it surgically tthis time. Feel free to sign up and join the conversation at https://www.mewsterblog.com"
+  }
+ ]
+}
