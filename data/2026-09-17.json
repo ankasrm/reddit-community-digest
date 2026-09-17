@@ -1,0 +1,125 @@
+{
+ "date": "2026-09-17",
+ "generated_utc": "2026-09-17T12:18:03.087244+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Looking for secure, stable WordPress hosting under €50/month while keeping DNS at IONOS",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wiqvsv/looking_for_secure_stable_wordpress_hosting_under/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 150.0,
+   "relevance": 21,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi everyone,\n I’m looking for recommendations for a reliable WordPress hosting provider for my current setup.\n My setup:\n - Domain: adriandylanwulf.de \n - Domain registrar and DNS: IONOS SE, including IONOS Anycast DNS\n - Website: WordPress, currently hosted at Mittwald\n - Email: Microsoft 365\n - Email security gateway: Hornetsecurity in front of Microsoft 365\n I would like to keep the domain at IONOS and continue managing the DNS records and nameservers there. I do not want to transfer the domain or move the nameservers unless there is a very compelling reason.\n The hosting provider should support external/custom domains while allowing the DNS and nameservers to remain at IONOS.\n My main priorities are:\n Security\n Stability and reliability\n Good WordPress performance\n Reliable backups and restore options\n CDN support would be a bonus\n My budget is ideally up to €40 per month, with an absolute maximum of €50 per month. I’m mainly interested in the real long-term price, not temporary introductory offers.\n I do not want to move my email away from Microsoft 365. I’m only looking for a better or more suitable hosting environment for the website.\n What providers would you recommend for this setup? I would especially appreciate real-world experiences regarding:\n - Security and server hardening\n - Stability and uptime\n - WordPress performance\n - Backups and recovery\n - CDN options\n - Support quality\n - Keeping DNS and nameservers at IONOS\n - The actual monthly cost after introductor"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Any reliable VPS company which accepts USDT or crypto payments?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wi7dz7/any_reliable_vps_company_which_accepts_usdt_or/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "basically what the title says.. Most of the reliable VPS hosting want card details, but I would like to pay through USDT. THere are card serivces which can be loaded through USDT and then used but I am not very sure how well they are accepted and how expensive they are.\n any insights? Please help"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Celeros down?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wipnuy/celeros_down/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Im hosting in vps from celeros, but celeros seems to be complete offline?!?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Best registration options for new businesses and domains... kind of stuck",
+   "url": "https://www.reddit.com/r/webhosting/comments/1winebf/best_registration_options_for_new_businesses_and/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "tech"
+   ],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hi, been spinning up a tiny business site and im getting a bit lost on the whole registration side. Stuff like do I bother with LLC right away or just start as sole prop, what is worth paying for on the domain side like privacy, extra security, dns management etc.\n For context I mostly just want a clean custom domain, maybe branded email, and not shoot myself in the foot with something dumb that is hard to change later. Would love any tips from folks who already went through this, appreciate any thoughts"
+  }
+ ]
+}
