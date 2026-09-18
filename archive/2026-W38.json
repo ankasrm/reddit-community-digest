@@ -1,0 +1,681 @@
+{
+ "week": "2026-W38",
+ "generated_utc": "2026-09-18T16:45:22.561801+00:00",
+ "days": [
+  "2026-09-14",
+  "2026-09-15",
+  "2026-09-16",
+  "2026-09-17",
+  "2026-09-18"
+ ],
+ "stats": {
+  "post_count": 99,
+  "by_sub": {
+   "webhosting": 25,
+   "smallbusiness": 74
+  },
+  "by_group": {
+   "hosting": 17,
+   "performance": 6,
+   "money": 26,
+   "platform": 8,
+   "switching": 11,
+   "support": 12,
+   "tech": 18,
+   "competitor": 8,
+   "security": 5
+  },
+  "language_count": 0,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "money (26 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Looking for secure, stable WordPress hosting under €50/month while keeping DNS at IONOS",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wiqvsv/looking_for_secure_stable_wordpress_hosting_under/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "I’m building a hosting comparison platform focused on actual data — looking for feedback",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wflg8w/im_building_a_hosting_comparison_platform_focused/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Help me understand what managed wordpress webhosts actually offer",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wg2h5g/help_me_understand_what_managed_wordpress/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "hosting (17 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Looking for secure, stable WordPress hosting under €50/month while keeping DNS at IONOS",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wiqvsv/looking_for_secure_stable_wordpress_hosting_under/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "alternatives to wp engine",
+     "url": "https://www.reddit.com/r/webhosting/comments/1whaj7v/alternatives_to_wp_engine/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "I’m building a hosting comparison platform focused on actual data — looking for feedback",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wflg8w/im_building_a_hosting_comparison_platform_focused/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (14 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Looking for secure, stable WordPress hosting under €50/month while keeping DNS at IONOS",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wiqvsv/looking_for_secure_stable_wordpress_hosting_under/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "HostPapa ... the WORST company I've ever dealt with in my 40 year career ...",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wh5egp/hostpapa_the_worst_company_ive_ever_dealt_with_in/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Can I use Google Workspace AND my web host for emails?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1whctt1/can_i_use_google_workspace_and_my_web_host_for/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (11 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "alternatives to wp engine",
+     "url": "https://www.reddit.com/r/webhosting/comments/1whaj7v/alternatives_to_wp_engine/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "I’m building a hosting comparison platform focused on actual data — looking for feedback",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wflg8w/im_building_a_hosting_comparison_platform_focused/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "HostPapa ... the WORST company I've ever dealt with in my 40 year career ...",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wh5egp/hostpapa_the_worst_company_ive_ever_dealt_with_in/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "support (10 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Looking for secure, stable WordPress hosting under €50/month while keeping DNS at IONOS",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wiqvsv/looking_for_secure_stable_wordpress_hosting_under/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "alternatives to wp engine",
+     "url": "https://www.reddit.com/r/webhosting/comments/1whaj7v/alternatives_to_wp_engine/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "I’m building a hosting comparison platform focused on actual data — looking for feedback",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wflg8w/im_building_a_hosting_comparison_platform_focused/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Looking for secure, stable WordPress hosting under €50/month while keeping DNS at IONOS",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wiqvsv/looking_for_secure_stable_wordpress_hosting_under/",
+   "sub": "webhosting",
+   "relevance": 21,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "alternatives to wp engine",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whaj7v/alternatives_to_wp_engine/",
+   "sub": "webhosting",
+   "relevance": 18,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "security",
+    "support",
+    "platform"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "I’m building a hosting comparison platform focused on actual data — looking for feedback",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wflg8w/im_building_a_hosting_comparison_platform_focused/",
+   "sub": "webhosting",
+   "relevance": 17,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "support",
+    "platform"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "HostPapa ... the WORST company I've ever dealt with in my 40 year career ...",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wh5egp/hostpapa_the_worst_company_ive_ever_dealt_with_in/",
+   "sub": "webhosting",
+   "relevance": 15,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Can I use Google Workspace AND my web host for emails?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whctt1/can_i_use_google_workspace_and_my_web_host_for/",
+   "sub": "webhosting",
+   "relevance": 15,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Godaddy IS TERRIBLE",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whjn8i/godaddy_is_terrible/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Resource Limit error in Shared hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wjmx6j/resource_limit_error_in_shared_hosting/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "WordPress site compromised after Crazy Domains migration – malicious index.php backdoor and fake ecommerce site",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whkc00/wordpress_site_compromised_after_crazy_domains/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Help me understand what managed wordpress webhosts actually offer",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wg2h5g/help_me_understand_what_managed_wordpress/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "hosting",
+    "performance",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Left Boston 36 years ago. Still haven't figured it out. But will never stop trying!",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg91f3/left_boston_36_years_ago_still_havent_figured_it/",
+   "sub": "smallbusiness",
+   "relevance": 10,
+   "concepts": [
+    "switching",
+    "hosting",
+    "support"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Stellar hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wfhfl5/stellar_hosting/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "competitor",
+    "hosting"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "How did you get your first client?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg5kzz/how_did_you_get_your_first_client/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "performance",
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Curious if this is a universal problem or just a me thing.. how do the rest of you handle calls you can't get to in the moment?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg8u6d/curious_if_this_is_a_universal_problem_or_just_a/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "SRS Sender Rewriting Scheme - Why not turn it on by default?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wghn3f/srs_sender_rewriting_scheme_why_not_turn_it_on_by/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Lightsail for basic website hosting?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wj4iwb/lightsail_for_basic_website_hosting/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Site hit with 451 after a PhishLabs trademark complaint, review still pending",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wgvu4w/site_hit_with_451_after_a_phishlabs_trademark/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "performance",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Introducing a small-format döner kebab concept with a much lower barrier to entry. Looking for owner-operators in NYC",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wga6v6/introducing_a_smallformat_döner_kebab_concept/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Any reliable VPS company which accepts USDT or crypto payments?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wi7dz7/any_reliable_vps_company_which_accepts_usdt_or/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "What is the one automated process in your business you would least want to fail silently - and how would you even know?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg2tnl/what_is_the_one_automated_process_in_your/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "How do you get your first SaaS customers when you're starting from zero?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgiwtz/how_do_you_get_your_first_saas_customers_when/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Free scheduling tools?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgx8z7/free_scheduling_tools/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Advertisement issues.",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgf6fb/advertisement_issues/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Cost report with government bid",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgfpjb/cost_report_with_government_bid/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "I made a tap-to-review card for small businesses. Useful or pointless?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgl2im/i_made_a_taptoreview_card_for_small_businesses/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Lack of updating NS records…",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wj9esu/lack_of_updating_ns_records/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "competitor"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Squarespace Wont Text code for login",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wiy24m/squarespace_wont_text_code_for_login/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "competitor"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Gilbert Stucco & Plastering",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg55vs/gilbert_stucco_plastering/",
+   "sub": "smallbusiness",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Escondido Asphalt Paving",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg2hi9/escondido_asphalt_paving/",
+   "sub": "smallbusiness",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Webmasters won't provide my EPP code — domain control panel doesn't recognize my domain",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wgzno1/webmasters_wont_provide_my_epp_code_domain/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Mewster!",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whpuz9/mewster/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Can you rent a house for a small business?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg28ad/can_you_rent_a_house_for_a_small_business/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Anyone tried done-for-you creative services?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgactt/anyone_tried_doneforyou_creative_services/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 33,
+   "title": "Starting a consulting firm",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg748i/starting_a_consulting_firm/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 34,
+   "title": "Hi, new to the community: How to scale a high-quality cloud kitchen despite local pricing pushback and no social network?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgw88p/hi_new_to_the_community_how_to_scale_a/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 35,
+   "title": "How do you track estimates, invoices and actual job profit for service business? $200/mo software too expensive",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgv5f3/how_do_you_track_estimates_invoices_and_actual/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 36,
+   "title": "Struggling carpentry business",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg8iik/struggling_carpentry_business/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 37,
+   "title": "Shipping in New Zealand",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgk0vn/shipping_in_new_zealand/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 38,
+   "title": "Help/Advise Needed",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgi2jq/helpadvise_needed/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 39,
+   "title": "I Want to Start a Business With Almost No Money — What Would You Do?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg8y11/i_want_to_start_a_business_with_almost_no_money/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 40,
+   "title": "Is 6.5% of total job revenue too high for lead generation in concrete?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg4rqj/is_65_of_total_job_revenue_too_high_for_lead/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 41,
+   "title": "What’s harder to sell : a 500$/mo B2B product or a 1k$+/mo service?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg8uvt/whats_harder_to_sell_a_500mo_b2b_product_or_a/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 42,
+   "title": "Your product might not be the reason people aren’t buying.",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wg7rb3/your_product_might_not_be_the_reason_people_arent/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 43,
+   "title": "Ad tools for medium/ small businesses",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgb4dn/ad_tools_for_medium_small_businesses/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 44,
+   "title": "Small businesses - have you ever considered buying supplies as a group to get bulk discount?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgjiqv/small_businesses_have_you_ever_considered_buying/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 45,
+   "title": "How do I replicate a \"Kate Spade\" high-end vibe for my crochet business using just an iPhone at home?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgmwai/how_do_i_replicate_a_kate_spade_highend_vibe_for/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 46,
+   "title": "Do you think it’s still possible to become rich from a handmade jewelry business?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wgtv0j/do_you_think_its_still_possible_to_become_rich/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 47,
+   "title": "How do you monitor a web app behind SSO/MFA without weakening security?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1whqjji/how_do_you_monitor_a_web_app_behind_ssomfa/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 48,
+   "title": "Celeros down?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wipnuy/celeros_down/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  }
+ ]
+}
