@@ -1,0 +1,122 @@
+{
+ "date": "2026-09-18",
+ "generated_utc": "2026-09-18T11:58:35.492500+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Lightsail for basic website hosting?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wj4iwb/lightsail_for_basic_website_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "So to preface this, I am very cheap. I want to put up a simple WordPress site for my home business and have been looking at different platforms and between some being terribly overpriced and others having terrible reviews, lightsail sits right in the middle. For a very basic website are there any downsides to using AWS lightsail? I already have experience with Linux servers and have my website locally hosted currently but I'm looking to move it to a cloud service for reliability and better security than just port forwarding on my router. Any advice is appreciated. Thank you."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Resource Limit error in Shared hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wjmx6j/resource_limit_error_in_shared_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "support",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I have websites in Godaddy shared hosting that are in PHP and mysql. Today the websites are frequently showing \"508 resource limit is reached\" error. The webpages open sometime but this error comes frequently with blank page.\n I find the server statistics in cpanel as follows: CPU usage 100%, entry processes 100%, number of processes 100%, file usage 21%, physical memory use 7%. It means the CPU usage and number of processes are reaching the limit.\n There has been no change in website recently nor any additional traffic today. Their support says it's a problem in your account as resource limit is reaching. I can't understand what is the problem and these are some queries that I have.\n 1) Whether resource limit reached error is due to problem in websites or hosting server?\n 2) What could be the possible cause and solution for this error?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Lack of updating NS records…",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wj9esu/lack_of_updating_ns_records/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "competitor"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I've been a full-stack web developer for 15 years, and for the first time in my life, I see a company blocks updating NS info and selling domain names as a product.\n I've just registered a domain name without knowing this and had a huge disappointment. I've never seen such nonsense in my entire IT career. What's wrong on WIX's side? I think they should at least warn people about this before buying, because now I have a domain that I cannot use, transfer, or return. :S\n Now I need to run an app, but without AWS NS records it's impossible... I've talked to CS about this, but they did not help."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Squarespace Wont Text code for login",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wiy24m/squarespace_wont_text_code_for_login/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "competitor"
+   ],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Crazy they won't send me a text with login code and when I ask for LIVE AGENT its says between 12AM to 8pm EDT. It's noon in Atlanta. Has it CRASHED!"
+  }
+ ]
+}
