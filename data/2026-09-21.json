@@ -1,0 +1,142 @@
+{
+ "date": "2026-09-21",
+ "generated_utc": "2026-09-21T13:27:41.759364+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "5",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 5,
+ "digest_count": 5,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Can I move my domain from IONOS to Jimdo without changing the web address?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wm8gid/can_i_move_my_domain_from_ionos_to_jimdo_without/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hey everyone,\n I have zero background in web hosting or tech—I'm a piano teacher and just need a simple, reliable website for my lessons.\n In the past, I used Jimdo and it worked perfectly. A while ago, I switched to IONOS, and it’s been a nightmare. My website constantly crashes with the message: \"Error establishing a database connection.\" I’ve temporarily fixed it a few times, but every few weeks the exact same error comes back.\n I want to move back to Jimdo so I don't have to deal with this anymore.\n My big concern: \n All my printed flyers, posters, and ads are already distributed. They have my exact domain name and a printed QR code linking to it.\n If I transfer my domain from IONOS to Jimdo, does my web address stay 100% identical? Does this even work?\n Will the QR codes on my printed flyers continue to work seamlessly, or could this break them?\n How difficult is this transfer for someone who knows nothing about web hosting?\n Thanks for any reassurance and advice!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "security",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm evaluating Cloudflare Pages as a possible replacement for my current web host, and I'd like advice from people actually using Pages for a simple, mostly-static website.\n My situation is probably much simpler than most Cloudflare examples.\n My domain / current setup\n Domain: sdi-baja.com \n Registrar: Porkbun (domain transfer is currently being completed)\n Email: Fastmail , using my own domain\n I do not want to move my email to Cloudflare.\n I do not want the domain registrar and web hosting tied together.\n The current web host is separate from both of those.\n The current hosting is coming up for renewal in November 2026, so I'm looking at alternatives now rather than renewing it.\n What I actually need to host\n The existing website is very small.\n I have an existing index page that I want to preserve , rather than rebuilding the whole site from scratch.\n I also have some Blog pages that I have been considering adding.\n There may eventually be a short, simple page for my late wife's business as well.\n So we're talking about ordinary static web content:\n HTML\n CSS\n images\n possibly some very simple JavaScript\n multiple pages\n no database\n no WordPress\n no shopping cart\n no server-side application\n very low traffic\n I don't need anything resembling a web application.\n What I want from hosting\n I want the site to continue being available at:\n https://sdi-baja.com \n I want to be able to preserve existing URLs where possible, and I don't want to accidentally break the current site"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Is*Hosting doesn't want my money",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wlqptc/ishosting_doesnt_want_my_money/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I started using is*hosting (ishosting.com) last year and have been satisfied with everything. Recently I have been receiving emails from them asking me to log in to make my payment. I am more than happy to do so, but every time I try to log in it says to check my authenticator app. When I registered, they never asked to specify an authenticator, only phone and billing information. I have submitted multiple support tickets over the past week explaining this very issue with no response. And I have checked my spam folder too. My only option now is to call the company directly. Unfortunately they are located in Estonia which is +10 hours from me so calling during their business hours is a pain in the ass. I pray that my files are not deleted, although I have most of the important stuff saved locally if not a bit disorganized\n Has anyone been experiencing this? There's no way I am the sole customer in this situation lol. How do these guys expect to maintain a customer base with such negligent tech support?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "$4 TLDs",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wm5eyt/4_tlds/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I’m curious, are there any TLDs with renewal prices under $4/year? I’m not looking for anything for scamming or anything like that — I just prefer not to provide a lot of personal information or go through ID verification. I’d also like to experiment with some lesser-known TLDs for my sites/projects at first, and as they grow, I can move on to more established TLDs. ccTLDs are fine too, as long as they don’t require an ID/passport or extensive identity verification. Are there any that cheap?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Is domain privacy still necessary in 2026?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wm927l/is_domain_privacy_still_necessary_in_2026/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I've noticed that many registrars include domain privacy, while some still charge separately.\n Do you consider domain privacy essential when registering a domain, or is it not something you worry about?"
+  }
+ ]
+}
