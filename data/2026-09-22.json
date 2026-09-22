@@ -1,0 +1,199 @@
+{
+ "date": "2026-09-22",
+ "generated_utc": "2026-09-22T12:12:04.820705+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "8",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 8,
+ "digest_count": 8,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Need some name ideas for a hosting brand",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmu4j7/need_some_name_ideas_for_a_hosting_brand/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hey guys, I’m trying to come up with a name for a hosting company and I’m honestly stuck 😅 I’m looking for something short, clean, easy to pronounce, and easy to remember . Ideally something that sounds like an actual brand rather than a generic hosting name. It would be for VPS, dedicated servers, web hosting, game servers, etc. I’d also prefer a made-up/unique name that isn’t already being used by another hosting company. I’m open to pretty much any ideas, so if you have a name that sounds good, drop it below. Even weird/random ones are welcome 😂 Thanks!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "security",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm evaluating Cloudflare Pages as a possible replacement for my current web host, and I'd like advice from people actually using Pages for a simple, mostly-static website.\n My situation is probably much simpler than most Cloudflare examples.\n My domain / current setup\n Domain: sdi-baja.com \n Registrar: Porkbun (domain transfer is currently being completed)\n Email: Fastmail , using my own domain\n I do not want to move my email to Cloudflare.\n I do not want the domain registrar and web hosting tied together.\n The current web host is separate from both of those.\n The current hosting is coming up for renewal in November 2026, so I'm looking at alternatives now rather than renewing it.\n What I actually need to host\n The existing website is very small.\n I have an existing index page that I want to preserve , rather than rebuilding the whole site from scratch.\n I also have some Blog pages that I have been considering adding.\n There may eventually be a short, simple page for my wife's business as well.\n So we're talking about ordinary static web content:\n HTML\n CSS\n images\n possibly some very simple JavaScript\n multiple pages\n no database\n no WordPress\n no shopping cart\n no server-side application\n very low traffic\n I don't need anything resembling a web application.\n What I want from hosting\n I want the site to continue being available at:\n https://sdi-baja.com \n I want to be able to preserve existing URLs where possible, and I don't want to accidentally break the current site or i"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Help with WordPress FSE Navigation Block: Mobile Menu Links Not Updating / Disappearing",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmy0qa/help_with_wordpress_fse_navigation_block_mobile/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "performance",
+    "platform"
+   ],
+   "topic": "Speed & Performance",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hey everyone, I’m pulling my hair out with the block-based Navigation menu in a WordPress FSE theme (cadmetal.com) and could use some outside eyes. \n The Problem: \n · Mobile Menu Behavior: When editing the Header template part, adding or rearranging pages (like moving an \"About\" link into or out of the Navigation block container) results in it either dropping out entirely, refusing to render correctly on mobile views, or unintentionally nesting itself as a dropdown child element instead of a flat sibling link.\n · Cache & Permalinks Exhausted: I have tried flushing permalinks, purging server cache, clearing browser caches, and purging Cloudflare multiple times. The backend List View shows the block structure, but the frontend mobile hamburger menu either fails to display the link or redirects incorrectly.\n · Current Setup: Using the default WordPress Navigation block inside a Site Editor header template, but standard layout controls and updates seem stuck or cached somewhere invisible.\n If anyone has tackled stubborn FSE mobile menu caching or list-tree glitchiness like this, I'd love to hear how you fixed it. Thanks!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Risks of combining bare metal server storage.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wn4gnv/risks_of_combining_bare_metal_server_storage/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "competitor"
+   ],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hi guys it is my first time renting a bare metal and I want to know the risks of combining this 2× 1.92 TB NVMe storage drive into 1. My files are backed up but it takes time to resync.\n I can deal with that if it probably fail maybe once in a while but I don't know how often the disks fail. If I can get stats from experience I will appreciate. \n I planned to rent hetzner bare metal server."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Anyone have experience with NearlyFreeSpeech.net?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wn3i1h/anyone_have_experience_with_nearlyfreespeechnet/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I got banned from Neocities because my opinions/content are controversial and people were complaining about me. I’m looking for a new host and liked Neocities because of how simple it was to use. \n I’m considering NearlyFreeSpeech.net and was wondering if anyone here has experience with them? I have a ZIP of my HTML/CSS files from Neocities, so I’m hoping I can basically upload/import those and get the site running again. How easy is NearlyFreeSpeech to use for someone coming from Neocities? How strong are they actually on hosting legal but controversial content? What’s their privacy like for site owners, and how good is their DDoS protection? Would appreciate hearing from anyone who’s actually used them!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "word press/go daddy help",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmjgdk/word_pressgo_daddy_help/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "performance"
+   ],
+   "topic": "Speed & Performance",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm trying to update my company's website through word press managed by go daddy. The content shows on the editor side that it's uploaded, but it doesn't integrate onto the viewing side for 2 weeks. Word press and go daddy supports are no help. \n Has anyone else had this issue? How do I fix it? I've already flushed the cache."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Greengeeks hosting cancellation costed me $235!",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmrry7/greengeeks_hosting_cancellation_costed_me_235/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 11,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Watch out! renewal was coming up for $160 and I wasn't using the site anymore so I cancelled 11 days before billing (the company states 5 days prior is fine) well guess what, today a charge to my card came through for $235. I've reached out to the company and they say they can't do much after the renewal has already gone through. lucky for me they agreed to give me a discount (sarcasm). AVOID THIS COMPANY"
+  },
+  {
+   "sub": "webhosting",
+   "title": "looking for Microsoft VPS reseller.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmg6qy/looking_for_microsoft_vps_reseller/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hello,\n I am looking for a VPS/VDS reseller, who gets their IPs from Microsoft corporation. I dont mind going through KYC, as long as im reviewed by real people not some bot who will deny my account creation without giving me a seconed look"
+  }
+ ]
+}
