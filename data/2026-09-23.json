@@ -1,0 +1,382 @@
+{
+ "date": "2026-09-23",
+ "generated_utc": "2026-09-23T12:24:20.340730+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "16",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 19,
+ "digest_count": 10,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Is SiteGround beginner-friendly for a simple portfolio website?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wnbdb1/is_siteground_beginnerfriendly_for_a_simple/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi everyone! First off, I'm not a web designer, so I apologize if my question doesn't make much sense.\n My site is… let's call it a portfolio. It's basically just pictures of my work, some text, a few links, and that's pretty much it.\n I've been using Elementor for the past few years, but I'm now looking for a new host because I'm not sure the quality-to-price ratio is worth it anymore.\n My site is built using Elementor widgets and relies heavily on Slides. I understand that I'd have to rebuild it, which is totally fine.\n I'm thinking about moving to SiteGround. My question is: is there enough information about SiteGround out there (preferably on YouTube) to guide me through rebuilding a simple portfolio site? If not, is there another hosting provider I should consider?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for affordable hosting recommendations for a small ASP.NET bill generation web app",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wo2ktt/looking_for_affordable_hosting_recommendations/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hi everyone,\n I'm planning to deploy my first web application and would appreciate some advice on hosting options.\n The application is fairly simple and consists of:\n ASP.NET Web App \n SQL Database \n Storage for billing history, including generated PDF files\n Users can upload Excel files, and the app generates billing PDFs\n Users can search and view previously generated billing records and download the associated PDFs\n A few details:\n Monthly budget: $10-$20 USD\n Location: Philippines\n Type of application: Custom software (ASP.NET)\n Expected traffic: Very low, probably only 1-10 users\n Experience managing servers: None (I'd prefer something managed if possible)\n Cloud experience: I have some experience with Azure services, but I'm concerned about unexpected costs since Azure can get expensive if something is misconfigured.\n Since this is my first time hosting a web application, I'm looking for something reliable, beginner-friendly, and cost-effective. Given my requirements, would you recommend Azure App Service, a shared Windows host, or another hosting provider?\n Any recommendations or experiences would be greatly appreciated. Thanks!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "When did you last test a full website restore, not just check that backups exist?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wnvvlf/when_did_you_last_test_a_full_website_restore_not/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "A lot of hosting dashboards show a reassuring “backup completed” message, but that doesn’t prove the backup can actually be restored.\n I’m curious how people here test theirs. Do you restore to a staging environment, download a copy and inspect it, or rely entirely on the hosting provider’s automated backups?\n I’ve seen problems that only become obvious during a restore: incomplete databases, missing email data, backups stored on the same server, or retention periods that are much shorter than expected.\n What does a backup need to include before you consider it reliable, and how often do you test the full recovery process?"
+  },
+  {
+   "sub": "webdev",
+   "title": "Where to host my simple web app?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wo2hym/where_to_host_my_simple_web_app/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Web app is simple. It is a bill generator app which you uploads data from excel and it just generates a billing in pdf format.\n It uses:\n ASP.NET Web App \n SQL Database \n Storage for billing history (includes the pdf file for extraction)\n You can search for the billing history as well of those times you uploaded/generated a billing. it includes the pdf file for the billing.\n This is my first time trying to do web hosting. I know azure services but i think i'm not sure about the cost as azure is very costly if you messed up one part. Thank you for understanding!"
+  },
+  {
+   "sub": "webdev",
+   "title": "An agency put my solo project in their portfolio, with a testimonial from a person who does not exist",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnanxk/an_agency_put_my_solo_project_in_their_portfolio/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Update, 23 September \n Most of that portfolio is gone. Within a few hours of this post going up, 12 of the 16 case studies returned 404, mine in all four languages. I can't prove the two are connected, but the timing is what it is.\n Four entries are still up: proanalizy, pulltail, ready-go, sirius-semiconductors.\n Here's the part I did not expect. Both entries I could show belonged to someone else, the one crediting another agency in its own footer and the one naming an individual developer in five places including its JSON-LD, are gone. The one entry that carried this studio's own creator tag in its source is still there. So the source check I described below turned out to be a decent predictor of what they would and would not defend.\n Still up:\n my screenshot, on their server: https://sakuragency.com/case-shots/sevengrid/screen-1.webp returns 200\n their about page, unchanged: \"Since 2020\", \"100+ projects delivered\", \"77 clients\", \"30 countries\", while the portfolio now shows four projects\n their sitemap, still listing the removed entries\n Archived before any of this came down, still verifies:\n https://web.archive.org/web/20260922091120im_/https://sakuragency.com/case-shots/sevengrid/screen-1.webp \n curl -s --compressed \" https://web.archive.org/web/20260922090509id_/https://sakuragency.com/en/portfolio/sevengrid \" | grep -o Sophie\n Thanks for the archiving advice early in the thread. It is the only reason any of this is still checkable.\n EDIT: They took it down! Maybe becau"
+  },
+  {
+   "sub": "webdev",
+   "title": "Devs that jumped ship, where did you end up?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnu2qj/devs_that_jumped_ship_where_did_you_end_up/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Another industry? Back to school? Still looking? I'm asking for a friend that may end up needing to do the same thing soon (I'm the friend)."
+  },
+  {
+   "sub": "webdev",
+   "title": "Clients want slop",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnognr/clients_want_slop/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Clients have always followed basic trends. In ‘13 it was sliders, sliders everywhere. Then it was bootstrap looking slop. And now more and more are actually requesting what internally we call AI slop. It’s what they see as trendy designs, so it’s what they measure against. Discuss…"
+  },
+  {
+   "sub": "webdev",
+   "title": "Getting a sense of fulfilment back",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnjr2q/getting_a_sense_of_fulfilment_back/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hand coded some stuff today that I'd have absolutely usually let copilot do. Been trying to be a bit more mindful of my AI use in general lately and had a sudden urge this morning to do things the old way. \n Man it was more satisfying than just writing prompts and then iterating on them over and over till I got what I wanted. \n It was only basic stuff - some sass, html and a bit of JS animation with GSAP and I still relied on AI for a few things I genuinely couldn't do / would have taken me too long to figure out. \n But I felt so much more fulfilled at the end of the day! \n Not even sure why I'm feeling the need to post this if I'm honest. I guess it's just surprised me how much better my day was even though I absolutely had to work harder to get the same amount of work done."
+  },
+  {
+   "sub": "webdev",
+   "title": "A Simple Guide to Calm UI",
+   "url": "https://www.reddit.com/r/webdev/comments/1wncwmh/a_simple_guide_to_calm_ui/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": ""
+  },
+  {
+   "sub": "webdev",
+   "title": "Why em-sized spinners wobble in Safari and how to fix it with CSS",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnk073/why_emsized_spinners_wobble_in_safari_and_how_to/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Maybe you have experienced that spinners sized with em wobble as they rotate in WebKit? The reason is the sub-pixel rendering where the rotation only stays stable when the computed width and height land on even pixel values, and 1em usually doesn't.\n So the usual advice ( will-change: transform , translateZ(0) , backface-visibility: hidden ) really doesn't do anything, because it isn't a compositing problem.\n We found the solution though:\n css\n .spinner { height: round(1em, 2px); width: round(1em, 2px); } So round() keeps the icon scaling with the surrounding font size and snaps the computed value to the nearest even pixel.\n Here's a full write-up with the before and after recordings. We actually didn't use any AI to arrive at the solution for once. So only good old engineering and collaboration. https://www.sanity.io/engineering/we-fixed-wobbly-spinners-in-safari-without-ai?utm_source=reddit&utm_medium=social"
+  },
+  {
+   "sub": "webdev",
+   "title": "When should you use forms, and when should you use fetch?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnoaw9/when_should_you_use_forms_and_when_should_you_use/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "switching"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "This doesn't feel like a very 2026 question, but I don't get it and there does not seem to be a lot of information out there on it: When do you use forms to interact with your server, and when do you make plain API calls with fetch ?\n I'm currently building a web-app with SvelteKit and am doing as much as possible with forms, but I'm not sure when and if I should use fetch instead. Let's go through a couple use cases:\n Creating an object (like a user, for example) from a series of input elements. This seems like the obvious choice for a form and saves some boilerplate. However, what if I later want a second location in my app, where users can be created (for example an admin panel). I will then have to create the same form-handling endpoint (form actions in SvelteKit) again for a new route. I'll then likely move the code from the first handler into its own function and just call that in both handlers, but that seems like overcomplicating things. If I just used an API, I would make the same call both times and there would be no need to duplicate code on the server. And if we follow this logic, it would almost never make sense to use forms, as almost all functionality can or might someday be able to be accessed from multiple locations.\n Executing an action with no additional data (like, for example, leaving the group specified on the current route like /group/[id] ). This call would require no additional data, as the group to leave is specified in the URL and the user who wants"
+  },
+  {
+   "sub": "webdev",
+   "title": "My homebrewed architecture",
+   "url": "https://www.reddit.com/r/webdev/comments/1wo2a0j/my_homebrewed_architecture/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "As probably no one of you still knows, I wrote a post about rpc style apis a while back. And as a follow up today I published a new one about a few month of refinement over this. This time I hope I caught most of the things you guys asked and criticized about the last one. But in short: - The consumer shapes the api through a schema first approach - Every endpoint should be unique - Domains are composed of services and services are composed by endpoints - The code for a endpoint is isolated - There are shared effects and shared logic functions, but only for truly reusable parts, not as the default - Middleware now has a distinct place to live and be applied to - Jobs also have their own distinct place to live - The integration layer between two domains is a fleshed out part that follows strict rules.\n If you want a more detailed write up I have a post her https://pragmatic-code.hashnode.dev/fractal-architecture Or if you want to jump right into the code I have a public repo build in this architecture here https://github.com/glm9637/fractal-arch-demo \n Or if you again just want to leave a comment saying that's bs and Clean/hexagonal architecture is still the only way to go for every single backend, feel free to do so."
+  },
+  {
+   "sub": "webdev",
+   "title": "Token bucket vs GCRA: two ways to store the same rate limit",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnkfjb/token_bucket_vs_gcra_two_ways_to_store_the_same/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Everyone reaches for a token bucket when they need a rate limiter, but there's a second model that throws away the balance entirely and keeps a single timestamp instead, and it's a lot closer to the bucket than the name suggests.\n The post covers what rate and burst actually buy you, how each model accounts for time, and when you'd pick one over the other."
+  },
+  {
+   "sub": "webdev",
+   "title": "Anybody had experience migrating from NextJS to OpenNext / Vinext / Tanstack?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnyk1c/anybody_had_experience_migrating_from_nextjs_to/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 9,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "For context, I own a directory that currently serves a single country. I am planning to expand my directory to store other items from other countries as well. The directory app has login, signup, reviews, bookmarks and other user input functionalities as well. It's currently using NextJS with a Singapore VPS setup, and it would be a hassle to rent multiple VPS just for this project, or even use AWS. I am looking Cloudflare Workers as a solution, but based on my research OpenNext and Vinext is not matured yet for production use case. Each page rarely gets updated since its just a news, parking lot and EV charging station directory. RedwoodSDK is also one of the tools that I'm eyeing on. Would love to get some insights from y'all."
+  },
+  {
+   "sub": "webdev",
+   "title": "Suggestion for ad monetization",
+   "url": "https://www.reddit.com/r/webdev/comments/1wn9v8q/suggestion_for_ad_monetization/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I am an indie web developer, and I have a project I've been working on for over an year now. I won't mention the details here, but it's a website for young teens and children. \n To be completely transparent, the server and AI moderation used to power the platform drains a lot of money... so I want to monetize this website with advertisements.\n I did my own research on this and attempted to integrate advertisements from Google Adsense, Adsterra, and MGID. \n Both Google Adsense and MGID rejected me as I did not have enough traffic on my website. The only platform that accepted my offer Adsterra. However, I realized that Adsterra did not have a great censoring mechanism, and often showcased advertisements to adult sites even though I had censoring on. \n I know waiting until my website gets bigger and applying to Adsense might be a better option, but due to personal reasons in my life I really don't have much choice. I do need to start monetizing my website as early as possible, while serving school-appropriate advertisements.\n Are there any other ad providers that you know of?\n Thank you in advance!"
+  },
+  {
+   "sub": "webdev",
+   "title": "GitHub - mamund/tram: test runner for assertion manifests",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnnejl/github_mamundtram_test_runner_for_assertion/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": ""
+  },
+  {
+   "sub": "webdev",
+   "title": "Personal Domain/Email in Retirement?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wn9ntr/personal_domainemail_in_retirement/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I am planning to retire early next year and considering whether I should set up a personal domain and email account.\n I have worked a corporate job for over forty years and use my work email for a lot outside of work. I also have a gmail account that use but it is mostly for marketing/online purchases. \n I have been in the process of migrating personal emails to my gmail, but I detest working in gmail. I prefer MS Outlook / Exchange. \n My brother set up a domain that comes with 5 emails addresses with Ionos a few years ago and seems to like it. \n Is this something that I should consider? What are the pros / cons? \n Is Ionos a reputable company and/or should I consider others."
+  },
+  {
+   "sub": "webdev",
+   "title": "Any recommendations for good audio books on Web dev basics?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnup9u/any_recommendations_for_good_audio_books_on_web/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I'm after audiobooks on HTML CSS JS that are still relevant"
+  },
+  {
+   "sub": "webdev",
+   "title": "Is my workflow outdated already ?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnfq1i/is_my_workflow_outdated_already/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hello, I’ve been coding since not so long ago, just before gpt 3.5 got released. So I learned how to code before AI but still is one the people that uses it heavily to code and also an advocate of not writing code by hand at all anymore but guiding the AI and checking its output (that’s the important part I’ll come to it later).\n Recently another member joined our company and we talked a bit about our workflows and they are very different. \n He’s not reading code output anymore and let another model do the review.\n I’m also seeing more and more people on the internet explaining that’s what they’re doing now, even a CEO of a big company that does cloud service explaining his engineers don’t even read their output anymore, they’re here to guide the AI and also make architectural decisions (even though AI could technically make them for them as they say).\n So in that way my new coworker says he’s not using vscode anymore but tools like Claude Code (the desktop app), cursor and the likes.\n I’m wondering now: is my setup outdated already ? I’m using vscode with the Claude Code extension and I review code output using the diffs with the git extension.\n I’m curious to hear your views on it, thanks"
+  }
+ ]
+}
