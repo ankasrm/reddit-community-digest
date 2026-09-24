@@ -1,0 +1,135 @@
+{
+ "date": "2026-09-24",
+ "generated_utc": "2026-09-24T12:24:02.241229+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "5",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 5,
+ "digest_count": 5,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Microsoft SNDS down since 2 days?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wov3pv/microsoft_snds_down_since_2_days/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Does anyone else having problems with Microsoft SNDS? The link seems to be down for the last 2 days:\n https://substrate.office.com/ip-domain-management-snds/snds \n Can't check the SPAM score for delivering mails to hotmail.com and Office365 mail servers."
+  },
+  {
+   "sub": "webhosting",
+   "title": "How to Contact Froge.Host?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1woavve/how_to_contact_frogehost/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ],
+   "topic": "Speed & Performance",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I've used a Froge.Host account for personal sites for around 2 years. In the past the support was great, no big problems, etc.\n Now though it seems like it's slowly dying. I can't access one site's backend (constant timeouts), one of my email accounts spontaneously deletes emails, and so on.\n I've filed two support tickets. They're at 10 days out with zero response. That's never happened before.\n Does anyone know of another way to contact the Froge team? TIA"
+  },
+  {
+   "sub": "webhosting",
+   "title": "WHMCS - Tema",
+   "url": "https://www.reddit.com/r/webhosting/comments/1woxgir/whmcs_tema/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Ho bisogno di trovare temi gratuiti da installare direttamente in WHMCS \n Grazie"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Has GoDaddy’s customer support gotten worse recently?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wovv5o/has_godaddys_customer_support_gotten_worse/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 9,
+   "relevance_concepts": [
+    "competitor",
+    "support",
+    "tech"
+   ],
+   "topic": "Email",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I’ve been using GoDaddy for quite some time, and honestly, I used to think their customer support was one of the better things about the service.\n But my recent experiences have been frustrating.\n Today, I spent around 40 minutes on a call with a GoDaddy support executive just to eventually get an email ID where I could send my issue for someone else to handle.\n The executive, Mohamad Adnan, was polite and tried to help, so this isn't really about the individual support person. The bigger issue is the process.\n What surprised me more is that when I started looking through Reddit and other social media, I found quite a few people describing similar experiences.\n I've personally had a few frustrating support interactions with GoDaddy recently as well, so this doesn't feel like a one-off incident anymore.\n I’m curious — has anyone else noticed GoDaddy’s customer support getting worse recently? \n Is this just bad luck with the support process, or have others experienced the same thing?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "I want to see that if my site is connected to the internet",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wo9d22/i_want_to_see_that_if_my_site_is_connected_to_the/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hi, I have the website called xlumstaty.site , I did the port forwarding but im not sure if it is connect or not because i was so worried, would you check if it works or unreachable for me?"
+  }
+ ]
+}
