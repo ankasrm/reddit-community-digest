@@ -1,0 +1,446 @@
+{
+ "week": "2026-W39",
+ "generated_utc": "2026-09-25T17:35:27.676218+00:00",
+ "days": [
+  "2026-09-21",
+  "2026-09-22",
+  "2026-09-23",
+  "2026-09-24",
+  "2026-09-25"
+ ],
+ "stats": {
+  "post_count": 41,
+  "by_sub": {
+   "webhosting": 25,
+   "webdev": 16
+  },
+  "by_group": {
+   "competitor": 6,
+   "switching": 9,
+   "hosting": 20,
+   "money": 8,
+   "security": 7,
+   "tech": 6,
+   "platform": 5,
+   "support": 4,
+   "performance": 5
+  },
+  "language_count": 0,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "hosting (20 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Constant downtime on DigitalOcean - is anywhere else better?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wp172p/constant_downtime_on_digitalocean_is_anywhere/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Can I move my domain from IONOS to Jimdo without changing the web address?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wm8gid/can_i_move_my_domain_from_ionos_to_jimdo_without/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (9 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Can I move my domain from IONOS to Jimdo without changing the web address?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wm8gid/can_i_move_my_domain_from_ionos_to_jimdo_without/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Personal Domain/Email in Retirement?",
+     "url": "https://www.reddit.com/r/webdev/comments/1wn9ntr/personal_domainemail_in_retirement/",
+     "sub": "webdev"
+    }
+   ]
+  },
+  {
+   "title": "money (8 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Constant downtime on DigitalOcean - is anywhere else better?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wp172p/constant_downtime_on_digitalocean_is_anywhere/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Is SiteGround beginner-friendly for a simple portfolio website?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wnbdb1/is_siteground_beginnerfriendly_for_a_simple/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (6 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Personal Domain/Email in Retirement?",
+     "url": "https://www.reddit.com/r/webdev/comments/1wn9ntr/personal_domainemail_in_retirement/",
+     "sub": "webdev"
+    },
+    {
+     "title": "Recommendations for Web/Email Hosting with Calendar",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wp6tsp/recommendations_for_webemail_hosting_with_calendar/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "competitor (6 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Constant downtime on DigitalOcean - is anywhere else better?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wp172p/constant_downtime_on_digitalocean_is_anywhere/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Can I move my domain from IONOS to Jimdo without changing the web address?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wm8gid/can_i_move_my_domain_from_ionos_to_jimdo_without/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Is SiteGround beginner-friendly for a simple portfolio website?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wnbdb1/is_siteground_beginnerfriendly_for_a_simple/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Considering Cloudflare Pages for a very small existing website — looking for real-world advice",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmb8pm/considering_cloudflare_pages_for_a_very_small/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Constant downtime on DigitalOcean - is anywhere else better?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wp172p/constant_downtime_on_digitalocean_is_anywhere/",
+   "sub": "webhosting",
+   "relevance": 14,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "performance",
+    "money"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Can I move my domain from IONOS to Jimdo without changing the web address?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wm8gid/can_i_move_my_domain_from_ionos_to_jimdo_without/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Is SiteGround beginner-friendly for a simple portfolio website?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wnbdb1/is_siteground_beginnerfriendly_for_a_simple/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Personal Domain/Email in Retirement?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wn9ntr/personal_domainemail_in_retirement/",
+   "sub": "webdev",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "switching",
+    "tech"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Greengeeks hosting cancellation costed me $235!",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmrry7/greengeeks_hosting_cancellation_costed_me_235/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Looking for an Australia dedicated server under $120 USD",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wptw84/looking_for_an_australia_dedicated_server_under/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "My homebrewed architecture",
+   "url": "https://www.reddit.com/r/webdev/comments/1wo2a0j/my_homebrewed_architecture/",
+   "sub": "webdev",
+   "relevance": 10,
+   "concepts": [
+    "switching",
+    "hosting",
+    "security"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Recommendations for Web/Email Hosting with Calendar",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wp6tsp/recommendations_for_webemail_hosting_with_calendar/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "switching",
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Anybody had experience migrating from NextJS to OpenNext / Vinext / Tanstack?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnyk1c/anybody_had_experience_migrating_from_nextjs_to/",
+   "sub": "webdev",
+   "relevance": 9,
+   "concepts": [
+    "switching",
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Has GoDaddy’s customer support gotten worse recently?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wovv5o/has_godaddys_customer_support_gotten_worse/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "competitor",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Is*Hosting doesn't want my money",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wlqptc/ishosting_doesnt_want_my_money/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Hey HostArmada users are you experiencing similar issues?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wpr5wq/hey_hostarmada_users_are_you_experiencing_similar/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "performance",
+    "support"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "When did you last test a full website restore, not just check that backups exist?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wnvvlf/when_did_you_last_test_a_full_website_restore_not/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "How to Contact Froge.Host?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1woavve/how_to_contact_frogehost/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "word press/go daddy help",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmjgdk/word_pressgo_daddy_help/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "performance"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Looking for affordable hosting recommendations for a small ASP.NET bill generation web app",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wo2ktt/looking_for_affordable_hosting_recommendations/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Where to host my simple web app?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wo2hym/where_to_host_my_simple_web_app/",
+   "sub": "webdev",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Risks of combining bare metal server storage.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wn4gnv/risks_of_combining_bare_metal_server_storage/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "competitor"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Anyone have experience with NearlyFreeSpeech.net?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wn3i1h/anyone_have_experience_with_nearlyfreespeechnet/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "security"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "When should you use forms, and when should you use fetch?",
+   "url": "https://www.reddit.com/r/webdev/comments/1wnoaw9/when_should_you_use_forms_and_when_should_you_use/",
+   "sub": "webdev",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Help with WordPress FSE Navigation Block: Mobile Menu Links Not Updating / Disappearing",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmy0qa/help_with_wordpress_fse_navigation_block_mobile/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "performance",
+    "platform"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Development Environment for Wordpress",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wp7y7j/development_environment_for_wordpress/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "$4 TLDs",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wm5eyt/4_tlds/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Need some name ideas for a hosting brand",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmu4j7/need_some_name_ideas_for_a_hosting_brand/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "looking for Microsoft VPS reseller.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wmg6qy/looking_for_microsoft_vps_reseller/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  }
+ ]
+}
