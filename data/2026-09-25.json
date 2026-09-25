@@ -1,0 +1,145 @@
+{
+ "date": "2026-09-25",
+ "generated_utc": "2026-09-25T12:24:03.719906+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "5",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 5,
+ "digest_count": 5,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Constant downtime on DigitalOcean - is anywhere else better?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wp172p/constant_downtime_on_digitalocean_is_anywhere/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 14,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "performance",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I have a web app that's been running on DO for a few years but for the last few months the DO server-level uptime monitor has been sending me emails virtually every single day, for low latency and/or downtime in some region. Yesterday I got 22 emails and I've already had a few today. Is anyone else who's actually monitoring uptime finding this from their VPS/hosting, or is it time for me to move away? Currently paying just under $40 a month for Basic / 2 vCPUs / 4 GB RAM / 25 GB Disk, so a comparable price would be preferred."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Hey HostArmada users are you experiencing similar issues?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wpr5wq/hey_hostarmada_users_are_you_experiencing_similar/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "support"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Im currently hosting several websites with HostArmada, and recently I’ve been experiencing website availability/server performance issues. \n I contacted HostArmada support, and they told me: \n “There were recently some fluctuations in server load due to abusive activity from other users…” \n They also mentioned that because this is a shared hosting environment, activity from other accounts can sometimes affect server resources. \n I’d like to hear from other HostArmada customers \n 1) Have you experienced similar server load, downtime, or website availability issues recently? \n 2) Did you upgrade your hosting account as they recommended? Has the situation improved since then, without any further issues? \n Any recent experiences would be appreciated."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for an Australia dedicated server under $120 USD",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wptw84/looking_for_an_australia_dedicated_server_under/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 11,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hello,\n I’m looking for a dedicated server located in Australia to serve customers in the Australia and New Zealand region. Currently, I have a server in Singapore. However, due to the recent fault on the Australia-Singapore Cable (ASC) , connectivity between Singapore and Australia has been quite poor.\n The ASC cable fault was reported in Indonesian waters between Anyer and Singapore, affecting the direct Perth–Singapore route. As a result, internet traffic has been rerouted through alternative and considerably longer paths, in some cases via Australia’s east coast and through Japan or the United States. This has caused a significant increase in latency for some routes.\n In my case, I’m currently seeing latency of 400ms or higher between my Singapore server and Australian users, which is negatively affecting service quality.\n Because of this, I’m considering moving the Australian-facing server directly to Australia. My plan is to have my origin server in the UK connect directly to the Australian server , and then have the Australian server serve customers in Australia and New Zealand locally. \n This should help me avoid relying heavily on the currently affected Singapore–Australia route.\n My approximate budget is $110–120 USD per month . I don’t require a high-end CPU or a large amount of RAM. \n My main requirements are:\n Dedicated server with full root access\n 500 GB – 1 TB storage 10 TB – 15 TB monthly bandwidth 300–500 Mbps network port/speed Australian data center/locati"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Development Environment for Wordpress",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wp7y7j/development_environment_for_wordpress/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "hosting",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'd like to hear how people set up a development environment for WP sites. How do you build before hosting?\n I'm basically looking go train myself in different Wordpress page builders and design a couple websites along tutorials.\n Should I get shared hosting and install a new WP instance on different sub-domains? \n Should I get a VPS?\n Should I run each project in repocloud?\n Is Cloudflare Pages made for this?\n Thanks,\n cms"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Recommendations for Web/Email Hosting with Calendar",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wp6tsp/recommendations_for_webemail_hosting_with_calendar/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I've had H0stinger for a little over a year and I think I need to transfer to another server. I am not pleased with the email hosting I have because I really need a calendar to come with the email address. I do not care for Google and want to be able to use Outlook where a calendar comes with the email. \n I am looking for recommendations for alternatives. \n I run a non-profit and will be opening a law firm within the next few months. Both of which are remotely run and do not have a physicial office space."
+  }
+ ]
+}
