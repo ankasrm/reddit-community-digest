@@ -1,0 +1,120 @@
+{
+ "date": "2026-09-29",
+ "generated_utc": "2026-09-29T13:31:53.566885+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "VistaPrint + Hover.com - am i being ripped off",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wsxo5r/vistaprint_hovercom_am_i_being_ripped_off/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I dont know much about webhosting or subscriptions, i just know that years ago, Vistaprint gave me a domain name, a website, and email address, it was like $9.99 a month. After a few years, i was informed that Hover.com will be taking over and payments for web hosting are to be made to them. So yearly i pay about $140. And i just found out that Vistaprint is still in the picture and billing me $29.99 monthly on autopay. So what am i really paying for? if I want the same website address, can i just take it somewhere else? Im paying about $500 a year and barelylain use the website. Do i ever own the website name or is this something the webhosting owns and how do they own it. How would i own it? I complained to Hover one time that i am paying too much and they threaten to just cancel me without any explanation why i am paying so much"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Anyone used 365i in UK?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wsm1aw/anyone_used_365i_in_uk/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Looks like a great deal - £9.99+VAT for a domain name inc 10Gb mailbox\n Anyone got experience of 365\n 365i.co.uk"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Cheap/free email service to use with a basic website on Cloudflare domain",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wsmnm3/cheapfree_email_service_to_use_with_a_basic/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "money",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I recently purchased a domain on Cloudflare, for an informational website. Currently I'm using Publii to build the site, with Github integration to sync it to Cloudflare Workers (free). That part seems to be working? I've also set up an email forward from Cloudflare to my personal Gmail.\n I want to set up email(s) associated with this site (instead of tying to my personal email):\n - it could be as basic as using a general email service on their domain (like website@provider.com ), but...\n - it would be nicer if it was something using my own domain - including sending(responding) email under the domain (like me@website.com )\n It would also be nice if it had some features like forwarding to my personal email (so I see it right away).\n Suggestions for a free/cheap service that would accomplish this? I think I'd rather get away from Google, but if they are the best... so be it.\n I don't want to spend much, preferably nothing (it's not a money-maker). I have seen mention of Zoho, including a free option, but the cheapest I find is Mail Lite at $15/year (not impossible to buy if it's the best option though).\n Also in case it matters,\n Thinking about doing a form submission on the website. Including having several questions they have to fill out, and I would respond with more information and suggestions if applicable. Having that sent to my email and respond by email make sense? Or is there a different portal type of idea?\n A forum sort of setup maybe would work also, but I guess an"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Found a phishing clone of a client's store built from our own public config",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wt1au3/found_a_phishing_clone_of_a_clients_store_built/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Two weeks ago we found that someone had cloned a client's storefront from its public case-study repo, down to a typo in one of my comments, and added a fake crypto checkout step to steal customers' wallet seed phrases. The VPS host sent an auto-reply and the clone was still up days later, so I moved the client to a stack I fully control with Beadmin, which at least shows me exactly what's exposed on the box. \n Has anyone else had a client site not just copied but turned into a scam like this?"
+  }
+ ]
+}
