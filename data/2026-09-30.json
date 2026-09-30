@@ -1,0 +1,181 @@
+{
+ "date": "2026-09-30",
+ "generated_utc": "2026-09-30T13:07:53.598042+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "7",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 7,
+ "digest_count": 7,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Hosting for small Next.js / Node apps that need to be reliably crawlable by AI bots, what are you using?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wty5av/hosting_for_small_nextjs_node_apps_that_need_to/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm running a couple of small Node apps (Next.js plus a lightweight JSON service) behind Cloudflare, and making them readable by AI crawlers (GPTBot, ClaudeBot, PerplexityBot and the like) is a core requirement for me, not a nice-to-have.\n I've found that shared and managed hosting platforms increasingly apply their own bot filtering at the server level. It's often invisible in their dashboards and not configurable per site, so a crawler you explicitly allow in robots.txt can still be turned away before it reaches your app. I'm re-evaluating where I host because of it.\n Currently struggling a lot with my current provider and it's also quite annoying that you allow bots in the panel and then find out their requests got blocked when you look into logs.\n What I'm looking for:\n - a long-running Node 24 process\n - Easy deployment, preferably from GitHub but I can handle a complex CI/CD as well\n - no platform-level bot filtering I can't control (Cloudflare handles that for me)\n - a sensible price for a startup with currently low to medium traffic.\n I'm weighing managed container platforms (Railway, Render, Fly.io), a plain VPS behind Cloudflare, and Vercel / Cloudflare's own compute, even thinking about AWS, Azure or Google.\n Curious what others are using for similar setups, and whether you've actually verified that AI crawlers get through, e.g. in your server logs or Cloudflare's AI Crawl Control.\n Any platforms you'd recommend or avoid on this front?\n And in general, where do you"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Lets try this - my current host suddenly died. Transfer with epp code to new registrar successful but nameservers are rejected by old hosting dnssecc",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtgpse/lets_try_this_my_current_host_suddenly_died/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Is this security? For me? Must my domain die with my old host in the name of security? Or am I my hosts property?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "I HATE GODADDY",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtfq25/i_hate_godaddy/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "competitor",
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "i created a website on 11/7/2026 and worked fine .published it and did a manual backup. Tell me why 25/9/2026 i go to website editor and my site is totally different. I choose the backups on there ,and none of them match my website.I request a review where chat keeps me on a loop then on latest stunt they published a version of the site,only with my Header image.FYI ,some of the images i generated for the clients are also missing."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Shared host suspended our site for \"excessive bandwidth\" with ~50 visitors/month. Screaming Frog, UpdraftPlus, or bots?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wu2uun/shared_host_suspended_our_site_for_excessive/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hey everyone, bit of a panic post. I'm not a web person, I do marketing, but I recently ended up in charge of our company's WordPress site after the agency that built it left. \n This morning the whole site was down with \"this user has been suspended\". Our host (Network Solutions) says it was excessive bandwidth, but support can't tell me where it came from and says to wait 24–48 hours for their specialists. \n The weird part is we only get around 50 visitors a month. \n Stuff I did in the last few days, in case it's my fault: \n The site was still getting visits late that night, then went down overnight. \n Could any of that have caused it, or is it more likely bots hitting the site? And what's the easiest way to stop this happening again? I've seen Wordfence and Cloudflare mentioned, but I'm scared of breaking our company email if I mess with DNS. \n Any advice appreciated, I'm learning as I go 🙏Shared host suspended our site for \"excessive bandwidth\" with ~50 visitors/month. Screaming Frog, UpdraftPlus, or bots?Shared host suspended our site for \"excessive bandwidth\" with ~50 visitors/month. Screaming Frog, UpdraftPlus, or bots?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Best option for a small, unserious website?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtla2w/best_option_for_a_small_unserious_website/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "hosting",
+    "platform"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "This is not the typical request, but recently I bought what is essentially a joke domain between me and some friends, which right now is set up with Cloudflare for free. I want to have a site attached to this domain, but it's also essentially going to be a joke that doesn't get too much traffic and is visited by random people here and there. What would be my best option for hosting here? I want this to be easy and hassle free, and allow me to make changes to the site when I want to without much trouble. \n I'm still not 100% sure what I want to do with this site yet, but I'm just trying to get ideas of the best way to host something as simple as a still image, or a completely cookie-cutter template with some things changed."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Site transfer broken by dns child zone - nameservers refused by DNSKEY",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtd1tr/site_transfer_broken_by_dns_child_zone/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Apparently some sort of dns child zone broke. Needless to say that this was never asked for or properly disclosed. Relationship not healthy. \n Domain is transfered but the custom nameservers at new host wont resolve. DNSSEC with missing ds and dnskey seems to be refused. \n Is there anything I can do rather than contacting the host? I have zero trust for them and wanted to walk away. I was convinced that once the authorative ns where set no major issues would arise?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Need adbice about Laravel",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtmkef/need_adbice_about_laravel/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "tech"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I need help about hosting using laravel im using infinity free for the hosting and server my problem is i don't know how to make it online like i dont know what kind of setup in htdocs in infinity free i mean I'm not using public File my project im doing is on resource and its Blade.php \n for brake down i cant just put my blade.php on the htdocs right???"
+  }
+ ]
+}
