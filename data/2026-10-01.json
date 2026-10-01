@@ -1,0 +1,86 @@
+{
+ "date": "2026-10-01",
+ "generated_utc": "2026-10-01T14:00:30.072635+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "2",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 2,
+ "digest_count": 2,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Sharing my lightweight self-hosted uptime monitoring you can run in your PC",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wuouna/sharing_my_lightweight_selfhosted_uptime/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "security",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "UPTYME is self-hosted uptime monitoring that doesn't require any heavy stack, docker or runtime setup like Node, Python, PHP. It runs on SpyWeb which is a scraping/monitoring engine I built in Rust which is a self-contained binary (around 8MB in size) with built-in SQLite and Lua scripting and runs on Linux, Mac or Windows.\n Live demo: https://uptyme.spyweb.app/ (API key: demo)\n What it does:\n Monitors URLs on any method (HEAD/GET/POST/PUT/PATCH/DELETE) with per-monitor intervals\n Content checks, so \"page is 200 but actually broken\" gets caught\n Status code classification, with a setting for treating 4xx as down\n TLS certificate monitoring with expiry alerts\n Public status pages you can share\n Alert channels: webhooks, ntfy, Discord, Slack, native desktop notifications\n Clustering: run a central node plus checker nodes wherever you want, and get consensus-based alerts so one flaky VPS doesn't page you for a false down\n The front-end is in Vue 3 (prebuilt) and the backend is Lua. RAM usage (Linux) is around 20MB while running, you can throw it on a $3-$5/mo VPS as a central node and run a checker on your PC and you have cluster monitoring 😄.\n You can also just run a standalone node on your PC via tray binary and monitor all your site locally without needing a Cloud/VPS setup and just get native desktop notification when your site is down.\n If you want to try it, just run the setup script on the folder want to put it\n (linux/mac)\n curl -sSf https://uptyme.spyweb.app/setup | bas"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Any good alternative to Runcloud?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wuclqv/any_good_alternative_to_runcloud/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 11,
+   "relevance_concepts": [
+    "switching",
+    "performance",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I have been using Runcloud for 3 years, but now, it does not feels worthy. Started hating their infrastructure and slow UI.\n Ploi seems have some solid infrastructure, but the pricing and it's limitation is not taking me there.\n Any good options?"
+  }
+ ]
+}
