@@ -1,0 +1,186 @@
+{
+ "date": "2026-10-02",
+ "generated_utc": "2026-10-02T13:19:02.095487+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "7",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 7,
+ "digest_count": 7,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "What actually matters when choosing a hosting provider in the Netherlands?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvk060/what_actually_matters_when_choosing_a_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 150.0,
+   "relevance": 18,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm researching the Dutch hosting market and would like to hear from people who actually run websites/businesses in the Netherlands.\n If you were choosing a hosting provider today, what would matter most to you?\n Server location in the Netherlands\n Website speed\n Uptime/reliability\n Backups\n Security\n Support response time\n Price\n Transparent renewal pricing\n Easy migration\n Something else?\n I'm particularly interested in hearing from freelancers, small businesses, developers and agencies.\n What has frustrated you most about your current or previous hosting provider?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "IONOS shared hosting blocks any request containing the `pageName` query parameter, which breaks the WPML Translation Queue",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wv3x2q/ionos_shared_hosting_blocks_any_request/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 15,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Problem\n Since today (1 October 2026), the WPML Translations Queue page ( wp-admin/admin.php?page=tm/menu/translations-queue.php ) no longer loads on my site hosted on IONOS shared hosting. The table stays empty with \"No Data\".\n In DevTools, the REST call WPML makes to load the queue returns 403 Forbidden :\n GET https://example.com/wp-json/wpml/tm/v1/jobs/?limit=20&offset=0&pageName=translation-queue Status: 403 Forbidden Server: nginx Content-Type: text/html The response is an HTML error page, not a WordPress/REST JSON error, so the request never reaches PHP/WordPress.\n What I've isolated\n The trigger is the pageName query parameter itself , regardless of path or value:\n URL Result https://example.com/ 200 OK https://example.com/?pageName=ok 403 https://example.com/wp-json/wpml/tm/v1/jobs/?limit=20&offset=0 200 https://another-ionos-site.com/?pageName=ok (no WordPress installed) 403 So the block happens at the hosting edge (WAF / reverse proxy), not in WordPress, WPML, or any plugin. It also affects a second, non-WordPress site on the same host.\n What IONOS support told me\n I contacted IONOS live chat. They confirmed that shared hosting plans currently block this kind of request because of a high number of attacks against WordPress projects. The only option they offered was moving to a VPS or dedicated server. They said the block is temporary , but could not give any timeframe.\n Environment\n Hosting: IONOS shared hosting (Spain)\n WordPress: latest\n WPML: Multilingual CMS + T"
+  },
+  {
+   "sub": "webhosting",
+   "title": "OVH Pricing Beware.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 15,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "We got 2 dedicated servers last year with OVH.\n Servers are fine. We get raising energy costs, inflation and such. However, jumping 54% in 11 months is not ok.\n No proper justification. Just an email saying: “You will pay more, don’t like it? Cancel here.” No grandfathered plans. Support does not care and happily sends cancellation link.\n Needless to say, we're done. Now we have a few weeks to move out and forget this nightmare.\n Same. Exact. Hardware.\n From $1,050 to $1,616 in 11 months."
+  },
+  {
+   "sub": "webhosting",
+   "title": "BoxWatch: 100% free server monitoring with a free iOS companion app",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wv8ra5/boxwatch_100_free_server_monitoring_with_a_free/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "performance",
+    "tech"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I built BoxWatch to make server monitoring simple. It’s completely 100% free, with all features included and no credit card required.\n Here’s what it offers:\n Server metrics: Monitor CPU, memory, disk, and network usage.\n Uptime checks: Monitor HTTP endpoints, TCP ports, and TLS certificate expiration from your own servers, including internal services.\n Process monitoring: Track resource usage and get alerts when important processes stop or restart.\n Cron monitoring: Get notified when scheduled jobs fail, hang, or miss a run.\n Alerts: Receive notifications through email, Slack, Discord, or custom webhooks.\n Disk forecasting: Get advance warnings before disks fill up.\n Dashboards and reporting: Public status pages, uptime badges, server comparisons, maintenance windows, and weekly summaries.\n Free iOS companion app: Keep an eye on your servers from your phone.\n Supports up to 100 servers , with unlimited cron checks and a one-command setup.\n Check it out: boxwatch.app \n I’d love feedback from anyone running a homelab or managing servers!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Dynadot just suspended our legitimate SaaS domain (500+ users) over a false phishing claim. Anyone else dealing with this?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvnzga/dynadot_just_suspended_our_legitimate_saas_domain/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Looks like Dynadot just suspended our domain based on a completely false claim that we’re running a phishing service. 🤦‍♂️ \n Our SaaS has over 500 happy customers and is fully approved by major payment gateways like Stripe which literally proves we aren't a shady operation. I even saw a similar case happen to someone else just last week. \n Is Dynadot letting automated AI run wild, or does it really just take a single fake abuse report from a competitor to take down an entire legitimate business? Has anyone else dealt with this recently?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "URL to * safety",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvprdj/url_to_safety/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "tech"
+   ],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "If a service is providing URL to * conversion functionality, how do they protect themselves from malicious URL and code? I should add that there is no Docker available on the host. Only Node, PHP and the usual shebang. Is it a matter of agreeing with the customer on predefined URLs upfront?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Aplus Webmail Update: Paragraph spacing issues (forced <p> tags)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wv8hbt/aplus_webmail_update_paragraph_spacing_issues/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "support",
+    "tech"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "It looks like Aplus Webmail updated over the last day or two to a more modern look and feel. While the interface looks fine, the composition spacing is a nightmare.\n When composing in HTML mode, hitting a normal \"Enter\" creates a massive, janky double-space gap on the screen. Worse, when the email is actually sent, the formatting collapses entirely and the copy renders as a single-spaced block with zero blank lines between paragraphs.\n The update seems to have completely removed the global \"Compose\" and HTML editor configuration dropdowns from the settings panel. I contacted support, and they claimed there is nothing that can be done.\n I’ve been using the Shift + Enter technique twice between paragraphs to manually force standard <br> breaks, but having to do this manually for every work email is a massive time-suck.\n Has anyone found a hidden configuration flag, a browser extension workaround, or a custom style script to force the standard \"Enter\" key back to regular line behavior? Thanks!"
+  }
+ ]
+}
