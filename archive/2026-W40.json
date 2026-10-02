@@ -1,0 +1,570 @@
+{
+ "week": "2026-W40",
+ "generated_utc": "2026-10-02T18:05:01.655182+00:00",
+ "days": [
+  "2026-09-28",
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02"
+ ],
+ "stats": {
+  "post_count": 124,
+  "by_sub": {
+   "webhosting": 24,
+   "de_EDV": 100
+  },
+  "by_group": {
+   "hosting": 21,
+   "platform": 7,
+   "tech": 24,
+   "security": 14,
+   "support": 10,
+   "competitor": 8,
+   "switching": 9,
+   "money": 7,
+   "performance": 4
+  },
+  "language_count": 100,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "hosting (19 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "What actually matters when choosing a hosting provider in the Netherlands?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvk060/what_actually_matters_when_choosing_a_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "IONOS shared hosting blocks any request containing the `pageName` query parameter, which breaks the WPML Translation Queue",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wv3x2q/ionos_shared_hosting_blocks_any_request/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "OVH Pricing Beware.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (16 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "IONOS shared hosting blocks any request containing the `pageName` query parameter, which breaks the WPML Translation Queue",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wv3x2q/ionos_shared_hosting_blocks_any_request/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "OVH Pricing Beware.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "VistaPrint + Hover.com - am i being ripped off",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wsxo5r/vistaprint_hovercom_am_i_being_ripped_off/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (9 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "What actually matters when choosing a hosting provider in the Netherlands?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvk060/what_actually_matters_when_choosing_a_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "OVH Pricing Beware.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "VistaPrint + Hover.com - am i being ripped off",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wsxo5r/vistaprint_hovercom_am_i_being_ripped_off/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "money (7 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "What actually matters when choosing a hosting provider in the Netherlands?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvk060/what_actually_matters_when_choosing_a_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "OVH Pricing Beware.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "VistaPrint + Hover.com - am i being ripped off",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wsxo5r/vistaprint_hovercom_am_i_being_ripped_off/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "support (7 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "What actually matters when choosing a hosting provider in the Netherlands?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvk060/what_actually_matters_when_choosing_a_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "IONOS shared hosting blocks any request containing the `pageName` query parameter, which breaks the WPML Translation Queue",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wv3x2q/ionos_shared_hosting_blocks_any_request/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "OVH Pricing Beware.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [
+  {
+   "title": "Preisstabilität Hostinganbieter (VPS)",
+   "why": "",
+   "posts": [
+    {
+     "title": "Preisstabilität Hostinganbieter (VPS)",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wmgbz8/preisstabilität_hostinganbieter_vps/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Wo holt Ihr Eure V-Server?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Wo holt Ihr Eure V-Server?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1ws48dc/wo_holt_ihr_eure_vserver/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Remote Access auf Kundennetzwerke",
+   "why": "",
+   "posts": [
+    {
+     "title": "Remote Access auf Kundennetzwerke",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wpu11k/remote_access_auf_kundennetzwerke/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Erfahrungen mit Garantie auf SSDs in aktueller Marktlage",
+   "why": "",
+   "posts": [
+    {
+     "title": "Erfahrungen mit Garantie auf SSDs in aktueller Marktlage",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1ws7w92/erfahrungen_mit_garantie_auf_ssds_in_aktueller/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Probleme mit IONOS/Outlook oder Lancom",
+   "why": "",
+   "posts": [
+    {
+     "title": "Probleme mit IONOS/Outlook oder Lancom",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wofc9n/probleme_mit_ionosoutlook_oder_lancom/",
+     "sub": "de_EDV"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "What actually matters when choosing a hosting provider in the Netherlands?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvk060/what_actually_matters_when_choosing_a_hosting/",
+   "sub": "webhosting",
+   "relevance": 18,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "IONOS shared hosting blocks any request containing the `pageName` query parameter, which breaks the WPML Translation Queue",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wv3x2q/ionos_shared_hosting_blocks_any_request/",
+   "sub": "webhosting",
+   "relevance": 15,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "OVH Pricing Beware.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvfu5i/ovh_pricing_beware/",
+   "sub": "webhosting",
+   "relevance": 15,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "VistaPrint + Hover.com - am i being ripped off",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wsxo5r/vistaprint_hovercom_am_i_being_ripped_off/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Any good alternative to Runcloud?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wuclqv/any_good_alternative_to_runcloud/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "switching",
+    "performance",
+    "money"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Sharing my lightweight self-hosted uptime monitoring you can run in your PC",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wuouna/sharing_my_lightweight_selfhosted_uptime/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "hosting",
+    "performance",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Shared host suspended our site for \"excessive bandwidth\" with ~50 visitors/month. Screaming Frog, UpdraftPlus, or bots?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wu2uun/shared_host_suspended_our_site_for_excessive/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Hosting for small Next.js / Node apps that need to be reliably crawlable by AI bots, what are you using?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wty5av/hosting_for_small_nextjs_node_apps_that_need_to/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "I HATE GODADDY",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtfq25/i_hate_godaddy/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "security"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Cheap/free email service to use with a basic website on Cloudflare domain",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wsmnm3/cheapfree_email_service_to_use_with_a_basic/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "money",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Lets get to the bottom of the host/nameserver confusion!",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wse915/lets_get_to_the_bottom_of_the_hostnameserver/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Crazy Domains email filtering I didn't ask for",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wryts4/crazy_domains_email_filtering_i_didnt_ask_for/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Lets try this - my current host suddenly died. Transfer with epp code to new registrar successful but nameservers are rejected by old hosting dnssecc",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtgpse/lets_try_this_my_current_host_suddenly_died/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Site transfer broken by dns child zone - nameservers refused by DNSKEY",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtd1tr/site_transfer_broken_by_dns_child_zone/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Need adbice about Laravel",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtmkef/need_adbice_about_laravel/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "BoxWatch: 100% free server monitoring with a free iOS companion app",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wv8ra5/boxwatch_100_free_server_monitoring_with_a_free/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "performance",
+    "tech"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "URL to * safety",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wvprdj/url_to_safety/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Looking for Affordable US-Based Hosting for a Custom-Coded Website",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wrp9j7/looking_for_affordable_usbased_hosting_for_a/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Best option for a small, unserious website?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wtla2w/best_option_for_a_small_unserious_website/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Aplus Webmail Update: Paragraph spacing issues (forced <p> tags)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wv8hbt/aplus_webmail_update_paragraph_spacing_issues/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Best Practice to keep SEO Ranking after Domain Transfer",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wrot6w/best_practice_to_keep_seo_ranking_after_domain/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Found a phishing clone of a client's store built from our own public config",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wt1au3/found_a_phishing_clone_of_a_clients_store_built/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Preisstabilität Hostinganbieter (VPS)",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wmgbz8/preisstabilität_hostinganbieter_vps/",
+   "sub": "de_EDV",
+   "relevance": 13,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Wo holt Ihr Eure V-Server?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1ws48dc/wo_holt_ihr_eure_vserver/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "competitor",
+    "money"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Remote Access auf Kundennetzwerke",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wpu11k/remote_access_auf_kundennetzwerke/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "hosting"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Erfahrungen mit Garantie auf SSDs in aktueller Marktlage",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1ws7w92/erfahrungen_mit_garantie_auf_ssds_in_aktueller/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "support"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Probleme mit IONOS/Outlook oder Lancom",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wofc9n/probleme_mit_ionosoutlook_oder_lancom/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "support"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Welchen Mailanbieter für Emails mit eigener Domain?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wmh5o3/welchen_mailanbieter_für_emails_mit_eigener_domain/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "tech"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Wieso betreiben soviele Werbeagenturen eigene Mailserver?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wmkod8/wieso_betreiben_soviele_werbeagenturen_eigene/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "competitor"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "ISO/Toolstick - FOSS aber nicht ausschließlich",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wpqj3r/isotoolstick_foss_aber_nicht_ausschließlich/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Arbeitszimmer Netzwerkanbindung",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wqm2ip/arbeitszimmer_netzwerkanbindung/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Welche Cloud für 10 Personen Firma",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wnyl48/welche_cloud_für_10_personen_firma/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "security"
+   ]
+  }
+ ]
+}
