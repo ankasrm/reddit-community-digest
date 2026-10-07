@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-07",
+ "generated_utc": "2026-10-07T14:03:04.726247+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "2",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 2,
+ "digest_count": 2,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Best VPS webhosting options?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wznvq3/best_vps_webhosting_options/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Currently have a WordPress site + email on shared hosting and I'm starting to run out of space.\n Thinking about moving everything to a VPS instead. Need a decent amount of storage and ideally an easy way to add more if needed.\n If anyone here has dealt with a similar setup, what’s the best VPS hosting you’ve used?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Ruo Peptide webhosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wzjtdn/ruo_peptide_webhosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm needing a offshore webhost for a research use only peptide company that works with woocommerce.\n Budget unknown - not familiar with typically offshore pricing.\n Not very savvy with all this.\n I've been told go daddy, etc will pull the sites down eventually.\n Any recommendations would be greatly appreciated.\n Thanks!"
+  }
+ ]
+}
