@@ -1,0 +1,144 @@
+{
+ "date": "2026-10-08",
+ "generated_utc": "2026-10-08T14:09:41.032623+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "5",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 5,
+ "digest_count": 5,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Is there a Hetzner but with someone who I can call for help?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x03kpn/is_there_a_hetzner_but_with_someone_who_i_can/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I am currently helping some friends of mine in the manufacturing biz (CNC) with a mess they inherited. They have some very old dedis at a few different \"backwoods\" providers running a whole mess of applications, I think one each setup by previous IT guys and consultants. One of these old providers called them to let them know they're closing down and need to move before the end of the year, which is why I am now involved. \n I've looked at moving their all their infra over to Hetzner. This means moving app servers, databases, customer quoting, etc, and the pricing with Hetzner makes for a very attractive proposition, but then I am on the hook forever with helping them anytime an issue crops up. \n Years ago managed hosting was everywhere and you could actually pick up the phone when something broke, and I think that safety blanket is necessary here, but that industry seems to have vanished for the most part. \n Should I make the migration to Hetzner and hope I can find someone to hand this over to and bet the price difference will save the day? Is there someone who still offers managed hosting with competent staff (NOT AI!!) that I can trust with this after I hand it over?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "ISO Simple host",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0fidy/iso_simple_host/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi. I’m looking to migrate from Wordpress.com to a self hosted Wordpress.org. I currently pay for the $9/mo and also email from WP.com, and i’m still in HS and don’t make a lot so my budget isn’t much higher than that, maybe $12 max. I was looking at DreamHost and h0stinger but, opinions on those ones seem divided. I also looked at Neocities but I think it’s too advanced for me especially with the type of site I have, it would make my frequent updates incredibly tedious. I honestly just want to be able to change the background color on a few of the pages of my site and do more custom HTML & CSS stuff which i’m trying to learn. My site is a fan site/archive of a musician i like so i guess i need a lot of storage too. I don’t need e-commerce or anything like that. I don’t really know anything about web dev or coding jargon and stuff. I honestly just want something simple, within budget, that will allow me to migrate my current Wordpress.com and just have more freedom with the look as well as good email hosting. I have a custom domain and email already. If you want to look at my site for yourself so you can make a better judgement it’s thevannellivault.com\n Thank you guys in advance I appreciate any advice or recs you can give me because i’m really out of my lane here Lol!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "🥳 Giveaway r/webhosting x UptimeRobot. 10 Winners",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0lsco/giveaway_rwebhosting_x_uptimerobot_10_winners/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "performance"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hey r/webhosting ! We're UptimeRobot , and we've teamed up with the mods to run a giveaway for this community, with a prize pool of 10 monitoring plans, including a year of our Scale plan worth $888. Anyone who's worked in hosting, sysadmin, or dev long enough has a story about an outage that made absolutely no sense at the time (or made way too much sense in hindsight). Now's your chance to share it and maybe win something for your trouble.\n What's the weirdest or most ridiculous reason you've ever seen something go down? \n An intern's mistake that took out a production database, a CEO blunder nobody dared mention, a squirrel in the wrong place at the wrong time... we want to hear it.\n Prizes (10 winners total) \n 1 grand prize winner: Scale plan ($888 value) plus UptimeRobot swag\n 2 runners-up: Team plan ($468 value each) plus UptimeRobot swag\n 7 additional winners: Team plan ($468 value each)\n How to participate Reply here with your story. You don't have to write an essay. That's it, you're in!\n Dates: The giveaway runs from October 8 through October 22.\n Looking forward to reading your weird, embarrassing, ridiculous, and funny stories!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Hosting recommendations for a legal adult business website (EU/DE)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x083na/hosting_recommendations_for_a_legal_adult/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "competitor",
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hello everyone,\n I am the tech \"slave\" of a German dominatrix and do the tinkering for her website.\n At a meeting for sex workers, she got the info that the current host (Strato) and many other common hosts explicitly do not allow hosting erotic content and she asked me to swap hosts.\n This is not a question about hosting adult content that isn’t mine, and I don’t need a host that is resistant to DMCA claims. I am searching for recommendations to host a site like hers without the risk of getting thrown out for not complying.\n I have already searched, but the dead internet theory is real. I found some AI-generated ad sites that share some information, and from looking through a few ToS, it seems like these could work. But if you already have experience with this, that would mean a lot. \n Cheers!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Gen Digital bid for GoDaddy: buying 81 million domains in the age of AI agents",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0fg7k/gen_digital_bid_for_godaddy_buying_81_million/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "competitor"
+   ],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "What do you guys think of this deal? Is it likely to go through? \n Source: Gen Digital bid for GoDaddy: buying 81 million domains in the age of AI agents"
+  }
+ ]
+}
