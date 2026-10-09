@@ -1,0 +1,674 @@
+{
+ "week": "2026-W41",
+ "generated_utc": "2026-10-09T18:32:55.549825+00:00",
+ "days": [
+  "2026-10-05",
+  "2026-10-06",
+  "2026-10-07",
+  "2026-10-08",
+  "2026-10-09"
+ ],
+ "stats": {
+  "post_count": 167,
+  "by_sub": {
+   "webhosting": 15,
+   "smallbusiness": 53,
+   "de_EDV": 99
+  },
+  "by_group": {
+   "hosting": 15,
+   "money": 22,
+   "switching": 22,
+   "tech": 14,
+   "support": 6,
+   "performance": 4,
+   "platform": 10,
+   "competitor": 8,
+   "security": 11
+  },
+  "language_count": 99,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "money (22 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Is there a Hetzner but with someone who I can call for help?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x03kpn/is_there_a_hetzner_but_with_someone_who_i_can/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Hosting.com - formerly A2Hosting - 1 year later. How are you finding it?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x134pi/hostingcom_formerly_a2hosting_1_year_later_how/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Plesk Increasing Price by Over 17%, Is it worth it?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x0ruvq/plesk_increasing_price_by_over_17_is_it_worth_it/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (16 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Is there a Hetzner but with someone who I can call for help?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x03kpn/is_there_a_hetzner_but_with_someone_who_i_can/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "ISO Simple host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x0fidy/iso_simple_host/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Plesk Increasing Price by Over 17%, Is it worth it?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x0ruvq/plesk_increasing_price_by_over_17_is_it_worth_it/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "hosting (15 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Is there a Hetzner but with someone who I can call for help?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x03kpn/is_there_a_hetzner_but_with_someone_who_i_can/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "ISO Simple host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x0fidy/iso_simple_host/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Hosting.com - formerly A2Hosting - 1 year later. How are you finding it?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x134pi/hostingcom_formerly_a2hosting_1_year_later_how/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "platform (9 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "ISO Simple host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x0fidy/iso_simple_host/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Hosting.com - formerly A2Hosting - 1 year later. How are you finding it?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x134pi/hostingcom_formerly_a2hosting_1_year_later_how/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Exporting websites? Finding developers?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1wyqn4f/exporting_websites_finding_developers/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "competitor (8 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Is there a Hetzner but with someone who I can call for help?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x03kpn/is_there_a_hetzner_but_with_someone_who_i_can/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "ISO Simple host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x0fidy/iso_simple_host/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Hosting.com - formerly A2Hosting - 1 year later. How are you finding it?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1x134pi/hostingcom_formerly_a2hosting_1_year_later_how/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [
+  {
+   "title": "Wo am besten Webseite betreiben?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Wo am besten Webseite betreiben?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wu6iah/wo_am_besten_webseite_betreiben/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Netcup SoGo Mail alternative?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Netcup SoGo Mail alternative?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wu0vnp/netcup_sogo_mail_alternative/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Mein erstes \"kleines\" Homelab - mit Halbwissen und eurer Hilfe?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Mein erstes \"kleines\" Homelab - mit Halbwissen und eurer Hilfe?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wtjckj/mein_erstes_kleines_homelab_mit_halbwissen_und/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Netzwerkschrankplanung im Neubau - passt das so?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Netzwerkschrankplanung im Neubau - passt das so?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1wu609d/netzwerkschrankplanung_im_neubau_passt_das_so/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Homelab über Mobilfunk-Router",
+   "why": "",
+   "posts": [
+    {
+     "title": "Homelab über Mobilfunk-Router",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1ww2jad/homelab_über_mobilfunkrouter/",
+     "sub": "de_EDV"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Is there a Hetzner but with someone who I can call for help?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x03kpn/is_there_a_hetzner_but_with_someone_who_i_can/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "ISO Simple host",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0fidy/iso_simple_host/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Hosting.com - formerly A2Hosting - 1 year later. How are you finding it?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x134pi/hostingcom_formerly_a2hosting_1_year_later_how/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Plesk Increasing Price by Over 17%, Is it worth it?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0ruvq/plesk_increasing_price_by_over_17_is_it_worth_it/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "switching",
+    "money",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Exporting websites? Finding developers?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wyqn4f/exporting_websites_finding_developers/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "competitor",
+    "switching",
+    "platform"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Conversation",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wz1x95/conversation/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "hosting",
+    "money",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "Do you actually check your 3PL invoices line by line?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy6py6/do_you_actually_check_your_3pl_invoices_line_by/",
+   "sub": "smallbusiness",
+   "relevance": 9,
+   "concepts": [
+    "switching",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Commercial Lease Flooring Cost",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxsl88/commercial_lease_flooring_cost/",
+   "sub": "smallbusiness",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Hosting recommendations for a legal adult business website (EU/DE)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x083na/hosting_recommendations_for_a_legal_adult/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "competitor",
+    "hosting"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Choosing a GPU server",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x1brf7/choosing_a_gpu_server/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Need actual specific dirt cheap hosting options (not just vague references) for very low traffic wordpress.org blog",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x13szy/need_actual_specific_dirt_cheap_hosting_options/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Looking for a US 3PL recommendation: Shopify integration, multichannel (TikTok Shop, Amazon), small volume",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxuwue/looking_for_a_us_3pl_recommendation_shopify/",
+   "sub": "smallbusiness",
+   "relevance": 6,
+   "concepts": [
+    "money",
+    "support",
+    "platform"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Best VPS webhosting options?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wznvq3/best_vps_webhosting_options/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "🥳 Giveaway r/webhosting x UptimeRobot. 10 Winners",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0lsco/giveaway_rwebhosting_x_uptimerobot_10_winners/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "performance"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Time to leave my job?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxsrah/time_to_leave_my_job/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Solo founder selling to small online stores, how do I get past one-at-a-time outreach?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxkl45/solo_founder_selling_to_small_online_stores_how/",
+   "sub": "smallbusiness",
+   "relevance": 5,
+   "concepts": [
+    "performance",
+    "tech"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Gen Digital bid for GoDaddy: buying 81 million domains in the age of AI agents",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0fg7k/gen_digital_bid_for_godaddy_buying_81_million/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "competitor"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Ruo Peptide webhosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wzjtdn/ruo_peptide_webhosting/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Getting organised",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wy8hsp/getting_organised/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "Looking for hosting + bgp announcement",
+   "url": "https://www.reddit.com/r/webhosting/comments/1wxs1q4/looking_for_hosting_bgp_announcement/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Family business in a structural crisis: keep trying to save the whole company, or buy out the store I effectively built?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy4e1j/family_business_in_a_structural_crisis_keep/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Customer abused me over a 3 month old order. Would you still refund?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy7r18/customer_abused_me_over_a_3_month_old_order_would/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Anyone imported consumer products into Asia? Trying to understand how distribution deals work",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy4k41/anyone_imported_consumer_products_into_asia/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Service business, per hour labor plus expenses or higher per hour price",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxsewp/service_business_per_hour_labor_plus_expenses_or/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "For local service businesses (lawn, HVAC, cleaning): what actually makes your website convert?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy8si7/for_local_service_businesses_lawn_hvac_cleaning/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Location ideas",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxs3eq/location_ideas/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "I'm a 20-year-old apprentice and I just launched my first paid app. What would you do differently for marketing?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxorsv/im_a_20yearold_apprentice_and_i_just_launched_my/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Advice for a beginner! (POD for baby tees)",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy5jrr/advice_for_a_beginner_pod_for_baby_tees/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "DIY products materials purchase",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy0vm6/diy_products_materials_purchase/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "How to accelerate google review collection?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxqg6p/how_to_accelerate_google_review_collection/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "performance"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "How to partner with car washes/auto shops to sell my car air fresheners (AROMA CORE), track consignment inventory, and motivate staff?",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy2ad6/how_to_partner_with_car_washesauto_shops_to_sell/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Thinking of opening a small grocery or supermarket? Here's what the first year actually looks like financially",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wy7kl3/thinking_of_opening_a_small_grocery_or/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 33,
+   "title": "im a teen with a business idea",
+   "url": "https://www.reddit.com/r/smallbusiness/comments/1wxybfd/im_a_teen_with_a_business_idea/",
+   "sub": "smallbusiness",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 34,
+   "title": "Wo am besten Webseite betreiben?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wu6iah/wo_am_besten_webseite_betreiben/",
+   "sub": "de_EDV",
+   "relevance": 11,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 35,
+   "title": "Netcup SoGo Mail alternative?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wu0vnp/netcup_sogo_mail_alternative/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "hosting"
+   ]
+  },
+  {
+   "id": 36,
+   "title": "Mein erstes \"kleines\" Homelab - mit Halbwissen und eurer Hilfe?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wtjckj/mein_erstes_kleines_homelab_mit_halbwissen_und/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "hosting"
+   ]
+  },
+  {
+   "id": 37,
+   "title": "Netzwerkschrankplanung im Neubau - passt das so?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wu609d/netzwerkschrankplanung_im_neubau_passt_das_so/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "hosting"
+   ]
+  },
+  {
+   "id": 38,
+   "title": "Homelab über Mobilfunk-Router",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1ww2jad/homelab_über_mobilfunkrouter/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "competitor",
+    "hosting"
+   ]
+  },
+  {
+   "id": 39,
+   "title": "Steckdosenleisten Alternativen für Schreibtisch mit Handschalter",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wvxy42/steckdosenleisten_alternativen_für_schreibtisch/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "security"
+   ]
+  },
+  {
+   "id": 40,
+   "title": "Enpal Box Fritzbox Probleme Verbindung Internet",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wxhnh6/enpal_box_fritzbox_probleme_verbindung_internet/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 41,
+   "title": "Headset Empfehlung",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wxfh04/headset_empfehlung/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 42,
+   "title": "VDSL oder Kabel als Übergang im Neubau",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wwpuk7/vdsl_oder_kabel_als_übergang_im_neubau/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 43,
+   "title": "Kaufberatung Switch",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1wyikez/kaufberatung_switch/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  }
+ ]
+}
