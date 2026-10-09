@@ -1,0 +1,128 @@
+{
+ "date": "2026-10-09",
+ "generated_utc": "2026-10-09T13:58:02.169981+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Need actual specific dirt cheap hosting options (not just vague references) for very low traffic wordpress.org blog",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x13szy/need_actual_specific_dirt_cheap_hosting_options/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Based in USA. My low traffic wordpress blog's hosting service is about to expire in a few days. I've come to the conclusion that I should renew but of course I need a viable, dirt cheap hosting service for that one website. Something under $60 a year ideally (so $5 a month). The options on the sidebar look ok but I'm hoping for something even cheaper.\n The problem is, people keep telling me to \"shop around\" over and over, it's very hard to run into actual specific hosts that are both trustworthy and meet my budget. I've seen some people advertising on here, I don't know if those ones are safe.\n So can people point me to specific hosting providers to use for this?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Hosting.com - formerly A2Hosting - 1 year later. How are you finding it?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x134pi/hostingcom_formerly_a2hosting_1_year_later_how/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I abandoned WordPress about 7 years ago, with the exception of 2 or 3 clients, but have reason to launch hosted WP sites for some longer-term personal projects. I'm considering Hosting.com but am wary of the fears of another EIG following their acquisition a year ago. How are you finding them - pricing? customer service (live AND ticketing)? CPANEL or other mgmt.\n I had A2Hosting for about 2 years a while ago. Liked it then."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Plesk Increasing Price by Over 17%, Is it worth it?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x0ruvq/plesk_increasing_price_by_over_17_is_it_worth_it/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "switching",
+    "money",
+    "security",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Just seeing that Plesk's subscription pricing is going up by over 17% as of 1/1/2027.... Less than a decade ago they had an 'always free' tier that was awesome. How have they fallen so far and what good alternatives are out there (not cPanel)? \n I just don't think their product is worth the ever increasing, never ending price. Anyone have any good alternatives with stable pricing and reseller management?\n Plesk team- you have a good product. Don't kill it by driving off your customers on price/predictability. \n Source - https://www.plesk.com/customer-licensing-guide/ \n Vague Email Telling Us About the Update- \n We're writing to share an update to Plesk pricing for both existing and new licenses, effective January 1, 2027.\n Plesk continues to evolve, and we are investing in the platform to deliver greater value over the long term. As part of this continued investment, we will be making an adjustment to our pricing, while remaining focused on the reliability, security, performance, and innovation you rely on from Plesk.\n Full details are available on our 2027 Plesk Store Licensing Guide.\n Pricing for select extensions, including CloudLinux OS, Imunify360 and KernelCare, is updated effective January 1, 2027. There will also be changes to ImunifyAV+ pricing and licensing tiers. We will share detailed information about these changes in a separate communication shortly. The complete list of affected extensions and their updated pricing is available in the 2027 Plesk Extension Price"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Choosing a GPU server",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x1brf7/choosing_a_gpu_server/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "switching",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm currently using Runpod for serverless GPU instances and i'm planning to switch to an always-on one\n What other options would you recommend that could potentially be cheaper than Runpod in this case?\n Here are list of GPUs that are enough for my use case: \n RTX 2000 Ada \n RTX 4000 Ada \n RTX A4000 \n RTX A4500 \n RTX 3090 \n L4 \n RTX A5000 \n PRO 6000 MIG 24GB"
+  }
+ ]
+}
