@@ -1,0 +1,64 @@
+{
+ "date": "2026-10-12",
+ "generated_utc": "2026-10-12T16:15:32.856380+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "1",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 1,
+ "digest_count": 1,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Marksystem web hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x4580p/marksystem_web_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Is there any talk on Marksystem? I’ve stumbled across it a few months ago and I want to know if other people know anything more about it? I want to know if I should move to Marksystem because the prices are a lot more reasonable and I heard the services are good. If anyone can get back to me I’d appreciate it a lot."
+  }
+ ]
+}
