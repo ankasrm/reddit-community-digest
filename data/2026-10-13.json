@@ -1,0 +1,335 @@
+{
+ "date": "2026-10-13",
+ "generated_utc": "2026-10-13T14:40:20.967240+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "12",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 16,
+ "digest_count": 10,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "i need a reliable web hosting provider",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x49f54/i_need_a_reliable_web_hosting_provider/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "competitor",
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi.. i used domain.com since 2020 and they were bought by network solutions last year. Signed for one year with them and their service is awful. Before they bought domain.com , have never ever had any issues with them. ISO reliable provider. I tried Ionos briefly but i didnt like it. Thanks."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Does my website plan make sense?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x4fh6r/does_my_website_plan_make_sense/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 11,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "money",
+    "security"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Im in the process of starting a one man web studio in Canada building sites for local businesses (trades, markets, small service businesses). I want a reality check on my pricing model before I start signing clients.\n What I plan to offer\n 2000 CAD website build fee, due at launch 1 month of the care plan included with every build 80/mo CAD Website Care plan after \n The website care plan includes…\n managed hosting 24/7 uptime monitoring Monthly performance report 30 minutes of content changes per month. critical fixes at no charge Ongoing SEO and ranking monitoring\n After the 30 days they are contacted and asked if they would like to continue the care plan. If no, I point them in the right direction towards resources to host it themselves, and they get access to the source code. If they want to continue, I send them a stripe link to get card info to subscribe them to a reoccurring monthly payment (Im fairly new to stripe so Im not sure if I can get and store their card info so they don’t have to give me their info again if they decide to continue but I’m not sure. Please let me know if so). They can walk away at any time, no minimum term.\n I initially made a post similar to this a few weeks back and I have revised it based on the feedback I got on it. This is the link to it here in case you want to compare\n https://www.reddit.com/r/webhosting/s/g47U5iTxWb \n Any advice or thoughts would be greatly appreciated! Thank you very much in advance!! :)"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Marksystem web hosting",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x4580p/marksystem_web_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Is there any talk on Marksystem? I’ve stumbled across it a few months ago and I want to know if other people know anything more about it? I want to know if I should move to Marksystem because the prices are a lot more reasonable and I heard the services are good. If anyone can get back to me I’d appreciate it a lot."
+  },
+  {
+   "sub": "webdev",
+   "title": "Is Neon PostgreSQL Free Tier reliable enough for a production booking app?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4p9kr/is_neon_postgresql_free_tier_reliable_enough_for/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "performance"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I'm planning to use Neon PostgreSQL for a production booking application and would like feedback from people with real world experience.\n My workload: • 300 daily active users • Up to 30 concurrent users • Users can book 2 to 3 slots daily, and frequently check available slots and existing bookings • Next.js backend, with a landing page hosted on Netlify\n Would Neon's free plan be sufficient for this workload, or should I opt for a paid plan?\n I'm particularly interested in reliability, unexpected downtime, query latency, compute limits, and any production issues you've experienced.\n Would you trust Neon Free for this use case?"
+  },
+  {
+   "sub": "webdev",
+   "title": "How to update to a modern website",
+   "url": "https://www.reddit.com/r/webdev/comments/1x446i2/how_to_update_to_a_modern_website/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I hope this is the correct place to post this. I am wanting to convert a fan fiction website to a modern site that is mobile accessible. There are thousands of pages that are in either basic HTML, or pages made in MS Word HTML. I am not a coder and had used Dreamweaver to do much of it. Can someone recommend an AI tool to do this? I already have a server and domain name. Thanks."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Serverbyt",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x48hzx/serverbyt/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "security",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Before people start wondering if it's true what they offer they are full of shit here is a snapshot of what the server they have me on its cpanel they appear to have a dedicated database server. They love to overload servers to start with also find their is no way your going to store more then 100 GB of storage with them as their servers only have tiny storage drives. Their servers for db are slow to respond just like their cpanel interface. Because they cant seem to figure out that overloading them is not worth the issue and slowness \n Attached are snippets of the system information and db \n https://imgur.com/a/hQbkmpk"
+  },
+  {
+   "sub": "webdev",
+   "title": "Are 5-6 round interviews the normal now?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4m79m/are_56_round_interviews_the_normal_now/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Am I the only person who thinks this is kind of f$cked?"
+  },
+  {
+   "sub": "webdev",
+   "title": "What's out there beyond webdev, since the rise of AI?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4rvjt/whats_out_there_beyond_webdev_since_the_rise_of_ai/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I've been working in web development for 20 years. First 10 years were more backend focussed, but the last 10 years were more frontend, where my passion lies. Working for an agency, mainly working on medium sized projects. \n These past few months have been confronting. Unlike many others, I really like the usage of AI and don't really miss hands-on coding (yet). It actually took away the dread of repeating myself over-and-over again. \n The way we work never allowed us to create reusable components, because our designers needed full creative freedom. One season they like to use horizontal sliders and the next they feel like something else. We're also not a big team, so an extensive library would mean a maintenance cost. That left me with a feeling of repeating myself a lot and missing out on new challenges. It's the part of my job I disliked. I did like the creative challenges though. \n Now with Claude, I've setup my skills and rules into a pipeline that I refine constantly, to ensure a consistent output. Discussing project structure, best practices, performance enhancements. It challenges me on a different level. \n It's come to a point where the last project I needed to work on was about 1 day of planning and 6 hours of executing in Claude. That got me 90% of the work done. I'm using the time I saved to refactor some of the stuff Claude outputs, for the next project. \n The trend for me is clear: what used to take us 150 hours we can now do in 10% of the time. It will only get"
+  },
+  {
+   "sub": "webdev",
+   "title": "I maintained and built a custom system for an organization for years. They gave a third-party company full hosting access without telling me.",
+   "url": "https://www.reddit.com/r/webdev/comments/1x47p3y/i_maintained_and_built_a_custom_system_for_an/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "security",
+    "support",
+    "platform"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Note: I’m not a professional web developer; I’m an academic who builds tools for my own research and projects. That’s why I kept using their existing hosting.\n For the last 3–4 years, I've helped (for a small fee) organize an academic event while building and maintaining its technical infrastructure. I maintained the website, developed a custom WordPress plugin for submissions, handled technical issues, and helped prepare publications.\n I was also developing a new, more general version of the system that could eventually support multiple events and become a commercial product. The organizing team knew about this.\n Without informing me, they gave an outside company full hosting access. The company created a complete backup containing the website, database, files and, apparently, my plugin/source code. I learned about this the next day.\n I later found out that they had decided to move to a new system developed by that company. What bothers me most is that they gave unrestricted access to my work without discussing it with me.\n I decided to leave the organizing team. I removed only the software components I had developed from the live system. I did not delete or modify any submissions, documents or participant data, and I had already provided the necessary backups for continuity.\n I had explained that I could provide the hosting information to the second company after deleting my own system, since the previous conference's application process was still ongoing. Instead, they acc"
+  },
+  {
+   "sub": "webdev",
+   "title": ".co.uk/ and .co.uk/index.html appear different depending on route taken",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4rn2f/couk_and_coukindexhtml_appear_different_depending/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "security",
+    "tech"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "So basically, im running my web server on AWS lightsail, i wrote my own https server code and URL ending in .co.uk/ and .co.uk/index.html both direct to /index.html but when i go to .co.uk/ it appears smaller than if i was to type .co.uk/index.html and i cant figure out why.\n I have done all the usual scanning whats listening to ports 443 and 80 and its just the webindex.js file im talking about, so there is nothing else getting in the way, i already disabled PM2 since i run a different server that monitors my apps servers and kicks them back up via ssh when they go down.\n Anyway, i checked the main things, i just cant understand why its serving the webpage smaller when routing via .co.uk/ and .co.uk/index.html is the correct size/scale.\n const https = require('https'); const fs = require('fs'); const path = require('path'); const WebSocket = require('ws'); const mysql = require('mysql'); const { v4: uuidv4 } = require('uuid'); const { format } = require('date-fns'); const http = require('http'); // Load SSL key and certificate const privateKey = fs.readFileSync( path.join(__dirname, 'newcerts/key.key'), 'utf8' ); const certificate = fs.readFileSync( path.join(__dirname, 'newcerts/certificate.crt'), 'utf8' ); const credentials = { key: privateKey, cert: certificate }; // Helper function to serve static files const serveFile = (res, filePath, contentType) => { fs.readFile(filePath, (err, data) => { if (err) { console.error(`Error loading file ${filePath}:`, err); res.writeHead"
+  },
+  {
+   "sub": "webdev",
+   "title": "Netlify DNS Record problem",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4njkd/netlify_dns_record_problem/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "competitor",
+    "tech"
+   ],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I have purchased domain on godaddy and connected via netlify. Now i am trying to add resend(email service) domain verification TXT code but it's not saving it and not showing any error. In the past i have saved google search console domain verification TXT successfully.\n what should be issue and how to resolve this issue?"
+  },
+  {
+   "sub": "webdev",
+   "title": "htop explained",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4skpb/htop_explained/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": ""
+  },
+  {
+   "sub": "webdev",
+   "title": "What website should I build that people would actually use and that I can add to my resume?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4sznm/what_website_should_i_build_that_people_would/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hey everyone!\n I’m a BCA student from Nepal, and I want to build a serious web development project that solves a real-world problem rather than making another basic student project.\n My goal is to create something that real people would find useful and actually use , while also making it a strong addition to my resume and GitHub portfolio.\n My current tech stack is: - HTML - CSS - JavaScript - PHP - MySQL\n I’m willing to learn additional technologies if the project requires them.\n I’m looking for ideas that are practical, challenging, and have the potential to grow into a real product. Ideally, I want to build something with useful features, proper authentication, a database, an admin panel if needed, and a clean user experience.\n I’m especially interested in tools that solve everyday problems, improve productivity, or make an existing process easier.\n I’d appreciate your suggestions on: 1. What website would you recommend building, and what problem would it solve? 2. Is there an existing problem that current websites or apps don’t solve well? 3. What features would make the project stand out from typical student projects? 4. How could I attract my first real users? 5. Would a project built with PHP and MySQL be impressive enough for a developer resume if it’s well designed, deployed, and actively used?\n I’d prefer honest feedback and practical ideas over generic suggestions like a to-do list, weather app, or basic e-commerce website.\n Thanks in advance! I’d love to hear your"
+  },
+  {
+   "sub": "webdev",
+   "title": "what yall think of jsless sites?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4jijd/what_yall_think_of_jsless_sites/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I was looking into fazer browser options and found dillo, a no-javascript browser. is it feasible to transition the internet to no javascripting(as in doing the same stuff without it, not as in convincing people to change)? and if so, what would be the benefits/downsides?"
+  },
+  {
+   "sub": "webdev",
+   "title": "Should i be called VibeCoder?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4j3tm/should_i_be_called_vibecoder/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Starting Out & Beginner Questions",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hi Everyone,\n So i am a web developer and designer for 10 years, i started with React Frontend then learned web design. I am building websites and web apps for 10 years now, and lately i am using AI heavily for my development, my main focus is now design and then use AI tools to make that website or app, exactly like the design and features i want, it took me around 5 days to built a complete website. \n My question is am i now vibe coder?"
+  },
+  {
+   "sub": "webdev",
+   "title": "Is this normal or not?",
+   "url": "https://www.reddit.com/r/webdev/comments/1x4cbec/is_this_normal_or_not/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I was recently approached by a startup to fix a part of their website. I was tasked with fixing their homepage. Fixing it consisted of rewriting their html, js and css completely. In the end I added more than 5k lines of code easily. I implemented new things and they seemed to be really happy. It took me around 2 weeks (design + implementation). I also helped write the T&C and PP, added new vids and animations etc. This is the first time I have done something like this and was hoping to earn some money (not expecting anything big at all). They paid me £150 and acted like they did me a favour. Was I underpaid? They want to fix another one of their pages which will take an even longer time but I am not sure if it's worth it.\n Note: I have a BSc in Comp Sci from a London Uni, and already have some experienced (unpaid)\n EDIT:\n OMG guys I didn't realise how bad it was. WTF. For those asking yes I do have a degree from a London Uni in Comp Sci. I just didn't know how much people pay. Like some mentioned I was too excited about the opportunity and forgot to be realistic about what I am actually worth. I felt like they were doing me a favour. But tbh I did not expect 150. Welp guess Im going to have a word with them before doing the next part. I am really pissed off now."
+  }
+ ]
+}
