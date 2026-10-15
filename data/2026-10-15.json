@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-15",
+ "generated_utc": "2026-10-15T12:14:56.791283+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 3,
+ "digest_count": 3,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "WPEngine unable to mitigate 504s, any alternative (Kinsta vs Cloudways)?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x6e0fw/wpengine_unable_to_mitigate_504s_any_alternative/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 17,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "We are a consulting firm for APAC market with clients / website visitors from all around the world, with between 3K to 4k active visitors daily.\n We also have additional smaller sites for specific services but traffic is \"negligeable\" vs our main site.\n We have been subjects of a lot of bot traffic and *most likely* attacks the past few months causing a lot of down time due to 504s. WPE has been quick to advise us to taking the higher tier service which is their 600usd / month dedicated server.\n I saw on this great sub that a lot of competitors can fix this via proper Cloudflare management for a fraction of the price. However I imagine they have a caveat (I also saw bad review on here about the key competitors of WPE), I am wondering at the of the day what is a good alternative to this?\n Honestly we 've been with WPE for years but are fedup with their constant upsell and failure to mitigate our shared server situation.\n Thanks in advance for any useful info!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for cheaper options for a not-for-profit group",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x5svs8/looking_for_cheaper_options_for_a_notforprofit/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 20,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "EDIT: Thank you so much everyone for the suggestions and for those that DM'd me. I feel very supported by this community. I'm going to take a couple days to decide. Thanks again :)\n Hey folks, \n I run a not for profit and am currently using HostPapa. I was taken back by their renewal fees, so I'm looking to move to a cheaper hosting provider with lower renewal fees. I'm new to this space and am not totally sure who would be best to migrate too.\n I'm looking to switch to Namecheap or IONOS but am definitely open to other suggestions. \n Current fees. \n Somewhere around 5-10 CDN bucks per month would be great. \n My audience is international, and I built the website using Wordpress.\n gaydruzecommunity.org \n Thank you"
+  },
+  {
+   "sub": "webhosting",
+   "title": "TLD pricing is a scam",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x6i6pd/tld_pricing_is_a_scam/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I have a non standard Tld. It just went from 20 a year to 60 then to 100. This is happening all over the place. This is infuriating to me. This 100 dollar item consist of nothing more than a single database entry and a replication on a few servers. 1) there is no competition. Government's need to make this a public utility and force competitors to share lists 2)there are totally open source options like opennic that don't play this stupid game in the first place. All it would take is for a big player like Google to say enough is enough and adopt the open standard and icann is done. \n I have no problem paying a fair price for a service. But I have a problem when someone (like in another post I read) has a \"premium domain\" and all of a sudden the price is raised from 20 bucks to almost 800 (this was for a .sbs tld lmao) \n This is a rant , yes, but I Icann and the registries are a real problem. What can we do about it?"
+  }
+ ]
+}
