@@ -1,0 +1,150 @@
+{
+ "date": "2026-10-16",
+ "generated_utc": "2026-10-16T12:00:04.878663+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "5",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 5,
+ "digest_count": 5,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Kinsta vs. Rocket.net for a Small Business WordPress Website — Recommendations?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x6rhyg/kinsta_vs_rocketnet_for_a_small_business/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 150.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "support",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hello!\n I work for a small business in the construction and restoration industry. As part of our current initiatives, we’re bringing our digital marketing operations in-house after historically relying on third-party marketing agencies.\n We’re also evaluating our current web hosting arrangement. Our WordPress website is currently hosted on InMotion, and we’re considering migrating to a managed WordPress hosting provider.\n After some initial research, Kinsta and Rocket. net emerged as two frontrunners. I wanted to reach out to this community to get some firsthand perspectives on either provider, particularly regarding reliability, performance, security, customer support, and ease of management.\n For additional context, our team is technically capable and comfortable learning new systems, but we have limited direct experience administering web hosting environments. We’re looking for a solution that minimizes ongoing maintenance while giving us appropriate control and visibility into our website infrastructure.\n For those who have experience with Kinsta or Rocket. net would you recommend one over the other? Are there any meaningful differences or potential drawbacks we should be aware of? We’re also open to other recommendations if there’s a provider you think would be a better fit.\n Context: Our business is primarily conducted in the Phoenix Arizona Metropolitan area. We use Wordpress Our monthly budget is flexible, but many of the options we were looking at seem to be sub $50."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Question about the hosting providers in the community highlights",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x78qb1/question_about_the_hosting_providers_in_the/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "4/5 Providers listed as the best have a referral link for \"redditors\" which give you a discount. Now just to preface I haven't used any of those providers but it is very fishy if the most trusted providers in the community of webhosting have referral links for redditors. I'm not trying to say that the mods or people who made that highlight are untrustworthy. I just wanted to point out and ask why it is the way it is. It feels like I'm getting sold on a service instead of finding the most reliable one. What do you think? Thanks to all answers in advance!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Need Static HTML site hosting with CPanel, email, MailMan list serve",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x6nelq/need_static_html_site_hosting_with_cpanel_email/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 9,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Back in the day, A2 was a good value for hosting a static site with direct access to the files. It also ran MailMan list servers with restricted users, as well as providing standard email addreses for the domain. Now that they have been bought by Hosting.com , those features come at a premium price. We are a dot-org group with less than 60 people on the list-serve and only a half dozen emails for the domain itself. The site is merely a reference point for documentation, how to reach us, and a bit of history. Does anyone have any recommendations for a hosting service that will provide these features at a reasonable price? Yes, it is \"easy\" to have separate services but I am not intending to manage this for much longer and those likely to replace me are somewhat challanged in domain management. TIA.\n ETA: Mod requested I include answers to the standard questionnaire. So here goes:\n What is your monthly budget? Less than $10, i.e., $120/year or less\n Where are you/your users located? All in USA; No interactive features\n What kind of site are you hosting (Wordpress, phpBB, custom software, etc) or what is your use case? Plain old HTML. No logins or interactive features of any kind. \n Do you have a monthly traffic volume? Estimates are ok. Less than 500MB/month\n If you’re looking at VPSes: Do you have experience administrating linux servers and infrastructure? Yes\n Did you read the sidebar/check out the hosts listed there? I've personally vetted these companies and their services "
+  },
+  {
+   "sub": "webhosting",
+   "title": "A self-hosted, open source alternative to WP Engine & similar",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x77veq/a_selfhosted_open_source_alternative_to_wp_engine/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 18,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "security",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi all! \n I've build a free&OSS server app for WordPress professionals that turns your VPS into a self-hosted WordPress powerhouse. \n I hope it's ok to post about it here because it's not a hosting company, it's a software that can make you a hosting company 😄. Or rather privately host your clients' websites securely and under your control without all the server-management hassle:\n https://github.com/andyfo/wpl7 \n You can host and run WordPress websites, with automated backups, emailing, (web) sFTP, auto DNS, installation recipes, advanced security, malware scanner, plugin updates, vulnerability alerts, bulk management, MCP, simply go-live, statistics, multi-server setup, and more. \n Ofc it also comes with a nice GUI/web app.\n I tried to make it super easy to install and use, so it's just a single installation command, one or two DNS records and you're all set. It's a bit like \"WP Engine\", but yours and better 😄 .\n I've mentioned the MCP and can't really be too modest about the capabilities. You can manage your entire WP fleet with AI (e.g. Claude Code) and especially with some additional AI tool that knows how to build pages and plugins properly (e.g. WP Godmode), the power level is \"insane\".\n Update all plugins with vulnerabilities. Backup and screenshot each affected website, run the updates, then recheck each website.\n [navigate to your project folder, run CC and call:] Create a landing page for this project on my website.\n Create a new dev website with a web shop based o"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Any managed Wordpress server having WP Media Offload feature?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x6tio8/any_managed_wordpress_server_having_wp_media/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Have been with Flywp for 2 years. But looking for something alternative because their SSD Storage is limited and my website has more than 300GB(image & video based website). Flywp higher tier are quite expensive. Any good alternative managed VPS that may provide Wordpress media offload feature in a good price?\n My monthly budget is $40-50. \n Priority: more storage to store media files. \n No VPS experience, so need managed VPS."
+  }
+ ]
+}
