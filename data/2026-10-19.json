@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-19",
+ "generated_utc": "2026-10-19T14:09:28.583886+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "2",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 2,
+ "digest_count": 2,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "We are a small SaaS with EU users, 8 GB RAM, and priced under 20 euros a month.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x9wkwa/we_are_a_small_saas_with_eu_users_8_gb_ram_and/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "So our budget is under 20 euros a month and our location of users are almost all in Germany, Austria and the Netherlands, so EU hosting is a must for our GDPR.\n - Traffic: about 400 business accounts, low traffic, spikes at month end\n - Stack: Django, Postgres, Celery and Redis, all in Docker\n - Needs: 8GB RAM, daily backups, a data processing agreement I can show customers\n Currently on a US PaaS and the customers' lawyers keep asking where the data lives."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Never buy from omega-cloud.fr",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x9ut9e/never_buy_from_omegacloudfr/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "switching",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "That site has scammed me. I've paid 75 euro for 6 months and a few days after wanted to cancel, they gave me back the money to my credit on the site but didn't want to refund. When i asked for refund they blocked me from the site and reached out to me on whatsapp. I've posted a review on trustpilot about this and they threaten to attack me if i don't remove my negative review. Just stay clear from there."
+  }
+ ]
+}
