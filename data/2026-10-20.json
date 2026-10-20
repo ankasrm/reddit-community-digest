@@ -1,0 +1,124 @@
+{
+ "date": "2026-10-20",
+ "generated_utc": "2026-10-20T12:22:54.908240+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "We are a small SaaS with EU users, 8 GB RAM, and priced under 20 euros a month.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x9wkwa/we_are_a_small_saas_with_eu_users_8_gb_ram_and/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "So our budget is under 20 euros a month and our location of users are almost all in Germany, Austria and the Netherlands, so EU hosting is a must for our GDPR.\n - Traffic: about 400 business accounts, low traffic, spikes at month end\n - Stack: Django, Postgres, Celery and Redis, all in Docker\n - Needs: 8GB RAM, daily backups, a data processing agreement I can show customers\n Currently on a US PaaS and the customers' lawyers keep asking where the data lives."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Kinsta London data centre down",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xamvic/kinsta_london_data_centre_down/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "competitor",
+    "platform"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I've a couple of sites that have been down for a few hours now. Apparently it's not Cloudflare related but still awaiting an announcement from their engineers. Anyone else having a problem?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Better price than OVH?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xa06bx/better_price_than_ovh/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "security",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I bought a VPS from OVH. The price is very good, but the problem is they ban account without any consideration and the support is very very terrible. Is there any other server provider I need to because I have just two day left and I need to move my web app from there? Is there any other provider better than OVH?\n I bought this for 16 pound,\n 6 vCores\n 12 GB RAM\n 100 GB SSD NVMe\n Daily backup of the previous 24 hours\n Unlimited traffic\n 2 Gbps public bandwidth"
+  },
+  {
+   "sub": "webhosting",
+   "title": "SilentNode.Host SCAM ALERT. Took my money and no way of contacting support.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xagkt9/silentnodehost_scam_alert_took_my_money_and_no/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "support"
+   ],
+   "topic": "Support Experience",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "BUYER BEWARE!! Do not use SilentNode.Host they are scamming multiple customers. Money now gone.\n Paid for their service using crypto. Transaction got 250 confirmations. Their own website said the payment was COMPLETE. Then suddenly I get a popup saying I didn't pay in time, wtf?\n The transaction was completed within 2 minutes btw and it's now been 24 hours and still not funds in the account.\n I try to contact support to figure out where my money went. Guess what? YOU CAN'T EVEN OPEN A SUPPORT TICKET WITHOUT ADDING MORE MONEY TO YOUR ACCOUNT. Minimum $25 LOL.\n Are you actually taking the piss?\n I've already paid you. Your website says the transaction completed. My balance is still empty. And now I need to give you another $25 just to ask where my original payment went?\n I don't know what the hell is going on behind the scenes, but from my experience this looks shady. \n Posting this so other people don't make the same mistake I did. Do not send these people your crypto unless you want to get scammed like I did. I wish I'd seen a post like this before I paid."
+  }
+ ]
+}
