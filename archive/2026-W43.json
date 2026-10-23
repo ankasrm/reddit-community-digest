@@ -1,0 +1,583 @@
+{
+ "week": "2026-W43",
+ "generated_utc": "2026-10-23T17:31:19.440969+00:00",
+ "days": [
+  "2026-10-19",
+  "2026-10-20",
+  "2026-10-21",
+  "2026-10-22",
+  "2026-10-23"
+ ],
+ "stats": {
+  "post_count": 143,
+  "by_sub": {
+   "webhosting": 27,
+   "de_EDV": 116
+  },
+  "by_group": {
+   "hosting": 16,
+   "security": 19,
+   "tech": 21,
+   "switching": 19,
+   "money": 11,
+   "competitor": 13,
+   "platform": 10,
+   "support": 13,
+   "performance": 2
+  },
+  "language_count": 116,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "switching (15 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "GoDaddy Reseller for Over a Decade - Need to Drop Them",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xbslul/godaddy_reseller_for_over_a_decade_need_to_drop/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "My Hosting Company's renewal rate seems high?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xaw596/my_hosting_companys_renewal_rate_seems_high/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Looking for shared hosting provider for a single website.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xcq3j3/looking_for_shared_hosting_provider_for_a_single/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "hosting (15 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "GoDaddy Reseller for Over a Decade - Need to Drop Them",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xbslul/godaddy_reseller_for_over_a_decade_need_to_drop/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "My Hosting Company's renewal rate seems high?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xaw596/my_hosting_companys_renewal_rate_seems_high/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Looking for shared hosting provider for a single website.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xcq3j3/looking_for_shared_hosting_provider_for_a_single/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "competitor (12 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "GoDaddy Reseller for Over a Decade - Need to Drop Them",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xbslul/godaddy_reseller_for_over_a_decade_need_to_drop/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "My Hosting Company's renewal rate seems high?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xaw596/my_hosting_companys_renewal_rate_seems_high/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Looking for shared hosting provider for a single website.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xcq3j3/looking_for_shared_hosting_provider_for_a_single/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (12 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "My Hosting Company's renewal rate seems high?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xaw596/my_hosting_companys_renewal_rate_seems_high/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "PHP2Shell: some shared hosts still haven't patched, and attacks started before the fix was even out",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xc4wzj/php2shell_some_shared_hosts_still_havent_patched/",
+     "sub": "webhosting"
+    },
+    {
+     "title": ".ca registrar question",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xbyeo0/ca_registrar_question/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "money (11 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "GoDaddy Reseller for Over a Decade - Need to Drop Them",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xbslul/godaddy_reseller_for_over_a_decade_need_to_drop/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "My Hosting Company's renewal rate seems high?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xaw596/my_hosting_companys_renewal_rate_seems_high/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Looking for shared hosting provider for a single website.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xcq3j3/looking_for_shared_hosting_provider_for_a_single/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [
+  {
+   "title": "Apple Account gekapert",
+   "why": "",
+   "posts": [
+    {
+     "title": "Apple Account gekapert",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1x90wrz/apple_account_gekapert/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Selfhosted Inventar-App OpenInvento",
+   "why": "",
+   "posts": [
+    {
+     "title": "Selfhosted Inventar-App OpenInvento",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xbjost/selfhosted_inventarapp_openinvento/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Gefragtes SEO Premium Plugin für WordPress lieferte Malware aus - kostenlose WordPress Plugins werden seit September 2026 automatisch gescannt",
+   "why": "",
+   "posts": [
+    {
+     "title": "Gefragtes SEO Premium Plugin für WordPress lieferte Malware aus - kostenlose WordPress Plugins werden seit September 2026 automatisch gescannt",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1x7yojf/gefragtes_seo_premium_plugin_für_wordpress/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Proxmox Backup Server + Restic + Hetzner Storage Box – sinnvoll?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Proxmox Backup Server + Restic + Hetzner Storage Box – sinnvoll?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1x9yw9r/proxmox_backup_server_restic_hetzner_storage_box/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Lohnt sich ein NAS (Synology/Ugreen) für Fotos/Videos & Backups oder lieber externe Festplatten? + Tipps für Festplatten & SD-Karten-Sync",
+   "why": "",
+   "posts": [
+    {
+     "title": "Lohnt sich ein NAS (Synology/Ugreen) für Fotos/Videos & Backups oder lieber externe Festplatten? + Tipps für Festplatten & SD-Karten-Sync",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1x5x7xr/lohnt_sich_ein_nas_synologyugreen_für_fotosvideos/",
+     "sub": "de_EDV"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "GoDaddy Reseller for Over a Decade - Need to Drop Them",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbslul/godaddy_reseller_for_over_a_decade_need_to_drop/",
+   "sub": "webhosting",
+   "relevance": 19,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "support",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "My Hosting Company's renewal rate seems high?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xaw596/my_hosting_companys_renewal_rate_seems_high/",
+   "sub": "webhosting",
+   "relevance": 18,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Looking for shared hosting provider for a single website.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcq3j3/looking_for_shared_hosting_provider_for_a_single/",
+   "sub": "webhosting",
+   "relevance": 17,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Hostwinds Web Hosting, Any Feedback is Helpful",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbrofo/hostwinds_web_hosting_any_feedback_is_helpful/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Chatgpt Work remote browser unable to access SiteGround hosted websites",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbl2zy/chatgpt_work_remote_browser_unable_to_access/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "switching",
+    "support"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Senior devs and professionals please give suggestions",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xboq0f/senior_devs_and_professionals_please_give/",
+   "sub": "webhosting",
+   "relevance": 12,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "PHP2Shell: some shared hosts still haven't patched, and attacks started before the fix was even out",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xc4wzj/php2shell_some_shared_hosts_still_havent_patched/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Looking for a solid fully managed Wordpress Server. Any recommendation",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbqx5e/looking_for_a_solid_fully_managed_wordpress/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "security",
+    "platform"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "Better price than OVH?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xa06bx/better_price_than_ovh/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "hosting",
+    "money",
+    "security",
+    "support"
+   ]
+  },
+  {
+   "id": 10,
+   "title": ".ca registrar question",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbyeo0/ca_registrar_question/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "switching",
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Daily spam calls and texts since I registered with hosting on Crocweb a few days ago. Privacy protection is apparently built in. Suggestions?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xc2tmb/daily_spam_calls_and_texts_since_i_registered/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "hosting",
+    "money",
+    "security",
+    "support"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "SiteGround Hosting: What Are Your Views?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcg8u1/siteground_hosting_what_are_your_views/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Never buy from omega-cloud.fr",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x9ut9e/never_buy_from_omegacloudfr/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "We are a small SaaS with EU users, 8 GB RAM, and priced under 20 euros a month.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1x9wkwa/we_are_a_small_saas_with_eu_users_8_gb_ram_and/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Hosting and Domain for a personal Wordpress blog",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbnc0q/hosting_and_domain_for_a_personal_wordpress_blog/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "money",
+    "platform"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Updating servers and changing IP",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xd82m4/updating_servers_and_changing_ip/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "tech"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Registrar security features comparison for a small business ... what actually matters?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcvb3h/registrar_security_features_comparison_for_a/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "tech"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "How to connect a to email turned into an all staff mail failure",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcvl5h/how_to_connect_a_to_email_turned_into_an_all/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Kinsta London data centre down",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xamvic/kinsta_london_data_centre_down/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "competitor",
+    "platform"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "SilentNode.Host SCAM ALERT. Took my money and no way of contacting support.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xagkt9/silentnodehost_scam_alert_took_my_money_and_no/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "support"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "CRITICAL ALERT: PHP security release for two critical vulnerabilities (CVSS v4.0 9.2) due within 12 hours",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xb9euk/critical_alert_php_security_release_for_two/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Who is considered the \"best\" WooCommerce/Wordpress host in the world?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xbw4o7/who_is_considered_the_best_woocommercewordpress/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Apple Account gekapert",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x90wrz/apple_account_gekapert/",
+   "sub": "de_EDV",
+   "relevance": 12,
+   "concepts": [
+    "switching",
+    "money",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Selfhosted Inventar-App OpenInvento",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xbjost/selfhosted_inventarapp_openinvento/",
+   "sub": "de_EDV",
+   "relevance": 9,
+   "concepts": [
+    "switching",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Gefragtes SEO Premium Plugin für WordPress lieferte Malware aus - kostenlose WordPress Plugins werden seit September 2026 automatisch gescannt",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x7yojf/gefragtes_seo_premium_plugin_für_wordpress/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "performance",
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Proxmox Backup Server + Restic + Hetzner Storage Box – sinnvoll?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x9yw9r/proxmox_backup_server_restic_hetzner_storage_box/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "security"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Lohnt sich ein NAS (Synology/Ugreen) für Fotos/Videos & Backups oder lieber externe Festplatten? + Tipps für Festplatten & SD-Karten-Sync",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x5x7xr/lohnt_sich_ein_nas_synologyugreen_für_fotosvideos/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "security"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Leichter Laptop für Uni",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x84ala/leichter_laptop_für_uni/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "security"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "All-Inkl.com down?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xbozdr/allinklcom_down/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "tech"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Lohnt sich ein Raspberry Pi mit Pi-hole für netzwerkweiten Adblocker? Erfahrungen & Tipps?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x5x050/lohnt_sich_ein_raspberry_pi_mit_pihole_für/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Unlimited SIM-Vertrag vs DSL",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x8y6ep/unlimited_simvertrag_vs_dsl/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 32,
+   "title": "Heimnetz mit Glasfaser nach Kernsanierung",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1x9ceku/heimnetz_mit_glasfaser_nach_kernsanierung/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  }
+ ]
+}
