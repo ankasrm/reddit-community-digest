@@ -1,0 +1,197 @@
+{
+ "date": "2026-10-23",
+ "generated_utc": "2026-10-23T12:15:53.959060+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "8",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 8,
+ "digest_count": 8,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Looking for shared hosting provider for a single website.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcq3j3/looking_for_shared_hosting_provider_for_a_single/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 150.0,
+   "relevance": 17,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm not building websites for paid clients; however, I've built a fairly complex website (as a volunteer) for the camera club I belong to. This site has been running without incident for eleven years and I built it from scratch using Joomla. It currently contains over 12,000 photographic images in various galleries. I have advised the club that the board should consider building a new site because (for numerous reasons) it cannot be migrated from Joomla 3.x to the newer Joomla versions. I offered to build a replacement site using WordPress, but the club has decided to go with Visual Pursuits (SaaS) against my recommendation. Their one valid concern is that I'm the only one in the club with skills necessary to serve as a volunteer webmaster/builder of a WordPress site. Right now, I'm looking at taking over our current hosting service, and building a site for my own personal use and photo portfolio. Sorry for this lengthy description of my situation, but I do have relevant questions regarding web hosting providers.\n Our current hosting service is hosting.com when I took over as webmaster in 2015 the club was using GoDaddy. My primary complaint with GoDaddy was performance. I moved the hosting service and website to A2hosting which resulted in an immediate performance improvement. I've been happy with A2hosting for many years. However, A2hosting has been acquired by hosting.com, actually World Hosting Group (WHG). Hosting.com is raising prices on my (A2hosting) legacy account an"
+  },
+  {
+   "sub": "webhosting",
+   "title": "PHP Security Vulnerability Assessment",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcjbuk/php_security_vulnerability_assessment/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "tech"
+   ],
+   "topic": "WordPress & CMS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I see the status warning on Liquid Web but has anyone had direct contact with them or can confirm their accounts/websites have had their PHP updated with the new patches?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "FYI: If you are on Railway and have credentials hidden in your projects env variable settings, it is suggested to regenerate them all immediately.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcvyze/fyi_if_you_are_on_railway_and_have_credentials/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Railway just suffered a significant internal attack involving systems that store customer environment variables. They have already regenerated all s3 container credentials which may have broken some of your railway projects, and they are recommending to also regenerate and reimplement all other secrets that you may have implemented in your projects env variables. Read more here.\n https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
+  },
+  {
+   "sub": "webhosting",
+   "title": "DomainPulse - Automatic Domain Monitoring",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcq5b8/domainpulse_automatic_domain_monitoring/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "https://github.com/Anon0ne/DomainPulse something that was threw together to monitor domain expiration; maybe I will get lucky and score one of those 100k domains! Any ideas to make this more likely to happen?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Updating servers and changing IP",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xd82m4/updating_servers_and_changing_ip/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "switching",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I will be upgrading my virtual server’s OS. I will be making an exact copy of the virtual server then using Elevate and then test.\n When I did this some years ago, after testing I put the sites onto holding pages, copied over the up-to-date databases the switched the IP address on the 2 servers so visitors just immediately went to the new server. All done within the day.\n However this time I have may more sites and some are far more complex. So, my plan is to switch it a different way and just wanted some feedback of any cons or if it’s not a good idea.\n My idea is, after testing, switch the domains one by one over the course of a week or so by changing the DNS to point to the new server. It means I can concentre on one domain at a time, make it up to date, test it is properly working before moving on to the next. Once all domains point to the new server and the new IP address I’d close the old one down after it has all settled down.\n What I’m not sure about is how long in the real world does a change of IP take to propagate these days? Also, are there any considerations in changing IP of a domain in terms of SEO or reputation management? Are there any other things I’ve not thought of?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Registrar security features comparison for a small business ... what actually matters?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcvb3h/registrar_security_features_comparison_for_a/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "competitor",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I’m moving a small business site to a new registrar and the security feature pages all start blending together after a while. \n I care about MFA on the account, a proper transfer lock, WHOIS privacy, DNSSEC, and being able to recover the account if the owner loses access. Some registrars make this stuff easy to find. Others bury it under five menus, which is not great when the domain is tied to email and payments. \n I’ve looked at Namecheap, Hover, GoDaddy, and Wix for comparison. Wix looks convenient for the website side, but I’m trying to judge the security controls on their own. Is there one feature people regret ignoring? Any hints?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "How to connect a to email turned into an all staff mail failure",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcvl5h/how_to_connect_a_to_email_turned_into_an_all/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Ok so I was asked to connect our new business domain to email before a client launch, and I thought I knew what I was doing. I copied the records from our email provider into the DNS screen, then saw a warning about existing MX records and deleted them because I assumed they were old. \n They were not old. They were the records for our actual staff email. For about 35 minutes nobody could send or receive mail, including our director who was waiting on a contract from a client. I also managed to remove the website verification TXT record, so the site started showing a connection warning too. I feel sick about this and I am kinda shy to even post it, but at least the backup had the records. We restored everything and email came back, but I still have to explain why I thought MX meant maybe expired. Has anyone else made this mistake?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Contabo locked up our New Zealand business ($450,000 NZD revenue in 6 months) for 72+ hours after maintenance, caused critical IP collision, and replied with a bot template.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xcq7lf/contabo_locked_up_our_new_zealand_business_450000/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "support"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "After a routine CVE maintenance reboot in the AUS region, Contabo’s hypervisor spawned an orphaned VM from March 2026 and routed our production IP to it. \n Our actual production server (intact October data) was trapped, accessible ONLY via VNC. We run an active New Zealand e-commerce business generating over $450,000 NZD (~$280k USD) in revenue every 6 months. \n We have been down for over 72 hours. Contabo sat on the ticket for 3 days, only to send an insulting tier-1 canned response without reading a single line of our logs.\n If you run a production business on Contabo, take this as a critical warning."
+  }
+ ]
+}
