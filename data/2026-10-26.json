@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-26",
+ "generated_utc": "2026-10-26T13:42:04.301576+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 3,
+ "digest_count": 3,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Any way to set up 2FA in Wordpress with cell/email?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xfnu0u/any_way_to_set_up_2fa_in_wordpress_with_cellemail/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "competitor",
+    "security",
+    "tech",
+    "platform"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "My Bluehost site is expiring. I'm renewing the domain name if I want to restart it in the future.\n But, I'm not sure if it stops me from signing into my Wordpress for my domain in the future? If so how can I make sure the log in is safe for it?\n I have the log in of course but there's no 2FA. I guess I could use google authenticator but I hate having yet another app.\n I always worried with a plug in what if there is an issue that stops me from logging in? I know there is Wordfence which I have and then other plug in's probably too.\n But I rather have an email option as a 2FA\n Edit- I know I need to backup my website. Did all that but I dont know if you keep the Wordpress at all?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Latest PHP and MySQL",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xfc0g7/latest_php_and_mysql/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 18,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "What are some of the lowest cost hosts that include a minimum of php 8.2 and MySQL 8? Unbelievably, one host just has an AI chatbot that doesn't seem to be transferrable to someone live and it is giving me conflicting info. It says mysql is included in the premium plan and then it says mysql is NOT used in the premium plan. Obviously, around black friday is when to get hosting from someone, but it's hard to figure out which hosts will guarantee you being able to get your minimum requirements for php and mysql. Some host names not being allowed in this post has me figuring I won't really get any unbiased help, but figured I better ask. Preferably want US based hosting and it's for mostly testing apps I make for ip.suite or whatever Invision calls it now. Usually, I was switching plans at hostgator to qualify for BF pricing, but I doubt there is anything else to try and even their baby plan is a crazy cost now (they apparently charge hundreds separately just for email accounts???)"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Is there a way to keep your website you are taking down somewhere as an archive for yourself? Or not really",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xfasox/is_there_a_way_to_keep_your_website_you_are/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 14,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "security",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm taking my website down after idk 6 years. Never got anywhere with it but did it for fun but it costs a lot yearly. Maybe later I will choose a better and cheaper hosting company. I had it though bluehost and wordpress\n Is there like a site or something private where I can upload my website to as an archive for now. Not necessarily to work on it. But, just to view it later? \n I did the needed backups if I want to bring it back int he future. \n But for now just wondering if there's a way to archive it for myself and if I ever want to show someone what I made?"
+  }
+ ]
+}
