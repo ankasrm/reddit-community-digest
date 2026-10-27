@@ -1,0 +1,196 @@
+{
+ "date": "2026-10-27",
+ "generated_utc": "2026-10-27T12:50:55.090187+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "8",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 8,
+ "digest_count": 8,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "How much VPS do you need for 50 WordPress sites?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgnmth/how_much_vps_do_you_need_for_50_wordpress_sites/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 9,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "security",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I moved 50 low-traffic WordPress sites from shared hosting onto one VPS three months ago. Here are my numbers for anyone planning the same:\n 16GB RAM, average use about 11GB with Redis object cache\n CPU averages 30%, spikes to 90% during plugin updates\n Disk at 140GB, mostly uploads and backups\n Questions for people further along: at what point did you split into two servers? Did NVMe make a visible difference to wp-admin speed, or is that placebo? And what are you doing for offsite backups at this size?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Need a new place to host my websites",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgbq7h/need_a_new_place_to_host_my_websites/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I am looking for hosting, probably not a full dedicated server, but I'd like to be able to host a few other peoples' sites on my setup. I'd also like to have shell access, so I can user Composer/Drupal on it.\n Ideally I'd also like to be able to expand it later (CPU's, RAM, storage). I'd like it to support Postgres as well as MariaDB. \n Web host questionairre answers:\n Monthly budget: $50-60 a month right now. I'm located on the west coast, most users are located on the west coast (California, Washington, Oregon). I'm hosting mostly WordPress and Drupal websites, with some custom software. (I'd like to be able to use Python as well as PHP). Monthly traffic volume is extremely minimal, I am starting over from square 1. I do have experience administrating Linux servers. I did look at the hosts on the sidebar. \n Any suggestions? Thanks in advance!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Imunify360’s HardenedPHP can quietly stop your server getting PHP updates",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xg0pz5/imunify360s_hardenedphp_can_quietly_stop_your/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "switching",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "If you have ever used the paid version of Imunify360 on any cPanel servers, double check your PHP versions.\n Imunify has a feature called HardenedPHP that replaces cPanel’s PHP and Apache with Imunify’s own versions. They do backport recent patches to older versions, so it can be useful.\n However, if you cancel or uninstall Imunify it doesn’t go back to cPanel’s versions, you just stop getting updates. You’re effectively stuck on orphaned versions. They have epoch 1 set, so the OS thinks they are newer versions and won’t warn you that updates have failed.\n We’ve reported it to Imunify and they’ve accepted it as a bug."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for an inexpensive, no-frills web host in the US",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgm1vt/looking_for_an_inexpensive_nofrills_web_host_in/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "hosting",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I'm looking for an inexpensive, no-frills web host for a small website. My budget is around $10 per month. I'm based in the US and most of my visitors are there too. I'm planning to host a WordPress site. If you recommend a VPS, I'm comfortable managing Linux servers. Any suggestions?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Trying to launch a small SaaS without getting buried in setup",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xglzcw/trying_to_launch_a_small_saas_without_getting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Im trying to get a small SaaS off the ground but keep getting stuck on the technical setup. Database, auth, APIs, hosting, deployment. I havent even finished the main feature yet.\n Im not much of a developer, so hiring someone for every little change isnt realistic at this stage. I just want to get a basic version online and see if its actually useful before putting more money into it.\n My main concern is security and keeping everything running once people start using it. For those whove launched a small SaaS, what did you handle yourself and what did you get help with?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Maintaining an AI built app after launch is where the real work starts",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgmpj7/maintaining_an_ai_built_app_after_launch_is_where/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I built a small internal app with an AI builder, and getting it live was honestly the easy part. The first few weeks were fun, but once people started asking for little changes, I realized I didn't really have a routine for checking auth, database changes, logs, or backups.\n I can still make updates pretty quickly, but I don't want to keep changing things in production and hoping nothing breaks.\n For those running apps they've built themselves, how do you handle maintenance after launch? Do you have a regular checklist or a simple setup for testing changes before they go live?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Choosing a no code builder has made me miss boring software decisions",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgm6k5/choosing_a_no_code_builder_has_made_me_miss/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Developer & DevOps",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I thought the tool mattered less than the idea, but now every builder seems to handle auth, APIs, and deployment a little differently. What looks simple at first can get complicated once the app needs to do more than a few basic things.\n I'm trying to build a small internal app without hiring a dev team right now. For anyone who's done something similar, what did you wish you'd checked before picking a platform?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Spent two weeks on setup and barely built the actual ap",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xglxkh/spent_two_weeks_on_setup_and_barely_built_the/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Ive spent the last two weeks sorting out login, permissions and hosting, and the feature people actually asked for is still waiting.\n Didnt expect so much work before even getting a basic version ready to test. At this rate the setup is costing more time and money than the app itself.\n For anyone whos built a small app without a dev team, how did you get past this stage?"
+  }
+ ]
+}
