@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-28",
+ "generated_utc": "2026-10-28T13:39:44.681365+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 3,
+ "digest_count": 3,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "[FOSS] Auto-Benchmarked 38 VPS types (Hetzner, UpCloud, OVH, AWS, GCP, Azure, OCI)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xh1c99/foss_autobenchmarked_38_vps_types_hetzner_upcloud/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 21,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "A few months ago I started an open-source benchmark suite (MIT, not affiliated with any provider) that provisions the same sysbench + fio tests on all configured instance-types, then destroys them. It now supports 7 providers and more than 6 months of pricing and performance data.\n The latest addition, UpCloud, showed quite good performance, adding another european provider to the top in terms of price/performance. Upcloud also offered the best disk speed I have seen so far for small to medium sized instances.\n You can find the dashboard at https://fabianwimberger.github.io/cloud-bench/ and the source + logs under https://github.com/fabianwimberger/cloud-bench - feel free to leave me some feedback or request instances for comparison!"
+  },
+  {
+   "sub": "webhosting",
+   "title": "What happened to Liquid Web?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xhkmic/what_happened_to_liquid_web/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I've been a customer for over 6 years, originally with Beyond Hosting before ending up at Liquid Web.\n Their support used to be genuinely good, which was one of the main reasons I stuck around for so long. But over the years it's just gotten progressively worse. Slow responses, tickets being passed around, and nobody really taking ownership of anything.\n Recently had an issue with a server I'd requested to cancel months ago. I'll admit I missed a follow-up confirmation from them, but the way they handled the whole thing afterwards was pretty disappointing. Took multiple follow-ups just to get someone to properly look into it, and even then I mostly got generic responses.\n Their pricing also seems completely out of touch with what you're actually getting these days. I finally decided to move everything elsewhere and honestly wish I'd done it sooner. The new setup is faster, considerably cheaper and was surprisingly easy to migrate to.\n Bit of a shame really. I used to recommend them, but I definitely wouldn't anymore."
+  },
+  {
+   "sub": "webhosting",
+   "title": "For WHMCS alternatives: I've just migrated it for FOSSBilling and it has been great",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xguses/for_whmcs_alternatives_ive_just_migrated_it_for/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 9,
+   "relevance_concepts": [
+    "switching",
+    "security",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Been using lifetime license for ages but recent php bug forced to look for alternatives since i can no longer use old php versions.\n With all alternatives, FOSSBilling gets my vote. Used Gemini to vibe code simple migration script for clients, invoices, tickets, kb, and it's everything has been working smoothly.\n Just in case anyone else is looking, https://github.com/FOSSBilling is the link, and it's free."
+  }
+ ]
+}
