@@ -1,0 +1,511 @@
+{
+ "week": "2026-W44",
+ "generated_utc": "2026-10-30T18:16:46.068106+00:00",
+ "days": [
+  "2026-10-26",
+  "2026-10-27",
+  "2026-10-28",
+  "2026-10-29",
+  "2026-10-30"
+ ],
+ "stats": {
+  "post_count": 112,
+  "by_sub": {
+   "webhosting": 19,
+   "de_EDV": 93
+  },
+  "by_group": {
+   "competitor": 6,
+   "security": 21,
+   "tech": 13,
+   "platform": 8,
+   "switching": 9,
+   "hosting": 14,
+   "money": 8,
+   "performance": 5,
+   "support": 7
+  },
+  "language_count": 93,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "hosting (14 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "[FOSS] Auto-Benchmarked 38 VPS types (Hetzner, UpCloud, OVH, AWS, GCP, Azure, OCI)",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xh1c99/foss_autobenchmarked_38_vps_types_hetzner_upcloud/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Latest PHP and MySQL",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfc0g7/latest_php_and_mysql/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "What happened to Liquid Web?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xhkmic/what_happened_to_liquid_web/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "security (10 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "[FOSS] Auto-Benchmarked 38 VPS types (Hetzner, UpCloud, OVH, AWS, GCP, Azure, OCI)",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xh1c99/foss_autobenchmarked_38_vps_types_hetzner_upcloud/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Is there a way to keep your website you are taking down somewhere as an archive for yourself? Or not really",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfasox/is_there_a_way_to_keep_your_website_you_are/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Any way to set up 2FA in Wordpress with cell/email?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfnu0u/any_way_to_set_up_2fa_in_wordpress_with_cellemail/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (10 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Latest PHP and MySQL",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfc0g7/latest_php_and_mysql/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Trying to combine/set up Namecheap email hosting with a Clouflare domain name so I can start a Kit newsletter (explain it like I'm 5)",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xhpo8b/trying_to_combineset_up_namecheap_email_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Any way to set up 2FA in Wordpress with cell/email?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfnu0u/any_way_to_set_up_2fa_in_wordpress_with_cellemail/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (9 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "[FOSS] Auto-Benchmarked 38 VPS types (Hetzner, UpCloud, OVH, AWS, GCP, Azure, OCI)",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xh1c99/foss_autobenchmarked_38_vps_types_hetzner_upcloud/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Latest PHP and MySQL",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfc0g7/latest_php_and_mysql/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "What happened to Liquid Web?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xhkmic/what_happened_to_liquid_web/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "money (8 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "[FOSS] Auto-Benchmarked 38 VPS types (Hetzner, UpCloud, OVH, AWS, GCP, Azure, OCI)",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xh1c99/foss_autobenchmarked_38_vps_types_hetzner_upcloud/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Latest PHP and MySQL",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xfc0g7/latest_php_and_mysql/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "What happened to Liquid Web?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xhkmic/what_happened_to_liquid_web/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [
+  {
+   "title": "domainfactory: PHP-Sicherheitsupdates?",
+   "why": "",
+   "posts": [
+    {
+     "title": "domainfactory: PHP-Sicherheitsupdates?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xd5nlr/domainfactory_phpsicherheitsupdates/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Kaufberatung Galaxy Book 6 Pro Intel Core Ultra 5",
+   "why": "",
+   "posts": [
+    {
+     "title": "Kaufberatung Galaxy Book 6 Pro Intel Core Ultra 5",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xe9rv2/kaufberatung_galaxy_book_6_pro_intel_core_ultra_5/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Passt die Netzwerktopologie so?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Passt die Netzwerktopologie so?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xg24mn/passt_die_netzwerktopologie_so/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "http2shell / brotli Lücke - curl, Python, Node.JS etc",
+   "why": "",
+   "posts": [
+    {
+     "title": "http2shell / brotli Lücke - curl, Python, Node.JS etc",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xfypvq/http2shell_brotli_lücke_curl_python_nodejs_etc/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Heimnetz: Fritz nach Omada?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Heimnetz: Fritz nach Omada?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xda4rn/heimnetz_fritz_nach_omada/",
+     "sub": "de_EDV"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "[FOSS] Auto-Benchmarked 38 VPS types (Hetzner, UpCloud, OVH, AWS, GCP, Azure, OCI)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xh1c99/foss_autobenchmarked_38_vps_types_hetzner_upcloud/",
+   "sub": "webhosting",
+   "relevance": 21,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Latest PHP and MySQL",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xfc0g7/latest_php_and_mysql/",
+   "sub": "webhosting",
+   "relevance": 18,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "What happened to Liquid Web?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xhkmic/what_happened_to_liquid_web/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Is there a way to keep your website you are taking down somewhere as an archive for yourself? Or not really",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xfasox/is_there_a_way_to_keep_your_website_you_are/",
+   "sub": "webhosting",
+   "relevance": 14,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "security",
+    "platform"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Trying to combine/set up Namecheap email hosting with a Clouflare domain name so I can start a Kit newsletter (explain it like I'm 5)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xhpo8b/trying_to_combineset_up_namecheap_email_hosting/",
+   "sub": "webhosting",
+   "relevance": 14,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Any good black Friday web hosting deals out there ?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xiepuy/any_good_black_friday_web_hosting_deals_out_there/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "New business, looking at website hosting options. Complete new to web design",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xisyzy/new_business_looking_at_website_hosting_options/",
+   "sub": "webhosting",
+   "relevance": 11,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Any way to set up 2FA in Wordpress with cell/email?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xfnu0u/any_way_to_set_up_2fa_in_wordpress_with_cellemail/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "competitor",
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "How much VPS do you need for 50 WordPress sites?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgnmth/how_much_vps_do_you_need_for_50_wordpress_sites/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "hosting",
+    "performance",
+    "security",
+    "platform"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "For WHMCS alternatives: I've just migrated it for FOSSBilling and it has been great",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xguses/for_whmcs_alternatives_ive_just_migrated_it_for/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "switching",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Does Redis still consume significant CPU after disabling WordPress Redis Object Cache?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xihcgt/does_redis_still_consume_significant_cpu_after/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "hosting",
+    "performance",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Need a new place to host my websites",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgbq7h/need_a_new_place_to_host_my_websites/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Imunify360’s HardenedPHP can quietly stop your server getting PHP updates",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xg0pz5/imunify360s_hardenedphp_can_quietly_stop_your/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "tech"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Spent two weeks on setup and barely built the actual ap",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xglxkh/spent_two_weeks_on_setup_and_barely_built_the/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Looking for an inexpensive, no-frills web host in the US",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xgm1vt/looking_for_an_inexpensive_nofrills_web_host_in/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Trying to launch a small SaaS without getting buried in setup",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xglzcw/trying_to_launch_a_small_saas_without_getting/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "domainfactory: PHP-Sicherheitsupdates?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xd5nlr/domainfactory_phpsicherheitsupdates/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Kaufberatung Galaxy Book 6 Pro Intel Core Ultra 5",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xe9rv2/kaufberatung_galaxy_book_6_pro_intel_core_ultra_5/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "switching",
+    "security"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Passt die Netzwerktopologie so?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xg24mn/passt_die_netzwerktopologie_so/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "http2shell / brotli Lücke - curl, Python, Node.JS etc",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xfypvq/http2shell_brotli_lücke_curl_python_nodejs_etc/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "Heimnetz: Fritz nach Omada?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xda4rn/heimnetz_fritz_nach_omada/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "Online-Sicherheit für Eltern (60+) – Erfahrungen mit 1Password Family & YubiKeys?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xcvz5l/onlinesicherheit_für_eltern_60_erfahrungen_mit/",
+   "sub": "de_EDV",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "support"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Zugriff auf Heimnetz aus dem Ausland",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xejmpc/zugriff_auf_heimnetz_aus_dem_ausland/",
+   "sub": "de_EDV",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Suche Webseite mit Test-HTML-Seiten definierter/variabler Größe für Speed-Tests (Durchsatz bis zum Browser)",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xhsu0z/suche_webseite_mit_testhtmlseiten/",
+   "sub": "de_EDV",
+   "relevance": 3,
+   "concepts": [
+    "performance"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Genervt davon bei mail-tester.com nur 3 versuche zu haben",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xdm2vi/genervt_davon_bei_mailtestercom_nur_3_versuche_zu/",
+   "sub": "de_EDV",
+   "relevance": 2,
+   "concepts": [
+    "security"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Claude in der Agentur eingeführt - Regeln zu streng?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xcozsb/claude_in_der_agentur_eingeführt_regeln_zu_streng/",
+   "sub": "de_EDV",
+   "relevance": 2,
+   "concepts": [
+    "support"
+   ]
+  }
+ ]
+}
