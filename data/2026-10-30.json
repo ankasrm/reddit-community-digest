@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-30",
+ "generated_utc": "2026-10-30T13:42:29.650599+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "2",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 2,
+ "digest_count": 2,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "New business, looking at website hosting options. Complete new to web design",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xisyzy/new_business_looking_at_website_hosting_options/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 11,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi all,\n Looking for some advice. Started a new business (estate agents) and looking to create a website to allow:\n Tenants to view available properties Landlords to submit details for valuations Link available properties from our CRM (10Ninety)\n Looking to run as lean as possible at least initially with regards to costs and budgets. Based in UK and currently no website at present. Domain has been purchased already from GoDaddy. Furthermore, the website is unlikely to require frequent changes once set up and publish, only frequent change would be live feed of properties being updated from CRM.\n Going in completely blind so will be grateful for any guidance. I have created AI generated drafts with the following:\n Framer: 1st year cost: £120, 2nd year cost: £120 GoDaddy AIRO: 1st year cost: £89.98, 2nd year cost: £131.88 WixAI: 1st year cost: £108, 2nd year cost: £108\n I preferred the look, feel and intuitiveness of GoDaddy but seeing a lot of negative feedback and sentiment online and on reddit so wary on how best to proceed.\n Also as an additional, if in future we wanted to move away from GoDaddy (or other host) what would exporting options look like?\n Thanks in advance :)"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Is pagespeed still relevant?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xj22i9/is_pagespeed_still_relevant/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Speed & Performance",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Shameful boasting and likely a silly question, but I've optimised the T out of my site with the best pagespeed scores since 2013 but looking at the AI crawlers and low human traffic I am doubtful if this was worth the effort for websites any more. \n I used local AI on a GPU that worked a long period of time but the efforts seems pointless.. \n Scores: \n Performance: 99\n Accessibility: 98\n Best Practices: 100\n SEO: 100\n Thoughts?"
+  }
+ ]
+}
