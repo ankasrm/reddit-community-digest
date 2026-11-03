@@ -1,0 +1,103 @@
+{
+ "date": "2026-11-03",
+ "generated_utc": "2026-11-03T14:44:49.660083+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 3,
+ "digest_count": 3,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "In case you are thinking about DailyRazor....",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xmj2yj/in_case_you_are_thinking_about_dailyrazor/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "performance",
+    "support"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Here's our uptime stats for the past month. I'm moving to Hostek, but they have abysmal tech support - 4 days to answer a trouble ticket! \n Last 30 days Uptime: 92.31% Downtime:2d 6h 59m 32s Incidents: 11 Longest Incident: 1d 9h 17s Average incident: 4h 59m 57s"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Liquidweb just raised my dedicated server monthly rate by 33% - anyone else?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xm7agg/liquidweb_just_raised_my_dedicated_server_monthly/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Anyone else get a \"More protection at renewal: what's changing on your hosting plan\" email which announces a huge price change taking place in about two weeks? Only way to keep current pricing is by signing a 1 year contract?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for community testers of web hosting services",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xmjpwi/looking_for_community_testers_of_web_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "support"
+   ],
+   "topic": "Support Experience",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "We have somewhat recently started a web hosting business (I'm not going to name it for now as this is not a promotional post) and we wanted to get community feedback on the experience and any other details that could be offered on how to make sure our services are worth being used by more customers before we start a real push on marketing it. \n I know that posting about free hosting is banned on Thai subreddit due to history with scams and what not, but where could I ask some members of the community to try our services and give their feedback.\n About us:\n - small team divided between support staff and technical staff \n - based in UK and NL currently, plans to expand \n - we have around 8-10 years experience in the field amongst us\n Thank you all very much in advance!"
+  }
+ ]
+}
