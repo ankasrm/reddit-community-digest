@@ -1,0 +1,122 @@
+{
+ "date": "2026-11-04",
+ "generated_utc": "2026-11-04T14:56:51.664136+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Serverbyt",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xnkuew/serverbyt/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "security",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "In case anyone is looking...They come up a bit and sounds good. Till ya read and see they make claims then use different definitions\n Claim is everything is unlimited...in reality\n https://serverbyt.com/terms.php \n Section 4 Modifications\n Prices for our products are subject to change without notice.\n We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.\n We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.\n Section 5 Products or Services\n “Our Cloud hosting is unlimited but limited to size of 1GB per SQL Database and 10GB per mailbox.” \n Their \"unlimited SSD storage\" refers to website file storage (HTML, images, CMS files, etc.), not object storage or file backup like S3, Backblaze, or Dropbox. Their own Terms of Service explicitly state: \n \"This space is strictly intended for website-related content only which is live. The use of our servers for storing personal files, backups, archives, or large amounts of non-web-related data is strictly prohibited .\""
+  },
+  {
+   "sub": "webhosting",
+   "title": "100% cPanel free",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xnnmsm/100_cpanel_free/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "End of an era: We are officially 100% cPanel free, and it feels fantastic. \n Today, I finally pulled the plug on the very last cPanel server in our infrastructure. After years of dealing with WebPros’ monopoly, endless licensing increases, zero innovation, and squeezing every last cent out of hosts, .. we are officially DONE.\n The amount of stress, grief, and money those parasites burned through was insane. Migrating our fleet off their legacy trap took work, but it was easily the best operational move I’ve made for my company. Lower overhead, better performance, and not a single dime going back to WebPros.\n If you're still on the fence about ditching them: do it. Tear out the root, take back control, and leave WebPros in the dust. \n Fuck WebPros and the horse they rode in on."
+  },
+  {
+   "sub": "webhosting",
+   "title": "How can i make my site use HTTPS ?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xnklm5/how_can_i_make_my_site_use_https/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "security"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I have a written a web app which i want to deploy, it should be accessible using HTTPS. Web app is dockerized into 4 containers : backend , frontend , postgres and redis container.\n Site is accessible using http when i tried deploying using aws ec2 . But becuause backend only accept only https connection frontend can not talk to backend. As https is currently not supported. \n I dont want to purchase a domain . i want to test it over https and check if my implementation work correclty on https and also be able to show case my project as a live demo.( i have tested everything locally it works as expected) \n how can i get my web app working utilizing https using ec2 ?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Dynadot support",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xn85tt/dynadot_support/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 2,
+   "relevance_concepts": [
+    "support"
+   ],
+   "topic": "Support Experience",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Hey, we need urgent support from dynadot because a fraud copy of our site is running on their server. Anyone got experience for getting in touch quick? Thanks!"
+  }
+ ]
+}
