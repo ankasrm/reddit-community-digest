@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-06",
+ "generated_utc": "2026-11-06T14:41:38.625532+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 3,
+ "digest_count": 3,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "So long Nexcess and Liquid Web",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xott32/so_long_nexcess_and_liquid_web/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 12,
+   "relevance_concepts": [
+    "hosting",
+    "performance",
+    "security",
+    "support",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Starting the process to move our 100-site plan away from Nexcess. They used to be great, but everything has gone downhill over the last year. Some thoughts for those considering Nexcess:\n - We used to pay $638/month for our plan. This recently increased to $849/month with no added benefits\n - Nexcess bought the Kadence plugins. It sounds good, but they don't give you the premium versions, only the free stuff. The plugins are trash - buggy, slow, and unreliable. Stick with Wordfence for security and something else for general WP site management. I pity anyone who tries to use these interfaces. \n - Nexcess was the last of all web hosts I am aware of to patch the most recent PHP vulnerabilities. Took over a day with little to no communication. Clients asked when this would be fixed and were left in the dark. \n - The support experience is all India-based. Half the time, support does more harm than good on the site. \n - The \"CDN\" they include doesn't work well - typically causes HTTPS errors. \n - They supposedly monitor your site for visual changes after updating a plugin. I've had updates break several sites and never got a notification. \n - The automatic theme and plugin updates don't run. \n - Their managed hosting runs a Linux kernel that stops receiving security updates on January 1. They have no plan to upgrade servers. Confirmed this with support this week. \n Long story short, stay far away from Nexcess. We were originally drawn in by their site speeds. The speeds are still "
+  },
+  {
+   "sub": "webhosting",
+   "title": "Is there any control panel that allows to connect/manage unlimited servers without additional charges for each server?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xoro3h/is_there_any_control_panel_that_allows_to/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "hosting",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I want to connect multiple servers for my clients, most of which host WooCommerce sites. I’m looking for a control panel that allows me to manage multiple WordPress servers.\n I’m looking for an affordable option that doesn’t charge an additional fee for each server i connect."
+  },
+  {
+   "sub": "webhosting",
+   "title": "I transferred .com domain to wix and they locked account, stealing my domain",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xol7xt/i_transferred_com_domain_to_wix_and_they_locked/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "competitor",
+    "tech"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "WIX STOLEN MY .COM DOMAIN\n I transferred .com domain to wix from another domain registrar, paid for transfer and additional year of domain from my bank card, they blocked account, requested passport and bank card photo via email, and after I provided them document and bank card photo they rejected to reactivate account, so I don't have access to my domain anymore and can't withdraw it to another registrar."
+  }
+ ]
+}
