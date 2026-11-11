@@ -1,0 +1,129 @@
+{
+ "date": "2026-11-11",
+ "generated_utc": "2026-11-11T14:48:01.097485+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "4",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 4,
+ "digest_count": 4,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Hosting Prices",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtakbl/hosting_prices/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I’d avoid WP Engine. They have higher prices because of their America support but recently within the past 1-2 years I’ve noticed they are outsourcing to the Philippines. What the point of paying these exorbitant prices for American-based support when they are actually philipinos"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Alternatives to FastComet?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xt31ab/alternatives_to_fastcomet/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "security",
+    "support",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I host one domain, which has a personal wordpress and a small personal forum. It uses under 10GB of space and has light traffic. I've been with FastComet because I heard they were reliable and offers good support, but it's been years now and they raised prices on me such that my plan is more expensive than the list price. They are charging me about $20.63/mo (paid bi-annually in full) for the Shared Hosting Plus ($17.95 per their website).\n I read some posts and it seems KnownHost might be a good alternative. I signed up with them, but they want me to send them my Drivers License and a photo of my credit card. Remembering back to Discord requesting these and then getting hacked, I don't want to send them this.\n What's another host that is reliable and good quality? I'm ok with paying for quality and reliability, I just feel like FastComet is overcharging me, so I'm shopping around. If everyone's requiring my ID, I guess I'll just stay at FastComet.\n I also heard Nixihost might be a good one?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Hosting reseller e avvio attività. Consigli?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xta6y3/hosting_reseller_e_avvio_attività_consigli/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 9,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "platform"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Ciao a tutti, vorrei avviare la mia attività di rivendita hosting dedicati a piccoli e medi clienti per la maggior parte avente un sito semplice wordpress. \n Avevo pensato ad una linea base con 2 vcpu e 1 o 2 vram, per poi salire in base al pacchetto, magari arrivando ai classici 5 vcpu e 12 GB vram. \n Esiste un fornitore serio che offra reseller hosting con CloudLinux in modo da creare i pacchetti che voglio? \n O avete alternative? Grazie"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Hello folks. To-Be-Renegade Musician/Artist Seeking Flexible Hosting Options",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xt77v3/hello_folks_toberenegade_musicianartist_seeking/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Alrighty... We're really trying to avoid the use of AI in all avenues where we can help it. We get it, in this day and age, nigh impossible on some level, but as we are due for upheaval nor are confident in hosting locally... What are some services that may be the best to support a large long term storage database of music, videos, and related media (1 Terabyte+ is excessive at this point), just one or 2 emails, the full security package for registrants, and that also has overall fair pricing on sales/merchandise?\n We are working from the ground up. We have the domain secured, but.. despite mentioning \"we\" as often as we do... It's just me. And it's time to admit I could use a hand. Learning music production, mycology basics and intermediates, as well as other sciences this is not the place get into over the past year....it is safe to say, the brain is near fried.\n Thank you ahead of time for any pointers. We're in no immediate rush, but a presentable website sooner than later would be ~lovely~. ...or at least a fancier, fitting redirect."
+  }
+ ]
+}
