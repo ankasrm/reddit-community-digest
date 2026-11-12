@@ -1,0 +1,265 @@
+{
+ "date": "2026-11-12",
+ "generated_utc": "2026-11-12T15:40:19.850559+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "7",
+  "Wordpress": "429",
+  "webdev": "6",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 12,
+ "digest_count": 10,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "GoDaddy says using my card to make an unauthorized purchase is not a security breach.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtomba/godaddy_says_using_my_card_to_make_an/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "A few weeks ago there was a $5,000 charge on my card for a domain I'd never heard of nor authorized the purchase for. GoDaddy said it was one of their staff that made the purchase when they had access to my account.\n I've been trying to get a clear explanation as to how on earth that could even happen. I never received an explanation so I followed up again and they sent the below. \n So making a purchase without approval from the use is not a security breach? Ok.\n I also don't appreciate the brought to their attention part because I'm the one who had to do that. This isn't something they caught on their own.\n GoDaddy:\n We wanted to follow up and confirm the same information you should have received previously. \n There was no \"security breach\", A GoDaddy Guide inadvertently processed that purchase in your account. As soon as the matter was brought to the attention of leadership the situation was rectified by issuing a full refund of that purchase and coaching the guide to ensure such an error does not occur again in the future. \n From an Aftermarket perspective this matter is closed, the transaction was cancelled and a full refund was issued. \n If you have any other questions regarding this matter you would want to engage with any messages you have previously received from Customer Care leadership."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Best reliable file hosting with no account?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xu0aic/best_reliable_file_hosting_with_no_account/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Uptime & Outages",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I want to upload a small file (around 500 MB) for general availibility for the public indefinitely (not one of those one day or 10 DL sites). It is not copyrighted or sensitive does not contain executables so anyone can download it without restriction. I just want a place I can upload the file get the link and post it for others to download. I want a site that doesn't spam the user with fake download icons and annoying pop-up ads. Any suggestions?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "The Aussie dollar keeps sliding and my hosting bill goes up every month, trying to find a different vendor, where are Australian devs hosting now?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtlz6h/the_aussie_dollar_keeps_sliding_and_my_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 6,
+   "relevance_concepts": [
+    "hosting",
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I am part of a small B2B booking tool with about 600 users and nearly all of them are in Australia. Everything sits on a droplet and a managed database in Singapore, billed in US dollars on my card.\n The plan price hasn't moved in a year, but what I actually pay has gone up every quarter. Between the exchange rate and the 3% foreign transaction fee, I'm paying noticeably more for exactly the same box.\n Singapore also adds about 90ms for my Sydney and Melbourne users. That's not terrible, but the app feels slower than it should.\n The budget is about 40 AUD a month for the app and the database. Did you move to a local provider billed in AUD, or to a Sydney region at one of the big hosts? And does hosting in Sydney actually make a difference your users notice?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for a free alternative to Render that doesn't spin down after 15 minutes of inactivity",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xu8p47/looking_for_a_free_alternative_to_render_that/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "support"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hey everyone(I'm a newbie)!\n I'm currently looking for ways to deploy my web application completely for free, or at least as close to $0 as possible.\n My current tech stack is:\n Frontend: Next.js\n Backend: Django\n Database: PostgreSQL\n For deployment, I'm currently using:\n Frontend: Vercel (Free Tier)\n Backend: Render (Free Tier)\n Database: Supabase (Free Tier)\n The main issue I'm having is with Render's free tier. As far as I understand, Render spins down the backend service after 15 minutes of inactivity. When someone visits the application again, it takes a while for the server to spin back up, which results in a pretty slow initial loading experience.\n I understand that this is one of the limitations of free hosting, but I'd like to know if there are any alternatives that don't have this kind of inactivity-based spin-down, especially for hosting a Django backend.\n I've considered sticking with my current setup, but I'd prefer something that doesn't require users to wait for the backend to wake up whenever it's been inactive.\n A few things I'm looking for: \n A genuinely free tier (no paid subscription required).\n No automatic server shutdown or spin-down after inactivity.\n Support for deploying a Django backend.\n Ideally, something that works well with my existing Next.js + Django + PostgreSQL setup.\n For those who have deployed similar projects without paying for hosting, what services or deployment setups would you recommend?\n I'm also open to alternative deployment arch"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Looking for Hosting Companies that offer MariaDB 12.3 and dedicated Valkey 9.1.3 Unix socket instance for a highly dynamic WordPress site.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtycfh/looking_for_hosting_companies_that_offer_mariadb/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "hosting",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Monthly budget is about $100.00 a month.\n User are mostly US East Coast.\n Highly dynamic WordPress site.\n I do have sys admin skills.\n I am looking to offload my side projects that have grown. \n The site is about 10 GB in size."
+  },
+  {
+   "sub": "webhosting",
+   "title": "OpenClaw on a 4 vCPU VPS takes 40 seconds per task, is it the box or the model API?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtmrul/openclaw_on_a_4_vcpu_vps_takes_40_seconds_per/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "hosting"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I'm currently running OpenClaw headless on a 4 vCPU, 8GB VPS for about a month, Dockerized with Caddy in front. It handles inbox triage and a few browser tasks for my small business, and each task takes 20 to 40 seconds end to end and it's starting to drive me nuts.\n Rough timing says the model API is maybe half of that, and the rest is the browser tool spinning up, PDF parsing and a couple of tool calls, and htop shows all 4 cores pegged whenever the browser runs.\n For people running OpenClaw 24/7 on a VPS, what specs did you land on? Did faster cores actually help, or was it all API time?\n Trying not to throw money at it blind."
+  },
+  {
+   "sub": "webdev",
+   "title": "Update: It's genuinely (not?) depressing",
+   "url": "https://www.reddit.com/r/webdev/comments/1xtom77/update_its_genuinely_not_depressing/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 4,
+   "relevance_concepts": [
+    "security",
+    "tech"
+   ],
+   "topic": "Security & Backups",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Update to this post https://www.reddit.com/r/webdev/s/n3ZBJ6ozuq \n So, I have a pretty unexpected update lol\n After everything that happened with the Canadian company I mentioned, I decided to take things a little further and contact the CEO directly.\n During my time working with them, I'd discovered some genuinely concerning security issues. I had been given admin access to their infrastructure, company email, internal systems, and access to thousands of CSV files containing customer and patient information. I also found passwords stored in plain text and several other questionable practices. All without having signed an NDA or contract by the way.\n I figured the CEO should know about this, regardless of how things had gone with the dashboard project.\n I sent him an email explaining what I'd found and also gave him some context about my experience working with the VP.\n The VP wasn't particularly happy about that. He responded by defending himself, saying there had been no formal commitment to the dashboard project, and even called contacting the CEO a \"backdoor approach\".\n I obviously disagreed. I was openly working with the company, the access had been provided to me by them, and I wasn't trying to bypass anyone. My concern was how someone outside the company could be given that level of access without any proper safeguards or agreements.\n Anyway, after a few more emails, something I really wasn't expecting happened.\n The VP emailed me again, apologized for how the situatio"
+  },
+  {
+   "sub": "webdev",
+   "title": "If you have a free tier on your product, how much do fake or multi-account signups actually cost you?",
+   "url": "https://www.reddit.com/r/webdev/comments/1xu1k5f/if_you_have_a_free_tier_on_your_product_how_much/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 3,
+   "relevance_concepts": [
+    "money"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I’m researching how small products handle people farming free credits/tiers. Not selling anything, no product, no link.\n Have you seen it? Roughly what share of signups, or how many dollars?\n What did you do about it (or nothing)?\n Just trying to understand how people deal with this issue while building."
+  },
+  {
+   "sub": "webdev",
+   "title": "Alternatives to AG-Grid?",
+   "url": "https://www.reddit.com/r/webdev/comments/1xtp3yj/alternatives_to_aggrid/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "switching"
+   ],
+   "topic": "Migration & Switching",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "We have a project at work that needed a table that had some functionality with sorting and filtering.\n Initially, I had to replace a solution due to how long a page was loading. AG-Grid correct an issue on that page and it did a better job. The community edition meets our needs very well.\n However, some department heads want more features but they are only supported on the Enterprise edition.\n I wish we could upgrade to the enterprise edition, but the verbiage makes it sound like anyone that does any kind of development on this application needs a license. We could be looking at a license of $10,000. \n I think my supervisors would gladly pay the $1,000 fee if was that. However, it doesn't look like that is possible.\n Is there something that is comparable to AG-Grid?\n Are there ways to interact with the community version of AG-Grid? If I wanted to put filters above the Grid that interact with the Grid, could I do that even if it is the community grid?"
+  },
+  {
+   "sub": "webdev",
+   "title": "Your JS Error Is Lying to You",
+   "url": "https://www.reddit.com/r/webdev/comments/1xua16u/your_js_error_is_lying_to_you/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "General",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "Started with a log line that said \"err\":{} for an error that definitely had a message and a cause. Followed that up to see what each step between new Error() and the log record actually keeps.\n Covers stack traces, cause chains, AggregateError and SuppressedError . It runs the same probe script in Node.js, Deno, Bun, Chrome, Firefox and WebKit. It also sends errors across Web Workers, worker_threads , child_process IPC and HTTP, and logs them with Pino and Winston."
+  },
+  {
+   "sub": "webdev",
+   "title": "Is AI actually that much faster than using a component library?",
+   "url": "https://www.reddit.com/r/webdev/comments/1xttt5o/is_ai_actually_that_much_faster_than_using_a/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Speed & Performance",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "If I have to explain the way the site should look to an AI instead of just importing, stitching together, and filling out shadcnblocks I‘m much slower. I still use AI for bug squashing and giving me api calls. But I am not seeing how to build a complete site.\n Am I using AI wrong? Or are others finding that building first then using AI to handle errors is faster?"
+  },
+  {
+   "sub": "webdev",
+   "title": "Claude Code + Astro + Headless WordPress for the only webbed in the company",
+   "url": "https://www.reddit.com/r/webdev/comments/1xud836/claude_code_astro_headless_wordpress_for_the_only/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 1,
+   "relevance_concepts": [
+    "platform"
+   ],
+   "topic": "WordPress & CMS",
+   "secondary_language": false,
+   "in_digest": false,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "A bit of context: I've been working with WordPress for nearly 14 years, mainly on small- to mid-sized websites.\n I currently work at an agency, where I'm the only web developer. This means that when I'm away and something happens, my coworkers either have to wait until I get back or ask a freelance developer for help.\n I usually build my own themes and templates using ACF, and I never use ready-made themes because I prefer to build things from scratch.\n Recently, I decided to change my workflow a bit. For one of our projects, I decided to go with Claude Code + Astro + Headless WordPress , with version control on GitHub.\n I chose WordPress because it's a platform my client is already familiar with.\n It's a mid-sized project, and the client will be updating the website constantly with news, job offers, events, etc.\n So far, the experience has been amazing. The website runs like a breeze, and development time was reduced from weeks to just a few days.\n Even better, my coworkers (who are all designers) can now use Claude to request changes and even add new ACF fields, and it's working surprisingly well.\n Do you think it was a bad decision to give my coworkers access to the codebase and let them use Claude Code to make changes, even though none of them have a development background?"
+  }
+ ]
+}
