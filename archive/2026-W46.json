@@ -1,0 +1,558 @@
+{
+ "week": "2026-W46",
+ "generated_utc": "2026-11-13T20:06:57.151182+00:00",
+ "days": [
+  "2026-11-09",
+  "2026-11-10",
+  "2026-11-11",
+  "2026-11-12",
+  "2026-11-13"
+ ],
+ "stats": {
+  "post_count": 125,
+  "by_sub": {
+   "webhosting": 19,
+   "de_EDV": 100,
+   "webdev": 6
+  },
+  "by_group": {
+   "hosting": 18,
+   "security": 20,
+   "tech": 14,
+   "platform": 8,
+   "competitor": 7,
+   "switching": 16,
+   "performance": 4,
+   "money": 9,
+   "support": 8
+  },
+  "language_count": 100,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "hosting (18 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Alternatives to FastComet?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xt31ab/alternatives_to_fastcomet/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Best managed VPS hosting?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xufw0i/best_managed_vps_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Hosting Prices",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xtakbl/hosting_prices/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (12 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Alternatives to FastComet?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xt31ab/alternatives_to_fastcomet/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Best managed VPS hosting?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xufw0i/best_managed_vps_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "GoDaddy says using my card to make an unauthorized purchase is not a security breach.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xtomba/godaddy_says_using_my_card_to_make_an/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (10 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Best managed VPS hosting?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xufw0i/best_managed_vps_hosting/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Created a website through NameCheap and CPanel, but after publishing, I got a message saying the Server IP address cannot be found? Has anyone run into this?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xscrv1/created_a_website_through_namecheap_and_cpanel/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "I asked how you find out a client site got hacked. Here's the checklist I put together from your answers",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xuldye/i_asked_how_you_find_out_a_client_site_got_hacked/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "security (9 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Alternatives to FastComet?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xt31ab/alternatives_to_fastcomet/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "I asked how you find out a client site got hacked. Here's the checklist I put together from your answers",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xuldye/i_asked_how_you_find_out_a_client_site_got_hacked/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "lightdrive servers down",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xsc8eg/lightdrive_servers_down/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "money (8 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Alternatives to FastComet?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xt31ab/alternatives_to_fastcomet/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Hosting Prices",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xtakbl/hosting_prices/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "GoDaddy says using my card to make an unauthorized purchase is not a security breach.",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xtomba/godaddy_says_using_my_card_to_make_an/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [
+  {
+   "title": "I broke the golden rule of tech and agreed to look at my German father-in-law’s 'slow Wi-Fi', please send help",
+   "why": "",
+   "posts": [
+    {
+     "title": "I broke the golden rule of tech and agreed to look at my German father-in-law’s 'slow Wi-Fi', please send help",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xrwcu0/i_broke_the_golden_rule_of_tech_and_agreed_to/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Ionos Webspace cloudflare waf",
+   "why": "",
+   "posts": [
+    {
+     "title": "Ionos Webspace cloudflare waf",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xq3jc8/ionos_webspace_cloudflare_waf/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Externes 24/7-SOC bzw. MDR: Welche Anbieter nutzt ihr und wie sind eure Erfahrungen?",
+   "why": "",
+   "posts": [
+    {
+     "title": "Externes 24/7-SOC bzw. MDR: Welche Anbieter nutzt ihr und wie sind eure Erfahrungen?",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xoi60n/externes_247soc_bzw_mdr_welche_anbieter_nutzt_ihr/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Überlege von NAS zu Nextcloud umsteigt",
+   "why": "",
+   "posts": [
+    {
+     "title": "Überlege von NAS zu Nextcloud umsteigt",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xnmi0s/überlege_von_nas_zu_nextcloud_umsteigt/",
+     "sub": "de_EDV"
+    }
+   ]
+  },
+  {
+   "title": "Ich bin ein leichter Fall, benötige aber trotzdem ein NAS…",
+   "why": "",
+   "posts": [
+    {
+     "title": "Ich bin ein leichter Fall, benötige aber trotzdem ein NAS…",
+     "url": "https://www.reddit.com/r/de_EDV/comments/1xni1uk/ich_bin_ein_leichter_fall_benötige_aber_trotzdem/",
+     "sub": "de_EDV"
+    }
+   ]
+  }
+ ],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Alternatives to FastComet?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xt31ab/alternatives_to_fastcomet/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "security",
+    "support",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Best managed VPS hosting?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xufw0i/best_managed_vps_hosting/",
+   "sub": "webhosting",
+   "relevance": 16,
+   "concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "Hosting Prices",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtakbl/hosting_prices/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "GoDaddy says using my card to make an unauthorized purchase is not a security breach.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtomba/godaddy_says_using_my_card_to_make_an/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "competitor",
+    "switching",
+    "money"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Looking for a free alternative to Render that doesn't spin down after 15 minutes of inactivity",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xu8p47/looking_for_a_free_alternative_to_render_that/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "support"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "Created a website through NameCheap and CPanel, but after publishing, I got a message saying the Server IP address cannot be found? Has anyone run into this?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xscrv1/created_a_website_through_namecheap_and_cpanel/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "competitor",
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 7,
+   "title": "I asked how you find out a client site got hacked. Here's the checklist I put together from your answers",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xuldye/i_asked_how_you_find_out_a_client_site_got_hacked/",
+   "sub": "webhosting",
+   "relevance": 10,
+   "concepts": [
+    "hosting",
+    "money",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 8,
+   "title": "Hosting reseller e avvio attività. Consigli?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xta6y3/hosting_reseller_e_avvio_attività_consigli/",
+   "sub": "webhosting",
+   "relevance": 9,
+   "concepts": [
+    "switching",
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 9,
+   "title": "lightdrive servers down",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xsc8eg/lightdrive_servers_down/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Hello folks. To-Be-Renegade Musician/Artist Seeking Flexible Hosting Options",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xt77v3/hello_folks_toberenegade_musicianartist_seeking/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Hosting client sites on your own VPS: who handles security, and how do you notice a hack?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xryax3/hosting_client_sites_on_your_own_vps_who_handles/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 12,
+   "title": "General sequence of operations",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xs6fml/general_sequence_of_operations/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 13,
+   "title": "The Aussie dollar keeps sliding and my hosting bill goes up every month, trying to find a different vendor, where are Australian devs hosting now?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtlz6h/the_aussie_dollar_keeps_sliding_and_my_hosting/",
+   "sub": "webhosting",
+   "relevance": 6,
+   "concepts": [
+    "hosting",
+    "money"
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Is this the future of web hosting?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xrnnvg/is_this_the_future_of_web_hosting/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "security"
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Reverse DNS (PTR)",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xse22k/reverse_dns_ptr/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Alternatives to AG-Grid?",
+   "url": "https://www.reddit.com/r/webdev/comments/1xtp3yj/alternatives_to_aggrid/",
+   "sub": "webdev",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 17,
+   "title": "Looking for Hosting Companies that offer MariaDB 12.3 and dedicated Valkey 9.1.3 Unix socket instance for a highly dynamic WordPress site.",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtycfh/looking_for_hosting_companies_that_offer_mariadb/",
+   "sub": "webhosting",
+   "relevance": 4,
+   "concepts": [
+    "hosting",
+    "platform"
+   ]
+  },
+  {
+   "id": 18,
+   "title": "Update: It's genuinely (not?) depressing",
+   "url": "https://www.reddit.com/r/webdev/comments/1xtom77/update_its_genuinely_not_depressing/",
+   "sub": "webdev",
+   "relevance": 4,
+   "concepts": [
+    "security",
+    "tech"
+   ]
+  },
+  {
+   "id": 19,
+   "title": "Best reliable file hosting with no account?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xu0aic/best_reliable_file_hosting_with_no_account/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 20,
+   "title": "OpenClaw on a 4 vCPU VPS takes 40 seconds per task, is it the box or the model API?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xtmrul/openclaw_on_a_4_vcpu_vps_takes_40_seconds_per/",
+   "sub": "webhosting",
+   "relevance": 3,
+   "concepts": [
+    "hosting"
+   ]
+  },
+  {
+   "id": 21,
+   "title": "If you have a free tier on your product, how much do fake or multi-account signups actually cost you?",
+   "url": "https://www.reddit.com/r/webdev/comments/1xu1k5f/if_you_have_a_free_tier_on_your_product_how_much/",
+   "sub": "webdev",
+   "relevance": 3,
+   "concepts": [
+    "money"
+   ]
+  },
+  {
+   "id": 22,
+   "title": "I broke the golden rule of tech and agreed to look at my German father-in-law’s 'slow Wi-Fi', please send help",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xrwcu0/i_broke_the_golden_rule_of_tech_and_agreed_to/",
+   "sub": "de_EDV",
+   "relevance": 11,
+   "concepts": [
+    "switching",
+    "performance",
+    "money"
+   ]
+  },
+  {
+   "id": 23,
+   "title": "Ionos Webspace cloudflare waf",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xq3jc8/ionos_webspace_cloudflare_waf/",
+   "sub": "de_EDV",
+   "relevance": 8,
+   "concepts": [
+    "competitor",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 24,
+   "title": "Externes 24/7-SOC bzw. MDR: Welche Anbieter nutzt ihr und wie sind eure Erfahrungen?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xoi60n/externes_247soc_bzw_mdr_welche_anbieter_nutzt_ihr/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "security",
+    "support"
+   ]
+  },
+  {
+   "id": 25,
+   "title": "Überlege von NAS zu Nextcloud umsteigt",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xnmi0s/überlege_von_nas_zu_nextcloud_umsteigt/",
+   "sub": "de_EDV",
+   "relevance": 7,
+   "concepts": [
+    "competitor",
+    "security"
+   ]
+  },
+  {
+   "id": 26,
+   "title": "Ich bin ein leichter Fall, benötige aber trotzdem ein NAS…",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xni1uk/ich_bin_ein_leichter_fall_benötige_aber_trotzdem/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 27,
+   "title": "Bitte erleuchtet mich mit den besten Headsets",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xsani2/bitte_erleuchtet_mich_mit_den_besten_headsets/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 28,
+   "title": "Glasfaservorbereitung?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xnx1ve/glasfaservorbereitung/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 29,
+   "title": "Kopfhörer mit Noise Canceling und Mikrofon Rauschunterdrückung",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xqdsom/kopfhörer_mit_noise_canceling_und_mikrofon/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 30,
+   "title": "Welchen Router für Glasfaser und wie ist der Wechsel von einem Anbieter auf einen anderen ?",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xnqwki/welchen_router_für_glasfaser_und_wie_ist_der/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "switching"
+   ]
+  },
+  {
+   "id": 31,
+   "title": "Probleme mit LAN Verbindung bei PS5",
+   "url": "https://www.reddit.com/r/de_EDV/comments/1xroozn/probleme_mit_lan_verbindung_bei_ps5/",
+   "sub": "de_EDV",
+   "relevance": 5,
+   "concepts": [
+    "performance",
+    "tech"
+   ]
+  }
+ ]
+}
