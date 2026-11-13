@@ -1,0 +1,104 @@
+{
+ "date": "2026-11-13",
+ "generated_utc": "2026-11-13T14:59:03.543001+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "3",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "0"
+ },
+ "post_count": 3,
+ "digest_count": 3,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Best managed VPS hosting?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xufw0i/best_managed_vps_hosting/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 100.0,
+   "relevance": 16,
+   "relevance_concepts": [
+    "competitor",
+    "switching",
+    "hosting",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi, we host around 20 wordpress sites with bluehost - it was previously split across two shared hosting accounts but everything kept crashing due to too many backend processes.\n they assured us an upgrade to managed vps would resolve it, but somehow their managed vps servers are even worse than the shared plan and our sites are crashing non stop (they do not receive a huge amount of traffic.)\n we are done with this absolutely horrendous company so can you please suggest a good managed vps host? one that will handle the cpanel migration and ideally provides two IPs.\n thanks in advance"
+  },
+  {
+   "sub": "webhosting",
+   "title": "SMTP2GO error 8 meaning",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xv6jc9/smtp2go_error_8_meaning/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "I was setting up smtp2go and when I tried creating my account it gave me error 8, what does it mean and what do I do I'm waiting for a response from them once outlook uncraps themselves (domain was bought around 4pm yesterday Brisbane time and it's a plain .com domain)"
+  },
+  {
+   "sub": "webhosting",
+   "title": "I asked how you find out a client site got hacked. Here's the checklist I put together from your answers",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xuldye/i_asked_how_you_find_out_a_client_site_got_hacked/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 10,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "security",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Over the last two weeks I asked in r/VPS and here how people notice when a client site or server gets compromised. Lots of good answers, so here's what I collected, mostly cheap checks that catch the common cases:\n 1. No PHP in uploads. The classic is a PHP dropper in wp-content/uploads sending spam. Block execution there (nginx: location ~* /wp-content/uploads/.*\\.php$ { deny all; } , Apache: <Files *.php> Require all denied </Files> in an .htaccess in uploads), and look for files that are already there: find /var/www -path '*/wp-content/uploads/*' -name '*.php' \n 2. Nightly checksums. wp core verify-checksums and wp plugin verify-checksums --all in a cron. Changed or new files show up the next morning instead of weeks later.\n 3. Watch the mail queue. A sudden big queue ( postqueue -p | tail -n1 ) is often the first sign, long before the client says their invoices land in spam.\n 4. Compare what Googlebot sees. curl -A \"Googlebot\" https://example.com vs. a normal request. Cloaked SEO spam only shows up for Google. Not perfect (some check Google's IPs), but cheap.\n 5. Check crons and processes after any alert. Look for curl/wget/base64 in crontabs and for processes running from /tmp. That's where most of the manual cleanup time goes.\n 6. Make sure updates actually run. unattended-upgrades can fail silently. Check the date of the last run in /var/log/unattended-upgrades/ .\n Full disclosure: I'm turning these checks into a small agent for my own client servers. It's read-only by"
+  }
+ ]
+}
