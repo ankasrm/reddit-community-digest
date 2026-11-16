@@ -1,0 +1,168 @@
+{
+ "date": "2026-11-16",
+ "generated_utc": "2026-11-16T16:35:38.776693+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "6",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 6,
+ "digest_count": 6,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "choosing a panel",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxl6n6/choosing_a_panel/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 5,
+   "relevance_concepts": [
+    "hosting",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "moving a few sites off shared hosting onto my own vps. only ever used cpanel there, so i have zero experience with any of the free ones. shortlist so far:\n hestiacp cloudpanel aapanel beadmin cyberpanel virtualmin\n read some bad stuff about cyberpanel security and i can't tell which of the rest are still maintained. if one of these has been on your server a while, how are updates and what annoyed you?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Recommendations for web hosting with udp",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxmoyb/recommendations_for_web_hosting_with_udp/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 7,
+   "relevance_concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Can you recommend web hosting for dynamic site, with python support and wuic/udp?\n All I have found is php, and only tcp. Renting full VM I don't wa\n My budget is 20$ per month \n I use custom python engine \n My users will generate maybe 200gb (i think it will be less)\n My users will be from Europe and Central Asia"
+  },
+  {
+   "sub": "webhosting",
+   "title": "How do you handle email hosting for clients?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxakfw/how_do_you_handle_email_hosting_for_clients/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "money",
+    "tech"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "Hi guys. I’m fairly new to freelance web development. I’ve only had one client so far, and while working with them I ran into something I hadn’t really thought about: email. Clients want a professional address on their own domain like [ info@theirbusiness.com ](mailto: info@theirbusiness.com ), instead of a Gmail address. I’d like to offer that as part of my service, but I’m struggling to find a setup that works for both me and the client.\n On my side, I want everything managed from one place. If I get more clients down the line, I don’t want to juggle a separate account, login and bill for each one. Ideally I’d have a single admin account where I can add each client’s domain, create their mailboxes, reset passwords and so on, while the clients never see any of the technical side.\n On the client’s side, it has to be really easy. The client currently uses Gmail, where you log into the app on your phone or the website on your laptop and it’s the same thing everywhere. That’s the experience I want for them. I don’t want to make them download and configure Outlook on their laptop, and I don’t want to send them to a dated-looking webmail page. Just an email and password, on a modern app and website.\n I’ve looked at Google Workspace , and it would solve most of this, but it’s expensive for what my clients need. They only want email, not Drive, Meet, Docs and everything else that comes bundled.\n So far I’ve tested Migadu on my own domain. Setting up the domain and mailbox was fine, "
+  },
+  {
+   "sub": "webhosting",
+   "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 21,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "WP Buzz got me thinking about how vague the term “managed WordPress” has become.\n Two hosts can both call themselves managed while offering completely different setups.\n If I were comparing providers now, I’d look at:\n What web server they actually use\n Whether object caching is included\n Storage type\n Staging\n Backups and restore process\n Resource limits\n Migration assistance\n Whether support understands WordPress beyond resetting passwords\n Price per month doesn’t mean much if you have to bolt half of those things on yourself."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Does Cloudflare send notification about forwarding my counter-notice?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxmgom/does_cloudflare_send_notification_about/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 1,
+   "relevance_concepts": [
+    "platform"
+   ],
+   "topic": "Industry & Business News",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "My website was blocked due to a DMCA report for copyright. I believe I did not use anyone else's material, so I submitted a counter-notice. Now I am waiting for Cloudflare's response. Do they send me any notification that the counter-notice has been forwarded to the complainant or does the 10-14 days period begin without me knowing? Does anyone have an experience with this?"
+  },
+  {
+   "sub": "webhosting",
+   "title": "Stablepoint price increases are crazy - need new UK host",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xx4jp5/stablepoint_price_increases_are_crazy_need_new_uk/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 13,
+   "relevance_concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support"
+   ],
+   "topic": "Pricing & Renewals",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "I’ve had enough of Stablepoint price increases now. Their latest price increase went from £7.99 to £14.39 (inc VAT) for their monthly billing starter tier. They’re refusing to refund my immediate request for cancellation & refund as well. \n The only feasible, cost-efficient pricing they have is for new customers at £4.18/pm (inc VAT) offer for the same tier (1 domain only) if you pay for 3 years upfront. Its ludicrous. \n The hosting package I have is for a tester/playground website with hardly any traffic, for which £14.39 is extortionate. \n Any suggestions for reliable, affordable UK hosting that scales sensibly and doesn’t lock you in with 3-year upfront fees?\n It’s really disappointing tbh, I’ve been with them since fixed.net days, they were super helpful and their customer service has now become canned responses."
+  }
+ ]
+}
