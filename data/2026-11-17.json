@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-17",
+ "generated_utc": "2026-11-17T16:33:30.497839+00:00",
+ "method": "rss",
+ "ranking": "feed-order (no metrics)",
+ "sources": [
+  {
+   "sub": "webhosting",
+   "timeframe": "day"
+  },
+  {
+   "sub": "Wordpress",
+   "timeframe": "day"
+  },
+  {
+   "sub": "webdev",
+   "timeframe": "day"
+  },
+  {
+   "sub": "smallbusiness",
+   "timeframe": "day"
+  },
+  {
+   "sub": "de_EDV",
+   "timeframe": "week"
+  },
+  {
+   "sub": "webentwicklung",
+   "timeframe": "week"
+  }
+ ],
+ "fetch_log": {
+  "webhosting": "2",
+  "Wordpress": "429",
+  "webdev": "429",
+  "smallbusiness": "429",
+  "de_EDV": "429",
+  "webentwicklung": "429"
+ },
+ "post_count": 2,
+ "digest_count": 2,
+ "secondary_language_count": 0,
+ "posts": [
+  {
+   "sub": "webhosting",
+   "title": "Here's a single Cloudflare Worker that replaces WordPress's WP-Cron for multiple websites, without requiring server access. Works regardless of web host, designed to work within Cloudflare's free tier, free & open-source",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xyg48t/heres_a_single_cloudflare_worker_that_replaces/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 50.0,
+   "relevance": 8,
+   "relevance_concepts": [
+    "hosting",
+    "security",
+    "tech",
+    "platform"
+   ],
+   "topic": "Choosing a Host",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": true,
+   "text": "A while ago, I made a small open-source script to solve something that has bothered me with WordPress for a long time: the default WP-Cron mechanism.\n As you might know, WP checks for scheduled tasks on page loads, which is not ideal for low-traffic sites, and it adds unnecessary work to regular requests.\n So, I built a Cloudflare Worker that handles this externally:\n Runs WP-Cron automatically every minute\n Supports multiple WordPress websites from one Worker in parallel\n Works regardless of hosting provider\n No server cron jobs, SSH access, or additional hosting infrastructure required\n Optional KV monitoring with a simple status dashboard and execution history\n Designed to run on Cloudflare's free tier\n It's MIT-licensed, and the complete setup instructions and source code are available on GitHub.\n Repository: https://github.com/Squarebow/Cloudflare-Worker-for-Wordpress-Cron \n It's something I built for my own sites, but figured other WordPress users might find it useful too. I updated it a few days ago when users requested that the dashboard should be protected with a key as well.\n I'd be interested in hearing how others handle external WP-Cron, especially if you're managing multiple sites."
+  },
+  {
+   "sub": "webhosting",
+   "title": "Reporting a fraudulent .us website",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xyaw05/reporting_a_fraudulent_us_website/",
+   "ups": 0,
+   "num_comments": 0,
+   "score": 0.0,
+   "relevance": 0,
+   "relevance_concepts": [],
+   "topic": "Domains & DNS",
+   "secondary_language": false,
+   "in_digest": true,
+   "in_language_block": false,
+   "in_marketing_block": false,
+   "text": "There is a .us domain that I know is fraudulent. It’s a scam and is registered to someone who does not exist. It posts fake terrible reviews about local businesses (mine included). I want to report this domain to the .us registry.\n My question is if anyone has done this. What should I expect? I have proof of all my claims. I don’t need to be anonymous but prefer to be since this person has gone out of his way to make my life miserable."
+  }
+ ]
+}
