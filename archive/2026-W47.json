@@ -1,0 +1,213 @@
+{
+ "week": "2026-W47",
+ "generated_utc": "2026-11-20T20:48:18.602308+00:00",
+ "days": [
+  "2026-11-16",
+  "2026-11-17"
+ ],
+ "stats": {
+  "post_count": 8,
+  "by_sub": {
+   "webhosting": 8
+  },
+  "by_group": {
+   "hosting": 6,
+   "tech": 5,
+   "support": 3,
+   "money": 3,
+   "switching": 2,
+   "performance": 1,
+   "security": 2,
+   "platform": 3
+  },
+  "language_count": 0,
+  "brand_mentions": 0
+ },
+ "source": "rules",
+ "overview": "Rule-based summary (no API key or API error): posts per relevance concept, no interpretation.",
+ "marketing": [
+  {
+   "title": "hosting (6 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Stablepoint price increases are crazy - need new UK host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx4jp5/stablepoint_price_increases_are_crazy_need_new_uk/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "How do you handle email hosting for clients?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xxakfw/how_do_you_handle_email_hosting_for_clients/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "tech (5 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "How do you handle email hosting for clients?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xxakfw/how_do_you_handle_email_hosting_for_clients/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Here's a single Cloudflare Worker that replaces WordPress's WP-Cron for multiple websites, without requiring server access. Works regardless of web host, designed to work within Cloudflare's free tier, free & open-source",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xyg48t/heres_a_single_cloudflare_worker_that_replaces/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "money (3 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Stablepoint price increases are crazy - need new UK host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx4jp5/stablepoint_price_increases_are_crazy_need_new_uk/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "How do you handle email hosting for clients?",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xxakfw/how_do_you_handle_email_hosting_for_clients/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "support (3 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Stablepoint price increases are crazy - need new UK host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx4jp5/stablepoint_price_increases_are_crazy_need_new_uk/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Recommendations for web hosting with udp",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xxmoyb/recommendations_for_web_hosting_with_udp/",
+     "sub": "webhosting"
+    }
+   ]
+  },
+  {
+   "title": "switching (2 posts)",
+   "why": "Most discussed posts in this concept.",
+   "posts": [
+    {
+     "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+     "sub": "webhosting"
+    },
+    {
+     "title": "Stablepoint price increases are crazy - need new UK host",
+     "url": "https://www.reddit.com/r/webhosting/comments/1xx4jp5/stablepoint_price_increases_are_crazy_need_new_uk/",
+     "sub": "webhosting"
+    }
+   ]
+  }
+ ],
+ "competitors": [],
+ "content_ideas": [],
+ "language_block": [],
+ "candidates": [
+  {
+   "id": 1,
+   "title": "Most “managed WordPress hosting” comparisons are looking at the wrong things",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xx5hl2/most_managed_wordpress_hosting_comparisons_are/",
+   "sub": "webhosting",
+   "relevance": 21,
+   "concepts": [
+    "switching",
+    "hosting",
+    "performance",
+    "money",
+    "security",
+    "support",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 2,
+   "title": "Stablepoint price increases are crazy - need new UK host",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xx4jp5/stablepoint_price_increases_are_crazy_need_new_uk/",
+   "sub": "webhosting",
+   "relevance": 13,
+   "concepts": [
+    "switching",
+    "hosting",
+    "money",
+    "support"
+   ]
+  },
+  {
+   "id": 3,
+   "title": "How do you handle email hosting for clients?",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxakfw/how_do_you_handle_email_hosting_for_clients/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "money",
+    "tech"
+   ]
+  },
+  {
+   "id": 4,
+   "title": "Here's a single Cloudflare Worker that replaces WordPress's WP-Cron for multiple websites, without requiring server access. Works regardless of web host, designed to work within Cloudflare's free tier, free & open-source",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xyg48t/heres_a_single_cloudflare_worker_that_replaces/",
+   "sub": "webhosting",
+   "relevance": 8,
+   "concepts": [
+    "hosting",
+    "security",
+    "tech",
+    "platform"
+   ]
+  },
+  {
+   "id": 5,
+   "title": "Recommendations for web hosting with udp",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxmoyb/recommendations_for_web_hosting_with_udp/",
+   "sub": "webhosting",
+   "relevance": 7,
+   "concepts": [
+    "hosting",
+    "support",
+    "tech"
+   ]
+  },
+  {
+   "id": 6,
+   "title": "choosing a panel",
+   "url": "https://www.reddit.com/r/webhosting/comments/1xxl6n6/choosing_a_panel/",
+   "sub": "webhosting",
+   "relevance": 5,
+   "concepts": [
+    "hosting",
+    "tech"
+   ]
+  }
+ ]
+}
